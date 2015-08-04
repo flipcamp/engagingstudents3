@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Engaging Students – Essays in Music Pedagogy, Volume 2
+title: Engaging Students – Essays in Music Pedagogy, Volume 3
 ---
-_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the second volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
+_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the third volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
+<!--
 This volume contains essays dealing with teaching philosophy ([Alegant]({{ site.baseurl }}/essays/alegant.html), [Graybill]({{ site.baseurl }}/essays/graybill.html), [Hausmann]({{ site.baseurl }}/essays/hausmann.html), [Kulma and Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), and [Stamatis]({{ site.baseurl }}/essays/stamatis.html)), practice ([Duker/Shaffer/Stevens]({{ site.baseurl }}/essays/dukerShafferStevens.html), [Johnson]({{ site.baseurl }}/essays/johnson.html), [Knyt]({{ site.baseurl }}/essays/knyt.html), [Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), [Rifkin]({{ site.baseurl }}/essays/rifkin.html), [Schubert]({{ site.baseurl }}/essays/schubert.html), and [Ziegel]({{ site.baseurl }}/essays/ziegel.html)), writing ([Bakker and Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), [Miyake]({{ site.baseurl }}/essays/miyake2.html), and [Strovas]({{ site.baseurl }}/essays/strovas.html)), assessment ([Bourne]({{ site.baseurl }}/essays/bourne.html) and [Moseley]({{ site.baseurl }}/essays/moseley.html)), and technology ([de Clercq]({{ site.baseurl }}/essays/declercq.html), [McCandless]({{ site.baseurl }}/essays/mccandless.html), [Miyake]({{ site.baseurl }}/essays/miyake1.html), and [Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html)) as they relate to music pedagogy. 
+-->
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
  
 
 ### Authors ###
 
+<!--
 [Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
 [Sara Bakker]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
 [Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
@@ -36,10 +39,11 @@ Jan Miyake ([1]({{ site.baseurl }}/essays/miyake1.html), [2]({{ site.baseurl }}/
 [Daniel Stevens]({{ site.baseurl }}/essays/stevens.html), University of Delaware  
 [Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
-
+-->
 
 ### Editorial Board ###
 
+<!--
 Sean Atkinson, Texas Christian University  
 Carla Colletti, Webster University  
 Philip Duker, University of Delaware, coordinator  
@@ -55,3 +59,4 @@ Meghan Naxer, University of Oregon
 Colin Roust, Roosevelt University  
 Kris Shaffer, University of Colorado–Boulder, coordinator  
 Daniel Stevens, University of Delaware
+-->
