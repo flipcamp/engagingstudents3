@@ -77,24 +77,17 @@ The result is a classroom of[ ](http://www.casenex.com/casenet/pages/readings/di
 
 Benefits to advanced students:
 
-- less time spent dealing with basic content
-
-- more active than passive learning
-
-- ability to move forward when ready
-
-- reward of time off when finished
-
+- less time spent dealing with basic content  
+- more active than passive learning  
+- ability to move forward when ready  
+- reward of time off when finished  
 - experience in tutoring for those who choose to do so
 
 Benefits to novices:
 
-- online video demonstrations and other resources can be viewed multiple times for clarity and understanding
-
-- teacher-student ratio continues to decrease as the semester continues
-
-- availability of peer-tutors
-
+- online video demonstrations and other resources can be viewed multiple times for clarity and understanding  
+- teacher-student ratio continues to decrease as the semester continues  
+- availability of peer-tutors  
 - ability to improve grade with multiple assessments
 
 **Conclusions**
@@ -105,4 +98,4 @@ In addressing the dilemma of student differences in learning styles and prepared
 
 
 
-This work is copyright ⓒ2015 Vicky V. Johnson and licensed under a[ ](http://creativecommons.org/licenses/by-sa/3.0/)[*Creative Commons Attribution-ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ2015 Vicky V. Johnson and licensed under a [*Creative Commons Attribution-ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
