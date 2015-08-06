@@ -242,3 +242,27 @@ Moore, Robin D. 2010. [*Music in the Hispanic Caribbean: Experiencing Music, Exp
 Omi, Michael, and Howard Winant. 1994. [*Racial Formation in the United States: From the 1960s to the 1990s.*](https://openlibrary.org/works/OL3417522W/Racial_formation_in_the_United_States) New York: Routledge.
 
 [*“Writing Objectives Using Bloom's Taxonomy.”*](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives) 2015. The Center for Teaching and Learning, The University of North Carolina at Charlotte. Accessed May 12, 2015.
+
+Barkley, Elizabeth F. 2010. [**Student Engagement Techniques: A Handbook for College Faculty**](https://openlibrary.org/works/OL5852684W/Student_engagement_techniques). San Francisco, CA: Jossey-Bass.
+
+Charron, Claude. 1978. [*“Toward Transcription and Analysis of Inuit Throat-Games: Micro-Structure.”*](http://www.jstor.org/stable/851489?seq=1#page_scan_tab_contents) *Ethnomusicology* 22, no. 2 (May): 245-59.
+
+Cornelius, Steven, and Mary Natvig. 2012. [**Music: A Social Experience**](https://openlibrary.org/works/OL16307922W/Music)*.* Upper Saddle River, NJ: Pearson.
+
+Diamond, Beverley. 2008.[ ](https://openlibrary.org/works/OL3083403W/Native_American_Music_in_Eastern_North_America)[**Native American Music in Eastern North America**](https://openlibrary.org/works/OL3083403W/Native_American_Music_in_Eastern_North_America). New York: Oxford University Press.
+
+Hall, Tom. 2009. [**Free Improvisation**](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf)[*: *](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf)[**A Practical Guide**](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf)[*.*](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf) Boston, MA: Bee Boy Press.
+
+Knyt, Erinn. 2014.[ *“Student Performance as Pedagogy in the Music History Survey Course.” *](http://flipcamp.org/engagingstudents2/essays/knyt.html)*Engaging Students: Essays in Music Pedagogy* 2.
+
+Michaelsen, Garrett. [*“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom*](http://flipcamp.org/engagingstudents2/essays/michaelsen.html)[**.**](http://flipcamp.org/engagingstudents2/essays/michaelsen.html)[*”*](http://flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
+Mulryan-Kyne, Catherine. 2010. [*“Teaching Large Classes At College and University Level: Challenges and Opportunities.”*](http://www.tandfonline.com/doi/abs/10.1080/13562511003620001#.Vabte0uTpq9) *Teaching in Higher Education* 15, no. 2 (April): 175-85.
+
+Overbaugh, Richard C., and Lynn Schultz.[ ](http://ww2.odu.edu/educ/roverbau/Bloom/blooms_taxonomy.htm)[*“Bloom’s Taxonomy.”*](http://ww2.odu.edu/educ/roverbau/Bloom/blooms_taxonomy.htm) Accessed July 19, 2014. [*http://ww2.odu.edu/educ/roverbau/Bloom/blooms\_taxonomy.htm*](http://ww2.odu.edu/educ/roverbau/Bloom/blooms_taxonomy.htm).
+
+Small, Christopher. 1998. [**Musicking: The Meanings of Performing and Listening**](http://www.upne.com/0819522562.html). Hanover: University Press of New England.
+
+Smith, C. Veronica, and Cardaciotto, LeeAnn. 2011. [*“Is Active Learning like Broccoli? Student Perceptions of Active Learning in Large Lecture Classes.*](http://josotl.indiana.edu/article/view/1808)” *Journal of the Scholarship of Teaching and Learning* 11, no. 1 (January): 53-61.
+
+Sousa, David A. 2006. [**How the Brain Learns**](https://openlibrary.org/books/OL3413635M/How_the_brain_learns), 3rd ed. Thousand Oaks, CA: Corwin Press.
