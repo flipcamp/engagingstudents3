@@ -188,3 +188,25 @@ Saxe, G. B. 1988. “[*Candy selling and math learning*](http://edr.sagepub.com/
 Stephan-Robinson, Anna. 2014. “[*Enhanced Podcasts as a Tool for the Academic Music*](http://flipcamp.org/engagingstudents2/essays/stephanRobinson.html)
 
 > [*Classroom*](http://flipcamp.org/engagingstudents2/essays/stephanRobinson.html).” *Engaging Students: Essays in Music Pedagogy, vol. 2*. Accessed June 1, 2015.
+
+Adams, Ricci. "[*Musictheory.net*](http://www.musictheory.net/)." Accessed June 5, 2015.
+
+Alvira, José Rodríguez. "[*Teoria: Music Theory Web*](https://www.teoria.com/)." Accessed June 5, 2015.
+
+"[*Easy Scheduling | Doodle*](http://doodle.com/)." Accessed June 5, 2015.
+
+Falchikov, Nancy. 2001. [*Learning Together: Peer Tutoring in Higher Education*](https://openlibrary.org/works/OL9155746W/Learning_Together)[.](https://openlibrary.org/works/OL9155746W/Learning_Together) London: RoutledgeFalmer.
+
+Goodlad, Sinclair. 1998. [*Mentoring and Tutoring by Students*](https://openlibrary.org/works/OL9232845W/Mentoring_and_Tutoring_by_Students)[.](https://openlibrary.org/works/OL9232845W/Mentoring_and_Tutoring_by_Students) London: Kogan Page.
+
+"[*Music Learning, Research and Technology Lab*](http://music.appstate.edu/current-students/lab)." Hayes School of Music. Accessed June 6, 2015.
+
+"[*Research Spotlight on Peer Tutoring*](https://www.nea.org/tools/35542.htm)." National Education Association. Accessed June 12, 2015.
+
+Snodgrass, Jennifer. 2013. “[*Undergraduate Learning and Teaching ‘In The Trenches’: The Development of a Peer Run Music Tutoring Center*](http://jmtp.ou.edu/ejournal/undergraduate-learning-and-teaching-%E2%80%9C-trenches%E2%80%9D-development-peer-run-music-tutoring-cente-0).” *Music Theory Pedagogy Online* 1. Accessed June 6, 2015.
+
+"[*Tutors and Labs*](https://www.math.gatech.edu/academics/undergraduate/tutors-and-labs).” Georgia Institute of Technology. Accessed June 6, 2015.
+
+Whitman, Neal. 1988. [**Peer Teaching: To Teach is to Learn Twice**](http://eric.ed.gov/?id=ED305016)[*.*](http://eric.ed.gov/?id=ED305016) College Station, Tex: Association for the Study of Higher Education.
+
+"[*Working in the Center*](http://www.cas.udel.edu/writing-center/Pages/Peer-Tutors.aspx)." UD College of Arts & Sciences: Peer Tutors. Accessed June 6, 2015.
