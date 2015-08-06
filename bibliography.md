@@ -266,3 +266,31 @@ Small, Christopher. 1998. [**Musicking: The Meanings of Performing and Listening
 Smith, C. Veronica, and Cardaciotto, LeeAnn. 2011. [*“Is Active Learning like Broccoli? Student Perceptions of Active Learning in Large Lecture Classes.*](http://josotl.indiana.edu/article/view/1808)” *Journal of the Scholarship of Teaching and Learning* 11, no. 1 (January): 53-61.
 
 Sousa, David A. 2006. [**How the Brain Learns**](https://openlibrary.org/books/OL3413635M/How_the_brain_learns), 3rd ed. Thousand Oaks, CA: Corwin Press.
+
+Clarkson, Kelly. “[*Already Gone*](https://www.youtube.com/watch?v=f0T3WAbU6tg).” YouTube. Accessed July 14, 2015.
+
+Cyrus, Miley. “[*Wrecking Ball*](https://www.youtube.com/watch?v=My2FRPA3Gf8).” YouTube. Accessed July 21, 2015.
+
+Duker, Philip. 2013. “[*Capturing Thinking in Time — Using ‘Clickers’ to Measure Student Understanding.*](http://flipcamp.org/engagingstudents/duker.html)” *Engaging Students: Essays in Music Pedagogy*. Accessed July 2, 2015.
+
+Huron, David. 2006.[ ](https://openlibrary.org/books/OL3429220M/Sweet_anticipation)[*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/books/OL3429220M/Sweet_anticipation). Cambridge, Massachusetts: MIT Press.
+
+Jones, Evan, Matthew Shaftel, with Juan Chattah. 2013. [**Aural Skills in Context**](https://global.oup.com/academic/product/aural-skills-in-context-9780199943821?cc=us&lang=en&). Oxford: Oxford University Press.
+
+Karpinski, Gary. 2000. [**Aural Skills Acquisition**](https://global.oup.com/academic/product/aural-skills-acquisition-9780195117851?cc=us&lang=en&). New York: Oxford University Press.
+
+Marcozzi, Rudy. 2009. [**Strategies and Patterns for Ear Training**](https://openlibrary.org/books/OL10083743M/Strategies_and_Patterns_for_Ear_Training). Upper Saddle River, New Jersey: Pearson Prentice Hall.
+
+Phillips, Joel, Paul Murphy, Elizabeth West Marvin, and Jane Piper Clendinning. 2011. [**The Musician’s Guide to Aural Skills**](http://books.wwnorton.com/books/webad.aspx?id=20354). 2nd edition. New York: W.W. Norton.
+
+Rahn, Jay and James R. McKay. “The Guide-Tone Method: An Approach to Harmonic Dictation.” *Journal of Music Theory Pedagogy* 2 no. 1: 101-11.
+
+Rogers, Michael. 2004. [*Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies*](https://openlibrary.org/books/OL3471054M/Teaching_approaches_in_music_theory). Carbondale, Illinois: Southern Illinois University Press.
+
+Stevens, Daniel B. 2013. “[*Symphonic Hearing: Listening as Active Participation.*](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit)” Paper presented at the annual meeting of Music Theory Midwest, Norman, Oklahoma, April 26
+
+–27.
+
+The Axis of Awesome. “[*4 Chords*](https://www.youtube.com/watch?v=oOlDewpCfZQ).” YouTube.[ ](https://www.youtube.com/watch?v=oOlDewpCfZQ)Accessed June 5, 2015.
+
+Wikipedia. [*List of Songs Containing the I–V–vi–IV Progression*](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression). Accessed June 10, 2015.

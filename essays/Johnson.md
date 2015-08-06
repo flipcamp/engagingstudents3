@@ -90,7 +90,7 @@ Benefits to novices:
 - availability of peer tutors  
 - ability to improve grade with multiple assessments
 
-**Conclusions**
+## Conclusions
 
 Competency-based learning is most often associated with online courses and distance education. I submit that the benefits of competency-based learning can be incorporated into the classroom setting, adding the benefits of flexible time and multiple assessment opportunities without removing the classroom structure that some students need. Peer tutoring and a bit of gaming flavor just add muscle to the hybrid form.
 
