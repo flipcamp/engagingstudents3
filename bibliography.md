@@ -226,3 +226,19 @@ Morrison, Charles D. 2009. “[*Music Listening as Music Making*](http://muse.jh
 Ryan, Mary-Laure. 2004. “Multivariant Narratives” in [**A Companion to Digital Humanities**](https://openlibrary.org/works/OL16969054W/A_companion_to_digital_humanities), ed. Susan Schreibman, Ray Siemens, and John Unsworth. Malden, MA: Blackwell.
 
 Sutton-Smith, Brian. 1997. [**The Ambiguity of Play**](https://openlibrary.org/works/OL2680168W/The_ambiguity_of_play). Cambridge, MA: Harvard University Press.
+
+Brackett, David. 2014. [*The Pop, Rock, and Soul Reader: Histories and Debates, Third Edition.*](https://openlibrary.org/works/OL3521227W/The_Pop_Rock_and_Soul_Reader) New York: Oxford University Press.
+
+Colletti, Carla R. 2013. [*“The Silent Professor: Enhancing Student Engagement through the Conceptual Workshop.”*](http://flipcamp.org/engagingstudents/colletti.html) In Engaging Students: Essays in Music Pedagogy, Vol. 1. Accessed July 16, 2015.
+
+Finkel, Donald L. 2000. [*Teaching with Your Mouth Shut.*](https://openlibrary.org/works/OL3493342W/Teaching_with_Your_Mouth_Shut) Portsmouth, NH: Boynton/Cook Publishers.
+
+Gilroy, Paul. 1993. [*The Black Atlantic: Modernity and Double Consciousness.*](https://openlibrary.org/works/OL3920181W/The_black_Atlantic) Cambridge: Harvard University Press.
+
+McGranahan, Carole. 2014.[*“What is Ethnography? Teaching Ethnographic Sensibilities without Fieldwork.”*](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) Teaching Anthropology 4:23-36.
+
+Moore, Robin D. 2010. [*Music in the Hispanic Caribbean: Experiencing Music, Expressing Culture.*](https://openlibrary.org/works/OL2678433W/Music_in_the_Hispanic_Caribbean) New York: Oxford University Press.
+
+Omi, Michael, and Howard Winant. 1994. [*Racial Formation in the United States: From the 1960s to the 1990s.*](https://openlibrary.org/works/OL3417522W/Racial_formation_in_the_United_States) New York: Routledge.
+
+[*“Writing Objectives Using Bloom's Taxonomy.”*](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives) 2015. The Center for Teaching and Learning, The University of North Carolina at Charlotte. Accessed May 12, 2015.
