@@ -210,3 +210,19 @@ Snodgrass, Jennifer. 2013. “[*Undergraduate Learning and Teaching ‘In The Tr
 Whitman, Neal. 1988. [**Peer Teaching: To Teach is to Learn Twice**](http://eric.ed.gov/?id=ED305016)[*.*](http://eric.ed.gov/?id=ED305016) College Station, Tex: Association for the Study of Higher Education.
 
 "[*Working in the Center*](http://www.cas.udel.edu/writing-center/Pages/Peer-Tutors.aspx)." UD College of Arts & Sciences: Peer Tutors. Accessed June 6, 2015.
+
+Anderson, Myrdene. 1998. “Folklore, Folklife and other bootstrapping traditions,” in Roberta Kevelson, [**High-Fives: A Trip to Semiotics**](https://books.google.com.au/books/about/Hi_fives.html?id=aibXAAAAMAAJ). New York: Peter Lang.
+
+Bruner, Jerome. 1990. [**Acts of Meaning**](https://openlibrary.org/works/OL2976729W/Acts_of_meaning)*.* Cambridge, MA: Harvard University Press.
+
+Elliott, David. 1995. [**Music Matters: A Philosophy of Music Education**](http://www.davidelliottmusic.com/music-matters/)*.* Oxford: Oxford University Press.
+
+Graybill, Roger. 2014. [*“Thinking ‘in’ and ‘about’ Music: Implications for the Theory Curriculum,”*](http://flipcamp.org/engagingstudents2/essays/graybill.html) *Engaging Students: Essays in Music Pedagogy, vol. 2*.
+
+Maiello, James Vincent. 2013. “[*Toward an Extension of Regelski’s Praxial Philosophy of Music Education into Music History Pedagogy*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/85/127),” *Journal of Music History Pedagogy* 4/1: 71-108.
+
+Morrison, Charles D. 2009. “[*Music Listening as Music Making*](http://muse.jhu.edu/journals/jae/summary/v043/43.1.morrison.html),” *The Journal of Aesthetic Education* 43/1: 77-91.
+
+Ryan, Mary-Laure. 2004. “Multivariant Narratives” in [**A Companion to Digital Humanities**](https://openlibrary.org/works/OL16969054W/A_companion_to_digital_humanities), ed. Susan Schreibman, Ray Siemens, and John Unsworth. Malden, MA: Blackwell.
+
+Sutton-Smith, Brian. 1997. [**The Ambiguity of Play**](https://openlibrary.org/works/OL2680168W/The_ambiguity_of_play). Cambridge, MA: Harvard University Press.
