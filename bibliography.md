@@ -71,3 +71,70 @@ Whitman, Neal A. 1988.[ ](http://eric.ed.gov/?id=ED305016)[*Peer teaching: To te
 Washington, DC: Office of Educational Research and Improvement.
 
 Wu, Michael. 2012. "[*Gamification 101: The Psychology of Motivation*](https://community.lithium.com/t5/Science-of-Social-blog/Gamification-101-The-Psychology-of-Motivation/ba-p/21864)." *Science of Social*, July 2.
+
+Alegant, Brian. 2014. [*“On ‘scuba diving,’ or the Advantages of a less-is-more approach.”*](http://flipcamp.org/engagingstudents2/essays/alegant.html) Engaging Students 2.
+
+Bali, Maha. 2014. [*“Critical Pedagogy: Intentions and Realities.”*](http://www.hybridpedagogy.com/journal/critical-pedagogy-intentions-realities/) Hybrid Pedagogy, September 9 2014.
+
+Burnham, Scott G. 2006. “Form.” In [**The Cambridge History of Western Music Theory**](https://openlibrary.org/books/OL7752044M/The_Cambridge_History_of_Western_Music_Theory_(The_Cambridge_History_of_Music))[*.*](https://openlibrary.org/books/OL7752044M/The_Cambridge_History_of_Western_Music_Theory_(The_Cambridge_History_of_Music)) Edited by Thomas Christensen, 880-906. Cambridge;New York: Cambridge University Press.
+
+Burstein, L. Poundie. 2013. [*“Music Theory Pedagogy in the iPhone Generation.”*](http://flipcamp.org/engagingstudents/burstein.html) Engaging Students 1.
+
+Campbell, Patricia Shehan, David Myers, and Ed Sarath. 2014. [*Transforming Music Study from its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors.*](http://www.music.org/index.php?option=com_content&view=article&id=1859) College Music Society Report of the Task Force on the Undergraduate Music Major.
+
+Chattah, Juan. 2015. [**A Paradigm Shift in Undergraduate Music Theory Pedagogy**](https://youtu.be/3PKGLArQYcs)[*.*](https://youtu.be/3PKGLArQYcs) College Music Symposium. Accessed July 21, 2015.
+
+Cook, Nicholas. 2000. [*Music: A Very Short Introduction.*](https://openlibrary.org/books/OL7384534M/Music) Oxford; New York: Oxford University Press.
+
+———. 2006. “Epistemologies of Music Theory.” In [**The Cambridge History of Western Music Theory**](https://openlibrary.org/books/OL7752044M/The_Cambridge_History_of_Western_Music_Theory_(The_Cambridge_History_of_Music))[*.*](https://openlibrary.org/books/OL7752044M/The_Cambridge_History_of_Western_Music_Theory_(The_Cambridge_History_of_Music)) Edited by Thomas Christensen, 78-105. Cambridge;New York: Cambridge University Press.
+
+Covach, John. 1997. “We Won’t Get Fooled Again: Rock Music and Musical Analysis.” In [**Keeping Score: Music, Disciplinarity, Culture**](https://openlibrary.org/books/OL25716058M/Keeping_Score_Music_Disciplinarity_Culture)[*,*](https://openlibrary.org/books/OL25716058M/Keeping_Score_Music_Disciplinarity_Culture) edited by David Schwarz, Anahid Kassabian, and Lawrence Siegel. Knowledge, Disciplinarity and Beyond. Charlottesville: University Press of Virginia.
+
+Croft, John. 2010. [*“The Spectral Legacy.”*](http://dx.doi.org/10.1080/02690401003620730) *Journal of the Royal Musical Association* 135 (1): 191–97.
+
+Engebretsen, Nora A, and Per F Broman. 2007. [*“Transformational Theory in the Undergraduate Curriculum: A Case for Teaching the Neo-Riemannian Approach.”*](http://jmtp.ou.edu/journal-article/transformational-theory-undergraduate-curriculum-case-teaching-neo-riemannian) *Journal of Music Theory Pedagogy* 21: 39–69.
+
+Garcia, Luis-Manuel. 2005. [*“On and On: Repetition as Process and Pleasure in Electronic Dance Music.”*](http://www.mtosmt.org/issues/mto.05.11.4/mto.05.11.4.garcia.html) *Music Theory Online* 11 (4).
+
+Goehr, Lydia. 2007. [**The Imaginary Museum of Musical Works : An Essay in the Philosophy of Music**](https://openlibrary.org/books/OL10135144M/The_Imaginary_Museum_of_Musical_Works)[*.*](https://openlibrary.org/books/OL10135144M/The_Imaginary_Museum_of_Musical_Works) Oxford: Oxford University Press.
+
+Hein, Ethan. 2014. [*“How Can Traditional Music Theory Mesh With Modern Pop Music?”*](http://www.slate.com/blogs/quora/2014/02/17/teaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html) *Slate*, February 17. Accessed June 15, 2015.
+
+hooks, bell. 1994. [*Teaching to Transgress: Education As The Practice of Freedom.*](https://openlibrary.org/books/OL25685482M/Teaching_To_Transgress) New York: Routledge.
+
+Huron, David. 2007. [**Sweet Anticipation: Music and The Psychology of Expectation**](https://openlibrary.org/books/OL10238232M/Sweet_Anticipation)[*.*](https://openlibrary.org/books/OL10238232M/Sweet_Anticipation) Cambridge, Mass.: MIT Press.
+
+Johnson, Roger. 2009. “Critically Reflective Musicianship.” In [**Music Education For Changing Times: Guiding Visions For Practice**](https://openlibrary.org/works/OL16950546W/Music_education_for_changing_times)*,* edited by Thomas A.Regelski, and J. Terry Gates, 17-26. Dortrecht; New York: Springer.
+
+Kulma, David, and Meghan Naxer. 2014. [*“Beyond Part Writing: Modernizing the Curriculum.”*](http://flipcamp.org/engagingstudents2/essays/kulmaNaxer.html) Engaging Students 2.
+
+Larson, Steve. 2012. [*“Expressive Meaning and Musical Structure.”*](http://www.mtosmt.org/issues/mto.12.18.3/mto.12.18.3.larson.html) *Music Theory Online* 18 (3).
+
+Lehman, Frank. 2013a. [*“Transformational Analysis and the Representation of Genius in Film Music.”*](http://mts.oxfordjournals.org/content/35/1/1) *Music Theory Spectrum* 35 (1): 1–22.
+
+———. 2013b. [*“Hollywood Cadences: Music and the Structure of Cinematic Expectation.”*](http://www.mtosmt.org/issues/mto.13.19.4/mto.13.19.4.lehman.html) *Music Theory Online* 19 (4).
+
+Margulis, Elizabeth Hellmuth. 2014. [**On Repeat: How Music Plays the Mind**](https://openlibrary.org/books/OL25711681M/On_Repeat_How_Music_Plays_the_Mind)[*.*](https://openlibrary.org/books/OL25711681M/On_Repeat_How_Music_Plays_the_Mind) New York, NY: Oxford University Press.
+
+McClary, Susan. 2004. “Rap, Minimalism, and Structures of Time in Late Twentieth-Century Culture.” In [**Audio Culture: Readings in Modern Music**](https://openlibrary.org/books/OL25746647M/Audio_Culture_Readings_in_Modern_Music)[*,*](https://openlibrary.org/books/OL25746647M/Audio_Culture_Readings_in_Modern_Music) edited by Christoph Cox and Daniel Warner. New York: Continuum.
+
+Meyer, Leonard B. 1984. [*“Music and Ideology in the Nineteenth Century.”*](http://tannerlectures.utah.edu/_documents/a-to-z/m/meyer85.pdf) The Tanner Lectures on Human Values.
+
+Monelle, Raymond. 2000. [**The Sense of Music: Semiotic Essays**](https://openlibrary.org/books/OL7757386M/The_Sense_of_Music)[*.*](https://openlibrary.org/books/OL7757386M/The_Sense_of_Music) Princeton, N.J.: Princeton University Press.
+
+———. 2006. [**The Musical Topic: Hunt, Military and Pastoral**](https://openlibrary.org/works/OL4109640W/The_Musical_Topic)[*.*](https://openlibrary.org/works/OL4109640W/The_Musical_Topic) Musical Meaning and Interpretation. Bloomington: Indiana University Press.
+
+Murphy, Scott. 2015. “Transformational Theory and The Analysis of Film Music.” In [**The Oxford Handbook of Film Music Studies**](https://openlibrary.org/books/OL25716055M/The_Oxford_Handbook_of_Film_Music_Studies)[*,*](https://openlibrary.org/books/OL25716055M/The_Oxford_Handbook_of_Film_Music_Studies) edited by David Neumeyer. Oxford: Oxford University Press.
+
+Palisca, Claude V., and Ian D. Bent. [*“Theory, Theorists.”*](http://www.oxfordmusiconline.com/subscriber/article/grove/music/44944) *Grove Music Online. Oxford Music Online.* Accessed June 5, 2015.
+
+Pike, Pamela. 2015. [*“The Ninth Semester: Preparing Undergraduates to Function as Professional Musicians in the 21st Century.”*](http://symposium.music.org/index.php?option=com_k2&view=item&id=10852:the-ninth-semester-preparing-undergraduates-to-function-as-professional-musicians-in-the-21st-century&Itemid=124) *The College Music Symposium* 55 (June).
+
+Rehding, Alexander. 2003. [**Hugo Riemann and The Birth of Modern Musical Thought**](https://openlibrary.org/works/OL13607782W/HUGO_RIEMANN_AND_THE_BIRTH_OF_MODERN_MUSICAL_THOUGHT)[*.*](https://openlibrary.org/works/OL13607782W/HUGO_RIEMANN_AND_THE_BIRTH_OF_MODERN_MUSICAL_THOUGHT) New Perspectives in Music History and Criticism. Cambridge ; New York: Cambridge University Press.\
+Russell, Bertrand. 2009. [*The Basic Writings of Bertrand Russell.*](https://openlibrary.org/books/OL22696754M/The_basic_writings_of_Bertrand_Russell) New York: Routledge.
+
+Seabrook, John. 2001. [**Nobrow: The Culture of Marketing, the Marketing of Culture**](https://openlibrary.org/books/OL3963777M/Nobrow)[*.*](https://openlibrary.org/books/OL3963777M/Nobrow) New York: Vintage.
+
+Shepherd, John. 1994. [*“Music, Culture and Interdisciplinarity: Reflections on Relationships.”*](http://www.jstor.org/stable/853206) Popular Music 13 (2): 127–41.
+
+Snyder, Bob. 2000. [**Music and Memory: An Introduction**](https://openlibrary.org/books/OL9525663M/Music_and_Memory)[*.*](https://openlibrary.org/books/OL9525663M/Music_and_Memory) Cambridge, Mass: MIT Press.
