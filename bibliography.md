@@ -138,3 +138,53 @@ Seabrook, John. 2001. [**Nobrow: The Culture of Marketing, the Marketing of Cult
 Shepherd, John. 1994. [*“Music, Culture and Interdisciplinarity: Reflections on Relationships.”*](http://www.jstor.org/stable/853206) Popular Music 13 (2): 127–41.
 
 Snyder, Bob. 2000. [**Music and Memory: An Introduction**](https://openlibrary.org/books/OL9525663M/Music_and_Memory)[*.*](https://openlibrary.org/books/OL9525663M/Music_and_Memory) Cambridge, Mass: MIT Press.
+
+Alegant, Brian. 2008. “[*Listen Up! Thoughts on iPods, Sonata Form, and Analysis Without the*](http://jmtp.ou.edu/journal-article/listen-thought-ipods-sonata-form-and-analysis-without-score)
+
+[ *Score*](http://jmtp.ou.edu/journal-article/listen-thought-ipods-sonata-form-and-analysis-without-score).” *Journal of Music Theory Pedagogy* 22: 149–76.
+
+Clendenning, Jane Piper and Marvin, Elizabeth West. 2011.[ ](http://books.wwnorton.com/books/webad.aspx?id=23023)[**A Musician’s Guide to Theory and**](http://books.wwnorton.com/books/webad.aspx?id=23023)
+
+[ ](http://books.wwnorton.com/books/webad.aspx?id=23023)[**Analysis**](http://books.wwnorton.com/books/webad.aspx?id=23023). New York: W.W. Norton and Company.
+
+Gosden, Stephen. 2013. “[*The ‘Technology Tools’ Session at FlipCamp Music Theory*](http://flipcamp.org/engagingstudents/gosden.html).”
+
+*Engaging Students: Essays in Music Pedagogy*. Accessed June 1, 2015.
+
+Hills, Thomas T. 2015. “[*Crowdsourcing Content Creation in the Classroom*](http://link.springer.com/journal/12528/27/1/page/1).” Journal of
+
+Computing in Higher Education 27, no. 1: 47–67.
+
+\_\_\_\_\_\_\_\_\_\_. 2015. “[*The Future of Crowdsourcing in the Classroom*](https://www.psychologytoday.com/blog/statistical-life/201504/the-future-crowdsourcing-in-the-classroom).” Statistical Life, April 29.
+
+Accessed June 1, 2015.
+
+Kerstetter, Kathleen. 2011. “Pod-Logic: A Guide to Getting the Most out of Your iPod in the
+
+> Music Classroom.” In[ ](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[**Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from **](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[*American Idol*](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[ **to YouTube**](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false), edited by Nicole Biamonte. Lanham, MD: Scarecrow Press, Inc. 19–28.
+
+MacLachlan, Heather. 2011. “Teaching Traditional Music Theory with Popular Songs: Pitch
+
+> Structures.”[ ](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[*In *](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[**Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from **](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[*American Idol*](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false)[ **to YouTube**](https://books.google.com/books?id=cdF5Ud9H9IgC&printsec=frontcover&dq=isbn:146167056X&hl=en&sa=X&ved=0CB4Q6AEwAGoVChMIlJyB_rKKxgIVRnySCh3pEwBN#v=onepage&q&f=false), edited by Nicole Biamonte. Lanham, MD: Scarecrow Press, Inc. 73–94.
+
+Moseley, Brian. 2012. “[*Using Spotify in the Aural Skills Classroom*](http://briancmoseley.com/using-spotify-in-the-aural-skills-classroom/).” Personal Blog, October 8.
+
+Accessed June 1, 2015.
+
+\_\_\_\_\_\_\_\_\_\_. 2013. “[*Using Criterion-Referenced Assessment to Encourage Active Analytical *](http://flipcamp.org/engagingstudents2/essays/moseley.html)
+
+> [*Listening*](http://flipcamp.org/engagingstudents2/essays/moseley.html).” *Engaging Students: Essays in Music Pedagogy, vol. 2.* Accessed June 1, 2015.
+
+Peebles, Crystal. 2013. “[*Using Audacity to Participate in Active Music Listening*](http://flipcamp.org/engagingstudents/peebles.html).”
+
+*Engaging Students: Essays in Music Pedagogy*. Accessed June 1, 2015.
+
+Quaglia, Bruce W. 2015. “[*Planning for Student Variability: Universal Design for Learning in the*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.quaglia.html)
+
+> [*Music Theory Classroom and Curriculum*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.quaglia.html).” *Music Theory Online* 21, no. 1. Accessed June 1, 2015.
+
+Saxe, G. B. 1988. “[*Candy selling and math learning*](http://edr.sagepub.com/content/17/6.toc).” *Educational Researcher* 17, no. 6: 14-21.
+
+Stephan-Robinson, Anna. 2014. “[*Enhanced Podcasts as a Tool for the Academic Music*](http://flipcamp.org/engagingstudents2/essays/stephanRobinson.html)
+
+> [*Classroom*](http://flipcamp.org/engagingstudents2/essays/stephanRobinson.html).” *Engaging Students: Essays in Music Pedagogy, vol. 2*. Accessed June 1, 2015.
