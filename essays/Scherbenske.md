@@ -14,8 +14,7 @@ When I was first assigned to teach a weekly three-hour undergraduate course, I t
 
 In this article, I offer two variations of a student-centered learning activity that I use in world and popular music courses, drawing on examples from my experience teaching at a variety of universities (public teaching, private research, private teaching) located in the northeastern United States. They are guided by my experience as a student, a teacher, and an ethnographer—positions in which social interactions and dialogue created meaningful and memorable learning experiences. In tandem, they draw on [Carole McGranahan’s](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) call to cultivate “an ethnographic sensibility...as the lived expectations, complexities, contradictions, possibilities, and ground of any given cultural group” (2015:23). While McGranahan’s project takes place over the course of an entire semester, I invite students to engage with a variety of personal and political investments and to access an affective register in the course of a single class. These activities guide students from the known to the unknown through personal, interpersonal, and intercultural engagement and reflection. Ultimately, they offer in-class entry to ethnographic sensibilities and promote critical thinking and negotiation of difference. ​
 
-Teaching Sociocultural Concepts through Student-led Engagement
-================
+## Teaching Sociocultural Concepts through Student-led Engagement
 
 A necessary step for students to comprehend, and later, internalize and synthesize sociocultural constructions (such as race and gender) is the development of a vocabulary for discussing and writing about such concepts. When I first began teaching “Introduction to World Music,” I addressed issues by assigning a reading and subsequently lecturing to students on the relevant terms, providing succinct definitions and examples. Often, this tack was met by facial expressions that seemed to signify a mixture of confusion, boredom, and frustration. Though I suspect that these reactions were at least in part guided by an expectation that music courses should be exclusively about “the music,” they nonetheless gave me pause to design new methods. I offer the following group activities from my “Introduction to World Music” and “History of Rock” courses as one approach to teaching sociocultural concepts through student engagement.
 
@@ -24,14 +23,14 @@ Nowadays, rather than spending time lecturing on sociocultural constructions, I 
 For my unit on the [Black Atlantic](https://openlibrary.org/works/OL3920181W/The_black_Atlantic) in “Introduction to World Music,” I assign students the “Introduction” from Robin D. Moore’s [*Music in the Hispanic Caribbean: Experiencing Music, Expressing Culture*](https://openlibrary.org/works/OL2678433W/Music_in_the_Hispanic_Caribbean) as a preparatory reading for teaching [Michael Omi and Howard Winant](https://openlibrary.org/works/OL3417522W/Racial_formation_in_the_United_States)’s theory of racial formations. First, I pose knowledge- and comprehension-based questions following [Bloom’s taxonomy of learning objectives](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives):
 
 > 1. What do Omi and Winant mean by racial formation? List one example of an historical racial formation cited in *Music in the Hispanic Caribbean*.  
-> 2. What do Omi and Winant mean by racial project? List one example of a racial project cited in *Music in the Hispanic Caribbean*.  
-> 3. What historical and social factors have contributed to contemporary Caribbean racial formations?
+2. What do Omi and Winant mean by racial project? List one example of a racial project cited in *Music in the Hispanic Caribbean*.  
+3. What historical and social factors have contributed to contemporary Caribbean racial formations?
 
 Next, the activity challenges students to apply these concepts to American sociocultural history and contemporary life:
 
 > 1a. Taking Omi and Winant’s definition of racial formation, identify one (historical or contemporary) example of a racial formation in the United States.  
-> 2a. Taking Omi and Winant’s definition of racial project, identify one (historical or contemporary) example of a racial project in the United States.  
-> 3a. What historical and social factors have contributed to contemporary racial formations in the United States?
+2a. Taking Omi and Winant’s definition of racial project, identify one (historical or contemporary) example of a racial project in the United States.  
+3a. What historical and social factors have contributed to contemporary racial formations in the United States?
 
 This group activity introduces theoretical concepts and promotes intercultural literacy. The knowledge and comprehension questions prompt students to think both abstractly (general definitions) and concretely (specific examples), inchoate steps to developing skills necessary to cultivate ethnographic sensibilities. Accordingly, the instantiations—situated in time and place—call into question sociocultural generalizations. Students, incorporating both the general and the particular, are encouraged to reframe issues as complicated and contradictory.
 
@@ -40,19 +39,18 @@ This leads to the application questions, which prompt students to cite examples 
 Drawing on this model, I offer the following activity for a “History of Rock” lesson focusing on issues of gender, labor, and the music business in the context of 1960s girl groups. First, I assign the preparatory reading “26. The Brill Building and the Girl Groups” from David Brackett’s [*The Pop, Rock, and Soul Reader: Histories and Debates, Third Edition*](https://openlibrary.org/works/OL3521227W/The_Pop_Rock_and_Soul_Reader). Then, I introduce the [Girl Group Discussion Handout](https://docs.google.com/document/d/1f85EIjN2WFAbUBgsmbBx0XYOboUX2bNEHkxWFwbvbok/edit) in the manner of the previous activity. Likewise, this task proceeds from lower- to higher-level Bloom objectives, with students first responding to the following questions:
 
 > 1. From Greenwich’s perspective, how did the early 1960s music business work in the Brill Building (how was labor divided)? Within this system, what roles did women typically perform?  
-> 2. How do Greenwich & King’s stories interrupt the traditional gender roles of the period?
-> 3. What does Love’s story tell us about the power dynamic between producer and performer? How are they informed by gender?
+2. How do Greenwich & King’s stories interrupt the traditional gender roles of the period?  
+3. What does Love’s story tell us about the power dynamic between producer and performer? How are they informed by gender?
 
 In teaching introductory music courses I find that many of my students respond well to activities in which they are given an opportunity to share stories about their own life experience. Following this, students are called to compare these issues with those of their own field or workplace:
 
 > 1a. State your chosen workplace/field. How is labor divided in this field? Within this system, what roles do women typically perform?  
-> 2a. From the perspective of your chosen workplace/field, cite a specific example or story that contests the gender expectations of this field.  
-> 3a. From the perspective of your chosen workplace/field, what power dynamics are at play? How are they informed by gender?
+2a. From the perspective of your chosen workplace/field, cite a specific example or story that contests the gender expectations of this field.  
+3a. From the perspective of your chosen workplace/field, what power dynamics are at play? How are they informed by gender?
 
 The small group setting of the “History of Rock” exercise allows students who may not be comfortable voicing their ideas in a large group a more manageable context for doing so, and may even welcome, for some, access to an affective register. Also, as students self-reflect and learn from the life views of peers, they engage with multiple subjectivities, a necessary component in developing an ethnographic sensibility ([McGranahan 2015](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16)). As in the previous exercise, the page layout of the handout solidifies the comparative endeavor. By likening the given topic—here, gender, labor, and the music industry—to students’ own chosen fields, this activity seeks to put the social history of rock in direct dialogue with a topic of supreme relevance for many students. It does so to personalize the learning experience, to make the given material more memorable, and to create conditions for critical examination of labor and gender.
 
-Engagement as Praxis
-================
+## Engagement as Praxis
 
 Through a student-centered approach to classroom pedagogy, immediate concerns of students and classroom management meet long-term liberal educational goals. These strategies provide a platform for students to become active agents in their learning, as well as foster sensibilities that speak to greater humanistic questions. They ask students to locate and contemplate multiple subject positions, intimating questions about what it means to be human, what it means to know oneself, and what it means to know others. In her anthropology classes McGranahan charges students to inhabit three subject positions: that of a given culture, that of themselves, and that of an anthropologist. In these activities I solicit students to consider, rather than to “inhabit,” McGranahan’s first two subjectivities, as well as collegial and historical ones. The task newly examines the known and unknown dialectically. I find that for some students, probing the investments of self and classmates, in particular, tenders an affective register—a condition as equally necessary for ethnography as intellectual understanding ([McGranahan 2015](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16)). In tandem, an affective response on the part of a few often begets recognition on the part of many, potentially, going so far as to create classroom conditions for sharing with students some of the very reasons why many ethnographers, including myself, find the practice to be an endeavor worthy of perennial commitment.
 
@@ -60,6 +58,6 @@ While these strategies were created specifically to address the challenges of th
 
 
 
-This work is copyright ⓒ2015 Amanda L Scherbenske and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ2015 Amanda L Scherbenske and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 

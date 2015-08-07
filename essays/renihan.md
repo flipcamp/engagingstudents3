@@ -19,40 +19,34 @@ I created this project in Fall 2014 for my Music Appreciation class of twenty-fi
 After being instructed to choose a piece of non-texted music (that they were familiar with, or that I led them to depending on the genre in which they expressed most interest) that was between 2-4 minutes, the project unfolded in 3 parts:
 
 > 1. Justification of Musical Choice and Basic Story  
->  
 > 2. Analysis  
->  
 > 3. Game Creation and Reflection
 
-Justification of Musical Choice and Basic Story
-================
+## Justification of Musical Choice and Basic Story
 
 Students chose pieces that ranged in genre and scope; examples included an instrumental version of Lana del Rey’s song “Carmen” and Rachmaninoff’s *Prelude in C\# minor*. Students were asked to justify their choice, and to characterize it in general terms using musical elements such as instrumentation, style, melodic contour, meter, tempo, dynamics, timbre, texture, harmonic implications, etc. which we had covered in the first few class meetings. I was flexible with the level of detail required (at this and all stages of the project) given the varying levels of musical knowledge (always an issue, I find, in this kind of class), but this provided the fortuitous opportunity to allow for various levels of engagement with the project.
 
 I made a point, at this early stage of the assignment, to meet with each student in order to acknowledge things they were hearing in the piece, and to help them find more accurate terminology with which to describe those musical elements. At times, I helped draw their attention to elements or sections of the music that they might have missed. Students were given the task of thinking about the *kind* of story (genre) that might apply to their musical choice, but not to reveal specifics (though, obviously, they were likely thinking about certain details). I also required students to write a brief paragraph describing what they thought the potential benefits of this kind of thinking about music might be, as having students involved in thinking critically about a given assignment is pedagogically instructive.
 
-Analysis
-================
+## Analysis
 
 Next, I had students use this [chart](https://drive.google.com/file/d/0Bwwc91nl2SoVU3hsNVJrUFUyYjA/view?usp=sharing) to identify what I referred to as “changes” in the music (recorded in terms of time stamps on a given recording). I required them to identify between 8-10 so-called changes in the music, which I explained could be identified as places where a shift was felt, through formal, instrumental, dynamic, textural, harmonic, etc. means. Depending on the length and genre of the piece of music each student chose, the kinds of changes each focused on was flexible—students could choose to be as detailed as they wished in their analysis, but again, were advised to stick to approximately 8-10 time stamps in total. This analysis stage required them to perform several repeated listenings—careful, close listenings—arguably a crucial skill for developing musicians and listeners of all levels. The chart had students identify the time stamps in the music where they heard these changes take place, and describe each section using musical terminology, effectively justifying the reason for hearing the change.
 
 Interpreting these musical changes as narrative shifts, they then began attributing a specific story to each of the sections (beginning with a single story), after which they were asked to identify a point (near the beginning; on the 2^nd^ or 3^rd^ block) where the story could splinter through a choice (the choose-your-own-adventure element) in order to create two different stories. Both stories were to be different, but both should be inspired by the nature of and changes in the music. Ultimately, this was the crux of the project; as students were led to discover how music could seemingly represent/ mean/ signify more than one thing at a time, they were also discovering music’s semantic strength and weakness.
 
-Game Creation and Reflection
-================
+## Game Creation and Reflection
 
 Students were then given the task of creating their stories using Twine (creating a game begins with what Twine calls the “[story map](http://twinery.org/wiki/twine2:the_story_map)” phase). Students were directed to include the time stamp to cue when one should move onto the next story segment at the bottom of each “page” or box (Example 3, below, shows this, as does my own [Twine example](http://philome.la/musicolleen/traveling-on-example-story)). They then submitted them to me electronically along with the file containing the accompanying music (or a link to it). The final stage also involved students stepping back and examining their experience as creators and listeners. I posed questions such as, “Was your experience of this music initially influenced by music video, television, film? What kinds of musical changes did you tend to focus on? How did your analysis change your listening experience? How might the assignment influence the way that you approach musical listening in the future?,” etc. They were then asked to reflect more broadly on the implications of the assignment. We ended the semester spending a few class periods sharing our work with one another, and discussing the ways that it made us think differently about how music means. We discussed the similarities between our narratives (there were many adventure stories—likely influenced by the Twine examples out there, but which also gave the opportunity to discuss narrative arc and the concept of musical development), and we also discussed some of the limits of thinking about music in this way.
 
 Here are a few examples of what these looked like in finished form (all examples are shared with student permission):
 
-> [Twine Student Project - ](https://drive.google.com/file/d/0Bwwc91nl2SoVTVd1UnpES2R1SUU/view?usp=sharing)[Example 1](https://drive.google.com/file/d/0Bwwc91nl2SoVTVd1UnpES2R1SUU/view?usp=sharing)
-> [Twine Student Project - Example 2](https://drive.google.com/a/udel.edu/file/d/0Bwwc91nl2SoVckJUZk1SWGVIX3c/view?usp=sharing)
-> [Twine Student Project - Example 3](https://drive.google.com/file/d/0Bwwc91nl2SoVVTc4R3A3SkM2N00/view?usp=sharing)
+> [Twine Student Project - ](https://drive.google.com/file/d/0Bwwc91nl2SoVTVd1UnpES2R1SUU/view?usp=sharing)[Example 1](https://drive.google.com/file/d/0Bwwc91nl2SoVTVd1UnpES2R1SUU/view?usp=sharing)  
+[Twine Student Project - Example 2](https://drive.google.com/a/udel.edu/file/d/0Bwwc91nl2SoVckJUZk1SWGVIX3c/view?usp=sharing)  
+[Twine Student Project - Example 3](https://drive.google.com/file/d/0Bwwc91nl2SoVVTc4R3A3SkM2N00/view?usp=sharing)
 
 And here is an example [Twine story](http://philome.la/musicolleen/traveling-on-example-story) hosted on twinery.org that I created to show (very basically, ie. with no images, etc.) what these look like in finished form. This story accompanies James Newton Howard’s “Flying” from *Peter Pan* (available on iTunes).
 
-Evaluation and Implications for Teaching
-================
+## Evaluation and Implications for Teaching
 
 Student feedback about the project was incredibly positive—most were initially unfamiliar with Twine, but all came away feeling as though they understood the music much more deeply having used the tool. While using visual tools to enhance students’ understanding of music’s formal properties is not new--platforms like[ ](http://variations.sourceforge.net/vat/)[Variations Audio Timeliner](http://variations.sourceforge.net/vat/) enable students to play a part in building visual tools to understand music more closely from a formal perspective--Twine, however, focuses on narrative *and* representational perspectives, which in my opinion is a more approachable and flexible model for those new to music analysis.
 
@@ -61,6 +55,6 @@ As I pushed students to really think about the project’s implications, student
 Twine’s interactivity models in some ways the work of the composer, but most importantly, it unpacks and “slows down” the work of the listener— the “real world” musicing that most of us do in our lives. One of the biggest concerns with digital humanities (DH) approaches is that they employ digital platforms without considering what the digital component brings to the pedagogy. With Twine, the creative component requires the student to think about music in a way that generates knowledge about music—from both compositional and listening perspectives—that would be difficult to acquire in other platforms. The finished product builds in multiple listenings and arguably more attentive listenings as the listener follows along with the time stamps to reveal the next part of the story. Furthermore, the projects actively draw students’ attention to the role of the listener in creating meaning; as [Mary-Laure Ryan](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-9&toc.depth=1&toc.id=ss1-4-9&brand=9781405103213_brand) has noted with respect to the power of digital textuality to reveal multivariant narratives, digital media “allow the user \[or listener\] to interact with the text not just selectively but also productively.” As many have observed, the most significant contribution of DH is that it provides a model through which we can learn to use new tools to explore not only the content of the humanities (musicology) but also the process behind disciplinary ways of thinking. In this respect, Twine has great potential as a pedagogical tool in the music classroom.
 
 
-This work is copyright ⓒ2015 Colleen Renihan and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ2015 Colleen Renihan and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 

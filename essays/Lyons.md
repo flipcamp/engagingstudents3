@@ -9,15 +9,13 @@ author: Megan Lyons, The University of Delaware
 
 **{{ page.author }}**
 
-Background
-================
+## Background
 
 Students are often apprehensive about aural skills and ear training classes. The intangible nature of the content covered in these courses presents a challenge for working outside of the classroom, where many students feel they need guided instruction. Online resources, such as [Teoria](https://www.teoria.com/) and [MusicTheory.net](http://www.musictheory.net/), provide great ways for students to rehearse; however, these resources cannot provide verbal feedback or break the exercises down into smaller units if a student is struggling. Peer tutoring for students who have difficulties in aural skills can be an invaluable resource that provides the explanations, support, and encouragement that these electronic resources cannot. In this essay I will describe a method for peer tutoring that I created as the Undergraduate Peer Coordinator at the University of Delaware (UD), and offer tools and suggestions on how to set up and run an Aurals Lab effectively.
 
 Similar lab programs include the [Georgia Tech Math Lab](https://www.math.gatech.edu/academics/undergraduate/tutors-and-labs), [University of Delaware Writing Center](http://www.cas.udel.edu/writing-center/Pages/Peer-Tutors.aspx), and the [Hayes School of Music Learning, Research, and Technology Lab](http://music.appstate.edu/current-students/lab). Many of the labs that exist throughout the country are student run and filled with student tutors. Where they differ, however, is in the levels of the various students leaders. [Nancy Falchikov](https://openlibrary.org/works/OL9155746W/Learning_Together) details the varieties of peer tutoring arrangements including same-level, cross-level, and even cross-institutional. Depending on the context, the Aurals Lab could be staffed by undergraduates, solely graduate students, or even a mixture of levels.
 
-Getting Started
-================
+## Getting Started
 
 Scheduling peer tutoring creates a number of challenges. Music students often speak of their lack of time to accomplish outside work due to the rigorous “music major schedule.” Mandatory one-on-one tutoring may be too challenging to coordinate due to varying schedules between a teaching assistant and the aural skills student. A drop-in tutoring system is one solution, and at UD we are able to offer up to ten hours each night of the week, giving students numerous options to coordinate with their schedules.
 
@@ -35,15 +33,13 @@ With the tutors and teachers all in agreement, the schedule for walk-in hours ca
 
 Finding a location in the music building to host the Aurals Lab can be one of the greatest challenges in starting this peer tutoring center. The location must be large enough so that it can be shared among tutors attempting to reach multiple students at differing skill levels. Lots of table space as well as chalkboard space allows tutors to utilize any technique needed to teach their peers. However, the location used must have access to at least one piano/keyboard. A piano lab is an ideal location because it allows the tutors to have pianos for dictation exercises, but allows the students to also have access to a piano to check their pitches or even work on counterpoint.
 
-Record Keeping
-================
+## Record Keeping
 
 The Aurals Lab was created for students to work through and review their ear training exercises. That said, many students still did not make the time to come in and work on these skills. To keep track of which students attended the various sessions, we used a [Google Form](https://docs.google.com/a/udel.edu/forms/d/1_kIgNznKZaXSe4AM_-eg2z1un_QbrIz-3Lawa4B8u_c/viewform) that the tutors would fill out after working with a student. This form recorded the student’s name, when they attended, for how long they attended, as well as what they worked on. The responses were collated into a single spreadsheet that could be accessed by student managers and faculty to show work accomplished in tutoring sessions. Professors can also utilize these responses to gain a better understanding of what students are struggling with and how these students are improving their skills.
 
 A Google Form can be updated semesterly with any changes to self-reflection questions or course selection options. As with any electronic record keeping of student information, it is very important to maintain the utmost security. If a Google Form were to be used, it should only be shared with the tutors and any professors involved with the Lab. Since the Google Form collects information on each submission, if a student were to submit the form, their username would appear in the spreadsheet rather than an approved tutor’s username; this limits the potential for cheating.
 
-Outcomes of Peer Tutoring
-================
+## Outcomes of Peer Tutoring
 
 While an improvement in grades might be a student's primary motivator for lab attendance, many students discover that refining their skills is the pathway to success. Students who spent time in the lab weekly reported not only an improvement in their grades, but also a rise in their confidence level. As students return to the Aurals Lab on a weekly or daily basis, they begin to form strong, academic relationships with their tutors. This positive bond is invaluable and allows a student to feel free of judgement when they return to the Aurals Lab.
 
@@ -55,6 +51,6 @@ In addition to the benefits of the tutees, many of the tutors in the Aurals Lab 
 
 
 
-This work is copyright ⓒ2015 Megan Lyons and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ2015 Megan Lyons and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
