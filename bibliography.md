@@ -294,3 +294,29 @@ Stevens, Daniel B. 2013. “[*Symphonic Hearing: Listening as Active Participati
 The Axis of Awesome. “[*4 Chords*](https://www.youtube.com/watch?v=oOlDewpCfZQ).” YouTube.[ ](https://www.youtube.com/watch?v=oOlDewpCfZQ)Accessed June 5, 2015.
 
 Wikipedia. [*List of Songs Containing the I–V–vi–IV Progression*](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression). Accessed June 10, 2015.
+
+BaileyShea, Matt L. 2007. “[*Filleted Mignon: A New Recipe for Analysis and Recomposition.*](http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.baileyshea.html)” *Music Theory Online* 13, no. 4. Accessed June 11, 2015.
+
+Duker, Philip, Kris Shaffer, and Daniel Stevens. 2014. “[*Problem-Based Learning in Music: A Guide for Instructors.*](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)” In *Engaging Students: Essays in Music Pedagogy,* Vol. 2. Accessed June 11, 2015.
+
+Hoag, Melissa. 2013. “[*Hearing ‘What Might Have Been’: Using Recomposition to Foster Music Appreciation in the Theory Classroom.*](http://jmtp.ou.edu/journal-article/hearing-%E2%80%9Cwhat-might-have-been%E2%80%9D-using-recomposition-foster-music-appreciation-theory)” *Journal of Music Theory Pedagogy* 27: 47–70.
+
+Johnson, Shersten, 2014. “[*Recomposition as Low-stakes Analysis.*](http://flipcamp.org/engagingstudents2/essays/johnson.html)” In *Engaging Students: Essays in Music Pedagogy,* Vol. 2. Accessed June 11, 2015.
+
+Rahn, Jay, and James R. McKay. 1988. “[*The Guide-Tone Method: An Approach to Harmonic Dictation.*](http://jmtp.ou.edu/journal-article/jmtp-journal-volume-2-number-1-all-articles)” *Journal of Music Theory Pedagogy* 2: 101–111.
+
+Schubert, Peter. 2011. “[*Global Perspectives on Music Theory Pedagogy: Thinking in Music.*](http://jmtp.ou.edu/journal-article/global-perspective-music-theory-pedagogy-thinking-music)” *Journal of Music Theory Pedagogy* 25: 211–234.
+
+Schubert, Peter. 2012. “[*The Story of ‘See what an ass I am.’*](https://www.youtube.com/watch?v=YKcATH42tWU)” Accessed June 11, 2015.
+
+> Schubert, Peter. 2012. “[*‘See what an ass I am’ Improvisation \#1*](https://www.youtube.com/watch?v=1r0DODEf_po)” Accessed June 11, 2015.
+>
+> Schubert, Peter. 2012. “[*‘See what an ass I am’ Improvisation \#2*](https://www.youtube.com/watch?v=wsOpwYgrJFc)” Accessed June 11, 2015.
+>
+> Schubert, Peter. 2012. “[*‘See what an ass I am’ Improvisation \#3*](https://www.youtube.com/watch?v=-trkrMWbjGA)” Accessed June 11, 2015.
+
+Schubert, Peter. 2014. “[*Teaching Music Analysis through Improvisation.*](http://flipcamp.org/engagingstudents2/essays/schubert.html)” In *Engaging Students: Essays in Music Pedagogy,* Vol. 2. Accessed June 11, 2015.
+
+Stevens, Daniel B. 2013. ["Symphonic Hearing: Listening as Active Participation."](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit) Poster presentation at the annual meeting of the Society for Music Theory, Charlotte, November 1, 2013.
+
+Yates, Cliff. 2007. “[*Writing like Writers in the Classroom: Free Writing and Formal Constraint.*](http://onlinelibrary.wiley.com/doi/10.1111/j.1754-8845.2007.tb01161.x/abstract)” *English in Education* 41, no. 3. Accessed July 14, 2015.
