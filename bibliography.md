@@ -320,3 +320,31 @@ Schubert, Peter. 2014. “[*Teaching Music Analysis through Improvisation.*](htt
 Stevens, Daniel B. 2013. ["Symphonic Hearing: Listening as Active Participation."](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit) Poster presentation at the annual meeting of the Society for Music Theory, Charlotte, November 1, 2013.
 
 Yates, Cliff. 2007. “[*Writing like Writers in the Classroom: Free Writing and Formal Constraint.*](http://onlinelibrary.wiley.com/doi/10.1111/j.1754-8845.2007.tb01161.x/abstract)” *English in Education* 41, no. 3. Accessed July 14, 2015.
+
+Arnheim, Rudolf. 1992. [*To the Rescue of Art: Twenty-Six Essays.*](https://openlibrary.org/books/OL1531517M/To_the_rescue_of_art) Berkeley: University of California Press.
+
+Chesterton, Gilbert Keith. 1997. [*Platitudes Undone: A Facsimile Edition of ‘Platitudes in the Making: Precepts & Advices for Gentlefolk’ by Holbrook Jackson.*](https://openlibrary.org/books/OL25726758M/Platitudes_Undone_A_Facsimile_Edition_of_%27Platitudes_in_the_Making_Precepts_Advices_for_Gentlefolk%27_) San Francisco: Ignatius Press.
+
+Freire, Paulo. 2011. [*Education for Critical Consciousness.*](https://openlibrary.org/works/OL1870486W/Education_For_Critical_Consciousness_(Continuum_Impacts)) New York: Continuum.
+
+Freire, Paulo. 1998. [*Pedagogy of Freedom: Ethics, Democracy, and Civic Courage.*](https://openlibrary.org/books/OL369525M/Pedagogy_of_freedom) Translated by Patrick Clarke. New York: Rowman & Littlefield.
+
+hooks, bell. 1994. [*Teaching to Transgress: Education as the Practice of Freedom.*](https://openlibrary.org/works/OL17114886W/Teaching_To_Transgress) New York: Routledge.
+
+Nelson, Lans. 2013. “[*A Certain Slant of Light, Typographically Speaking.*](https://lanssolo.wordpress.com/2013/04/06/a-certain-slant-of-light-typographically-speaking/)” Blog post. Accessed June 6, 2010.
+
+Roust, Colin. 2013. “[*Creating Illusions: Practical Approaches to Teaching ‘Added Value’ in Audiovisual Artworks.*](http://flipcamp.org/engagingstudents/roust.html)” In *Engaging Students: Essays in Music Pedagogy*, vol. 1. Accessed June 10, 2015.
+
+Shaffer, Kris. 2014. “[*Assessing Problem-based Learning.*](http://flipcamp.org/engagingstudents2/essays/shaffer.html)” In *Engaging Students: Essays in Music Pedagogy*, vol. 2. Accessed June 10, 2015.
+
+Shaffer, Kris. 2014. “[*Student-centered Curriculum.*](http://kris.shaffermusic.com/2014/12/student-centered-curriculum/)” Blog post. Accessed June 5, 2015.
+
+Stewart, Mary. 2014. “[*Designing for Emergence: The Role of the Instructor in Student-centered Learning.*](http://www.hybridpedagogy.com/journal/designing-emergence-role-instructor-student-centered-learning/)” *Hybrid Pedagogy: A Digital Journal of Learning, Teaching and Technology*. Accessed June 10, 2015.
+
+Stommel, Jesse. 2013. “[*The Digital Humanities is About Breaking Stuff.*](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)” *Hybrid Pedagogy: A Digital Journal of Learning, Teaching and Technology*. Accessed June 04, 2015.
+
+Stommel, Jesse. 2014. “[*Digital Pedagogy is About Breaking Stuff: Toward a Critical Digital Humanities Pedagogy.*](http://www.slideshare.net/jessestommel/digital-pedagogy-is-about-breaking-stuff-toward-a-critical-digital-humanities-pedagogy)” Slide Presentation. Accessed June 10, 2015.
+
+Taylor, James S. 1998. [*Poetic Knowledge: The Recovery of Education.*](https://openlibrary.org/books/OL25726757M/Poetic_Knowledge_The_Recover_of_Education) Albany: State University of New York Press.
+
+<span id="h.gjdgxs" class="anchor"></span>Whitehead, Alfred North. 1929. [*The Aims of Education and Other Essays.*](https://openlibrary.org/books/OL19843683M/The_aims_of_education_and_other_essays) London: William & Norgate.
