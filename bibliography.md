@@ -348,3 +348,43 @@ Stommel, Jesse. 2014. “[*Digital Pedagogy is About Breaking Stuff: Toward a Cr
 Taylor, James S. 1998. [*Poetic Knowledge: The Recovery of Education.*](https://openlibrary.org/books/OL25726757M/Poetic_Knowledge_The_Recover_of_Education) Albany: State University of New York Press.
 
 <span id="h.gjdgxs" class="anchor"></span>Whitehead, Alfred North. 1929. [*The Aims of Education and Other Essays.*](https://openlibrary.org/books/OL19843683M/The_aims_of_education_and_other_essays) London: William & Norgate.
+
+Bribitzer-Stull, Matthew. 2003.[ ](http://jmtp.ou.edu/journal-article/contention-classroom-encouraging-debate-and-alternate-readings-undergraduate-theory)[*“Contention in the Classroom: Encouraging Debate and Alternate Readings in the Undergraduate Theory Class.”*](http://jmtp.ou.edu/journal-article/contention-classroom-encouraging-debate-and-alternate-readings-undergraduate-theory) *Journal of Music Theory Pedagogy* 17: 21–45.
+
+Caplin, William E. 1998.[ ](http://openlibrary.org/books/OL679075M/Classical_form)[**Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven.**](http://openlibrary.org/books/OL679075M/Classical_form) New York: Oxford University Press.
+
+Caplin, William E. 2013.[ ](http://www.music.mcgill.ca/acf/)[**Analyzing Classical Form: An Approach for the Classroom.**](http://www.music.mcgill.ca/acf/) New York: Oxford University Press.
+
+Colletti, Carla R. 2013.[ ](http://flipcamp.org/engagingstudents/colletti.html)[*“The Silent Professor: Enhancing Student Engagement through the Conceptual Workshop.”*](http://flipcamp.org/engagingstudents/colletti.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
+
+Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer. 2015.[ ](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)[*“Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class.”*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) *Music Theory Online* 21, no. 1.
+
+Duker, Philip, Kris Shaffer, and Daniel Stevens. 2014.[ ](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)[*“Problem-Based Learning in Music: A Guide for Instructors.”*](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 2.
+
+Green, Elizabeth. 2014.[ ](http://books.wwnorton.com/books/Building-a-Better-Teacher/)[**Building a Better Teacher: How Teaching Works (and How to Teach It to Everyone).**](http://books.wwnorton.com/books/Building-a-Better-Teacher/) New York: Norton.
+
+Green, Elizabeth. 2014.[ ](http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html)[*“Why Do Americans Stink at Math?”*](http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html) *New York Times Magazine* (July 23).
+
+Hepokoski, James, and Warren Darcy. 2006.[ ](http://openlibrary.org/works/OL4294182W/Elements_of_sonata_theory)[**Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth Century Sonata.**](http://openlibrary.org/works/OL4294182W/Elements_of_sonata_theory) New York: Oxford University Press.
+
+Hughes, Bryn. 2013.[ ](http://flipcamp.org/engagingstudents/hughes.html)[*“Just-in-Time Teaching and Peer Instruction.”*](http://flipcamp.org/engagingstudents/hughes.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
+
+Lampert, Magdalene. 2001.[ ](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching)[**Teaching Problems and the Problems of Teaching.**](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching) New Haven: Yale University Press.
+
+Lyman, Frank T. 1981.[ ](http://www.worldcat.org/title/mainstreaming-digest-a-collection-of-faculty-and-student-papers/oclc/63759678)[*“The Responsive Classroom Discussion: The Inclusion of All Students.”*](http://www.worldcat.org/title/mainstreaming-digest-a-collection-of-faculty-and-student-papers/oclc/63759678) In *Mainstreaming Digest: A Collection of Faculty and Student Papers*, ed. Audrey Springs Anderson (College Park: University of Maryland), 109–13.
+
+Roig-Francolí, Miguel A. 2011.[ ](http://highered.mheducation.com/sites/0073137944/information_center_view0/index.html)[**Harmony in Context.**](http://highered.mheducation.com/sites/0073137944/information_center_view0/index.html) 2nd ed. New York: McGraw-Hill.
+
+Salley, Keith. 2012.[ ](http://upers.kuleuven.be/sites/upers.kuleuven.be/files/page/files/2012_1_6.pdf)[*“On Fostering Critical Thinking in the Music Theory Classroom through Comparative Analysis and Debate.”*](http://upers.kuleuven.be/sites/upers.kuleuven.be/files/page/files/2012_1_6.pdf) *Dutch Journal of Music Theory* 17, no. 1: 46–54.
+
+Saul, Mark, ed. 2015.[ ](http://www.ams.org/notices/201505/rnoti-p508.pdf)[*“Response to the Elizabeth Green Article.”*](http://www.ams.org/notices/201505/rnoti-p508.pdf) *Notices of the American Mathematical Society* 62, no. 5: 508–14.
+
+Shaffer, Kris. 2013.[ ](http://flipcamp.org/engagingstudents/shafferpt1.html)[*“The Basic Flip.”*](http://flipcamp.org/engagingstudents/shafferpt1.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
+
+Shaffer, Kris. 2013.[ ](http://flipcamp.org/engagingstudents/shafferpt3.html)[*“Inquiry-Based Learning.”*](http://flipcamp.org/engagingstudents/shafferpt3.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
+
+VanHandel, Leigh. 2012.[ ](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy)[*“What Can Music Theory Pedagogy Learn from Mathematics Pedagogy?”*](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy) *Journal of Music Theory Pedagogy* 26: 191–213.
+
+Wu, Hung-Hsi. 2014. [*“Building Better Mathematics Teachers.”*](http://math.berkeley.edu/~wu/AMSNotices_2014.pdf)[](https://math.berkeley.edu/~wu/AMSNotices_2014.pdf)
+
+Zbikowski, Lawrence M., and Charles K. Long. 1994.[ ](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf)[*“Cooperative Learning in the Music Theory Classroom.”*](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
