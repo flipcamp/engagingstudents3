@@ -450,3 +450,19 @@ Shaffer, Kris. 2012. “Video Grading for Transcription and Arranging Projects.�
 Shaffer, Kris, and Bryn Hughes. 2013. “Flipping the Classroom: Three Methods.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/shafferintro.html*](http://flipcamp.org/engagingstudents/shafferintro.html).
 
 Shaffer, Kris. 2015. “Homework is a Social Justice Issue.” *Hybrid Pedagogy*. [*http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/*](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/).
+
+Allen, Theodore. 1994. [**The Invention of the White Race**](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race)[*.*](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race) London and New York: Verso.
+
+Foucault, Michel. 1990. [**The History of Sexuality**](https://openlibrary.org/works/OL16028700W/The_history_of_sexuality), Translated by Robert Hurley, 3 vols. New York: Vintage Books.
+
+Kramer, Lawrence. 1990. [**Music as Cultural Practice, 1800-1900**](https://openlibrary.org/works/OL15892683W/Music_as_cultural_practice_1800-1900). Berkeley: University of California Press.
+
+Laqueur, Thomas Walter. 1990. [**Making Sex: Body and Gender from the Greeks to Freud**](https://openlibrary.org/works/OL8298059W/Making_Sex). Cambridge, MA: Harvard University Press.
+
+Marissen, Michael. 1993. “[*J.S. Bach’s Brandenburg Concertos as a Meaningful Set*](http://www.jstor.org.proxy2.cl.msu.edu/stable/742555?Search=yes&resultItemClick=true&searchText=(au:&searchText=%22Michael%20Marissen%22&searchText=)&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2528au%253A%2522Michael%2BMarissen%2522%2529%26amp%3Bprq%3D%2528au%253A%2522Susan%2BMcClary%2522%2529%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bhp%3D25%26amp%3Bso%3Drel%26amp%3Bfc%3Doff&seq=1#page_scan_tab_contents).” *The Musical Quarterly* Vol. 77, No. 2: 193-235.
+
+McClary, Susan. “The Blasphemy of Talking Politics During Bach Year.” In [**Music and Society: The Politics of Composition, Performance and Reception**](https://openlibrary.org/works/OL16493326W/Music_and_society), edited by Richard Leppert and Susan McClary, 13-62. Cambridge: Cambridge University Press, 1987.
+
+\_\_\_\_\_\_\_\_\_\_\_\_. 1986. “[*A Musical Dialectic from the Enlightenment: Mozart’s ‘Piano Concerto in G Major, K. 453*](http://www.jstor.org.proxy2.cl.msu.edu/stable/1354338?Search=yes&resultItemClick=true&&searchUri=%2Faction%2FdoAdvancedSearch%3Facc%3Don%26amp%3Bq4%3D%26amp%3Bf4%3Dall%26amp%3Bf2%3Dall%26amp%3Bla%3D%26amp%3Bq3%3D%26amp%3Bc2%3DAND%26amp%3Bisbn%3D%26amp%3Bar%3Don%26amp%3Bf1%3Dall%26amp%3Bf0%3Dau%26amp%3Bc6%3DAND%26amp%3Bf3%3Dall%26amp%3Bsd%3D%26amp%3Bq5%3D%26amp%3Bq0%3DSusan%2BMcClary%26amp%3Bgroup%3Dnone%26amp%3Bc3%3DAND%26amp%3Bq6%3D%26amp%3Bc5%3DAND%26amp%3Bed%3D%26amp%3Bpt%3D%26amp%3Bc1%3DAND%26amp%3Bwc%3Don%26amp%3Bq2%3D%26amp%3Bf5%3Dall%26amp%3Bc4%3DAND%26amp%3Bf6%3Dall%26amp%3Bq1%3D&seq=1#page_scan_tab_contents)’,” *Cultural Critique* 4: 129-69.
+
+Taruskin, Richard. 2005. [**The Oxford History of Western Music**](https://openlibrary.org/works/OL3339542W/Music_in_the_seventeenth_and_eighteenth_centuries). Vol. 2 Oxford: Oxford University Press.
