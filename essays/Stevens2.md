@@ -63,7 +63,7 @@ Exploring possible contrapuntal relationships above a given bass provides studen
 
 Fig. 5 provides the bass line of “I Will Wait” by Mumford and Sons and a typical provisional guide-tone line.
 
-**Figure 5.** Mumford and Sons, “I Will Wait,” Bass and Guide-tone Lines
+**Figure 5.** Mumford and Sons, “I Will Wait,” bass and guide-tone lines.
 
 <img src="{{ site.baseurl }}/images/stevens01.png" alt="image" />
 
