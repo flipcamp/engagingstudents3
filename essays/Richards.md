@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rethinking the Theory Classroom: Towards a New Model for Undergraduate Instruction
+title: "Rethinking the Theory Classroom: Towards a New Model for Undergraduate Instruction"
 author: Sam L. Richards, Brigham Young University
 ---
 

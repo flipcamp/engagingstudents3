@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unraveling the Narrative Approach: Twine as Music Pedagogy
+title: "Unraveling the Narrative Approach: Twine as Music Pedagogy"
 author: Colleen Renihan, Mount Allison University
 ---
 

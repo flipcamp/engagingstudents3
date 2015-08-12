@@ -388,3 +388,33 @@ VanHandel, Leigh. 2012.[ ](http://jmtp.ou.edu/journal-article/what-can-music-the
 Wu, Hung-Hsi. 2014. [*“Building Better Mathematics Teachers.”*](http://math.berkeley.edu/~wu/AMSNotices_2014.pdf)[](https://math.berkeley.edu/~wu/AMSNotices_2014.pdf)
 
 Zbikowski, Lawrence M., and Charles K. Long. 1994.[ ](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf)[*“Cooperative Learning in the Music Theory Classroom.”*](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
+
+Burke, Kevin. 2014. “[*Roleplaying Music History: Honing General Education Skills via *](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)[*‘*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)[*Reacting to the Past*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)’.” *Journal of Music History Pedagogy* 5 (1): 1-21.
+
+Burkholder, J. Peter. 2002. “[*Peer Learning in Music History Courses*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History).” In *Teaching Music History*, edited by Mary Natvig, 205-223. Farnham, Surrey, England: Ashgate.
+
+---. 2015.[ ](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[“](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[The Value of a Music History Survey](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175) *Journal of Music History Pedagogy* 5 (2): 57-63.
+
+Clague, Mark. 2011. “[*Publishing Student Work on the Web: The Living*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48)[*❂*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48)[*Music Project and the Imperatives of the New Literacy*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48).” *Journal of Music History Pedagogy* 2 (1): 61-80.
+
+Crain, Timothy M. 2014.[ ](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[“](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[Beyond Coverage in the Music History Classroom](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110) *Journal of Music History Pedagogy* 4 (2): 301–18.
+
+Fink, Robert. 2002. “[*Teaching Music History (After the End of History): ‘History Games’ for the Twentieth-Century Survey*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History).” In *Teaching Music History*, edited by Mary Natvig, 43-65. Farnham, Surrey, England: Ashgate.
+
+Francis, Kimberly and Travis Stimeling. 2013. “[*E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/92).” *Journal of Music History Pedagogy* 4 (1): 1-22.
+
+Haefeli, Sara. 2013. “[*Using Blogs for Better Student Writing Outcomes*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/101).” *Journal of Music History Pedagogy* 4 (1): 39-70.
+
+Knyt, Erinn E. 2013. “[*Rethinking the Music History Research Paper Assignment*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/95).” *Journal of Music History Pedagogy* 4 (1): 23-37.
+
+Lowe, Melanie. 2015. “[*Rethinking the Undergraduate Music History Sequence in the Information Age*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177)[*.*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177)” *Journal of Music History Pedagogy* 5 (2): 65-71.
+
+McManus, Laurie. 2014. “[*Playing by Ear: Listening Games in the Music History Classroom*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/130).” *Journal of Music History Pedagogy* 5 (1): 23-39.
+
+Natvig, Mary. 2012.[ ](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[“](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[Classroom Activities](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[.”](https://openlibrary.org/works/OL16557937W/The_music_history_classroom) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
+
+Seaton, Douglas. 2015. “[*Reconsidering Undergraduate Music History: Some Introductory Thoughts*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176).” *Journal of Music History Pedagogy* 5 (2): 53-56.
+
+Shadle, Douglas. 2012. “[*Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/66).” *Journal of Music History Pedagogy* 3 (1): 1-37.
+
+Yang, Sandra Sedman. 2012. “[*Singing Gesualdo: Rules of Engagement in the Music History Classroom*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/54).” *Journal of Music History Pedagogy* 3 (1): 39-55.
