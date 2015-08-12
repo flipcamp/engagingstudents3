@@ -67,11 +67,11 @@ Fig. 5 provides the bass line of “I Will Wait” by Mumford and Sons and a typ
 
 <img src="{{ site.baseurl }}/images/stevens01.png" alt="image" />
 
-After using context to identify *do* (and the non-tonic opening), students focus on choosing guide tones for notes “a,” “b,” “c,” and “d.” The notes at “b” and “d” could each be set with either *do* or *ti*; note “c” would likely be set with *do* to avoid voice leading problems from “b” to “c.” This process is best approached by asking the students (as a class or in small groups) to improvise possible guide-tone lines above the bass. Having engaged the contrapuntal implications of the bass aurally, students are quick to pick up on one of the song’s most striking features: the presence of *do* throughout the chords marked “a” – the very chords they expect most strongly to move to *ti*. Students also better appreciate how chord “d,” harmonized as mediant instead of tonic, breaks expectation.
+After using context to identify *do* (and the non-tonic opening), students focus on choosing guide tones for notes “a,” “b,” “c,” and “d.” The notes at “b” and “d” could each be set with either *do* or *ti*; note “c” would likely be set with *do* to avoid voice leading problems from “b” to “c.” This process is best approached by asking the students (as a class or in small groups) to improvise possible guide-tone lines above the bass. Having engaged the contrapuntal implications of the bass aurally, students are quick to pick up on one of the song’s most striking features: the presence of *do* throughout the chords marked “a” ― the very chords they expect most strongly to move to *ti*. Students also better appreciate how chord “d,” harmonized as mediant instead of tonic, breaks expectation.
 
 First species principles are (loosely) applied in another inverted approach, which I call “[walking the (contrapuntal) line.](https://www.youtube.com/watch?v=Lq0fUa0vW_E)” Above the given bass, instructors provide the first, last, and peak notes of a species-style reduction, and students fill in the gaps. The resulting contrapuntal framework provides a starting point for studying melodic structure and diminutions (see Fig. 6). A third[ inverted approach](https://docs.google.com/document/d/1iFRQ0ztph-HwJ4vFJjNgyzJsFKkAKxjHHY_uYEo_ebs/edit?usp=sharing) engages pieces whose first chords deviate from the normal 5/3 contrapuntal structure. In short, asking students to improvise counterpoint above a given bass helps them listen horizontally and perceive the linear relationships found in different musical styles.
 
-**Figure 6.** Johnny Cash, “Walk the Line,” Verse and Refrain, Reduction and Melodic Analysis
+**Figure 6.** Johnny Cash, “Walk the Line,” verse and refrain, reduction and melodic analysis.
 
 <img src="{{ site.baseurl }}/images/stevens06.png" alt="image" />
 
@@ -81,7 +81,7 @@ Using melodies as the starting point for an inverted analysis leads to more open
 
 A melody can be given with or without rhythm and meter. When introducing this inverted approach, and later when dealing with longer or more ornate melodies, I provide the melody’s rhythm and meter so that students can more readily consider implied harmonic rhythm and embellishing tones. (Here is [a more advanced assignment based on melodic fragments given without meter or rhythm](https://docs.google.com/document/d/10-D4yVwOm8HMSdNvUFBJ7Xcq0Zrxs5OtRx0xhGLFlzk/edit?usp=sharing).) Fig. 7 provides the first two phrases of a chorale set twice by Bach ([\#95 “Werder munter, mein Gemüthe”](http://conquest.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF) and [\#350 “Jesu, meiner Seelen Wonne”](http://petrucci.mus.auth.gr/imglnks/usimg/2/2c/IMSLP03823-4PC_4.PDF)) that my students analyze in the first year of the theory sequence, after having studied harmonic expansions, phrase functions, and cadence types.
 
-**Figure 7.** Two Chorale Phrases with Possible Bass and Harmonizations
+**Figure 7.** Two chorale phrases with possible bass and harmonizations.
 
 <img src="{{ site.baseurl }}/images/stevens02.png" alt="image" />
 
@@ -89,7 +89,7 @@ While these phrases could be assigned as model compositions in the chorale style
 
 Another effective melody for inverted analysis is the first four measures of Mozart’s [Piano Sonata in C Major, K. 545](http://javanese.imslp.info/files/imglnks/usimg/2/2f/IMSLP70214-PMLP01855-KV_545.pdf), shown in Fig. 8. This clear-cut melody still admits different possible harmonizations, bass lines, cadential treatment, and figuration patterns. Ten-minute “free writing” exercises like those described by [Cliff Yates](http://onlinelibrary.wiley.com/doi/10.1111/j.1754-8845.2007.tb01161.x/abstract) can generate numerous settings of this melody, which can be discussed in small groups or written on the board before finally being compared to Mozart’s setting (see Fig. 8 for some example bass lines and harmonizations). Throughout the analytical process, students discover the unique contrapuntal consequences of the bass by studying how melody notes are made consonant or dissonant. Instructors can also point out how different harmonic configurations change the way the notes of the melody are grouped and energized. Finally, this level of critical engagement, and the detailed analytical scrutiny students bring to Mozart’s sonata, helps them learn music from the inside out, a valuable competency in all areas of their musical study.
 
-**Figure 8.** Mozart, Piano Sonata in C Major, K. 545, mm. 1–4
+**Figure 8.** Mozart, Piano Sonata in C Major, K. 545, mm. 1–4.
 
 <img src="{{ site.baseurl }}/images/stevens00.png" alt="image" />
 
@@ -100,5 +100,3 @@ Inverting analysis helps instructors gauge the number and complexity of question
 By integrating improvisation, composition, and analysis, students learn that making music is one of the most effective means of understanding music. Every compositional problem and possibility students consider increases the critical attention they can give to the music they will hear, study, and perform. Inverting analysis invites students to explore and document the horizons of possibility within which music operates.
 
 This work is copyright ⓒ2015 Daniel Stevens and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-
