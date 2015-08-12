@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training Ears with Peers: Establishing an Aural Skills Peer Tutoring Center
+title: "Training Ears with Peers: Establishing an Aural Skills Peer Tutoring Center"
 author: Megan Lyons, The University of Delaware
 ---
 
