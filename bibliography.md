@@ -418,3 +418,11 @@ Seaton, Douglas. 2015. “[*Reconsidering Undergraduate Music History: Some Intr
 Shadle, Douglas. 2012. “[*Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/66).” *Journal of Music History Pedagogy* 3 (1): 1-37.
 
 Yang, Sandra Sedman. 2012. “[*Singing Gesualdo: Rules of Engagement in the Music History Classroom*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/54).” *Journal of Music History Pedagogy* 3 (1): 39-55.
+
+Feisst, Sabine. 1999. “Schoenberg and America.” In[ ](https://books.google.com/books?id=DQQSLCwRyakC&pg=PR9&dq=schoenberg+and+his+world&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMI2rPU_KmPxgIVwaAUCh31awBw#v=onepage&q=swarthout&f=false)[**Schoenberg and His World**](https://books.google.com/books?id=DQQSLCwRyakC&pg=PR9&dq=schoenberg+and+his+world&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMI2rPU_KmPxgIVwaAUCh31awBw#v=onepage&q=swarthout&f=false), edited by Walter Frisch, 298–301. Princeton: Princeton University Press.
+
+Jenkins, J. Daniel. forthcoming. “*I* Care If You Listen: Schoenberg’s ‘School of Criticism’ and the Role of the Amateur.”[ ](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center)[**Journal of the Arnold Schönberg Center**](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center).
+
+Schoenberg, Arnold. 2006. [**The Musical Idea and the Logic, Technique, and Art of Its Presentation**](https://books.google.com/books?id=xOm3Ollp6qMC&printsec=frontcover&dq=schoenberg+musical+idea&hl=en&sa=X&ei=cxShVZ_rJ8z6-AHV_K_ICQ&ved=0CB8Q6wEwAA#v=onepage&q&f=false). Edited and translated with a Commentary by Patricia Carpenter and Severine Neff. Bloomington: Indiana University Press.
+
+Schoenberg, Arnold. 1964.[ ](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false)[**Letters**](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false). Edited by Erwin Stein. Translated by Eithne Wilkins and Ernst Kaiser. London: Faber.
