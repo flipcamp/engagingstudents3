@@ -426,3 +426,27 @@ Jenkins, J. Daniel. forthcoming. “*I* Care If You Listen: Schoenberg’s ‘Sc
 Schoenberg, Arnold. 2006. [**The Musical Idea and the Logic, Technique, and Art of Its Presentation**](https://books.google.com/books?id=xOm3Ollp6qMC&printsec=frontcover&dq=schoenberg+musical+idea&hl=en&sa=X&ei=cxShVZ_rJ8z6-AHV_K_ICQ&ved=0CB8Q6wEwAA#v=onepage&q&f=false). Edited and translated with a Commentary by Patricia Carpenter and Severine Neff. Bloomington: Indiana University Press.
 
 Schoenberg, Arnold. 1964.[ ](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false)[**Letters**](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false). Edited by Erwin Stein. Translated by Eithne Wilkins and Ernst Kaiser. London: Faber.
+
+Bourne, Janet. 2014. “CAT Got Your Tongue? Adapting Classroom Assessment Techniques (CATs) for the Music Classroom.” *Engaging Students* 2. [*http://flipcamp.org/engagingstudents2/essays/bourne.html*](http://flipcamp.org/engagingstudents2/essays/bourne.html).
+
+Cross, Andrew, Mydhili Bayyapunedi, Edward Cutrell, Anant Agarwal, and William Thies. 2013. “TypeRighting: Combining the Benefits of Handwriting and Typeface in Online Educational Videos.” *Proceedings of CHI 2013*.[ ](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf)[*http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf*](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf).
+
+Friend, Chris. 2014. “Learning to Let Go: Listening to Students in Discussion.” *Hybrid Pedagogy*. [*http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/*](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/).
+
+Gosden, Stephen. 2013. “The ‘Technology Tools’ Session at FlipCamp Music Theory.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/gosden.html*](http://flipcamp.org/engagingstudents/gosden.html).
+
+Guo, Phillip J., Juho Kim, and Rob Rubin. 2014. “How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos.” *ACM Conference on Learning at Scale.*[ ](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf)[*http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement\_LAS-2014.pdf*](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf).
+
+Hanch, Anna, Christopher Newman, Lisa Hillers, Thomas Schildhauer, Katherine McConachie, and Philipp Schmidt. 2015. “Video and Online Learning: Critical Reflections and Findings from the Field.” *HIIG Discussion Paper Series* No. 2015-02. [*http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2577882*](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2577882).
+
+Ilioudi, Christina, Michail N. Giannakos, and Konstantinos Corianopoulous. 2013. “Investigating Differences Among the Commonly Used Video Lecture Styles.” *Proceedings of the Workshop on Analytics on Video-Based Learning (WAVe ’13)*. 21-26.[ ](http://ceur-ws.org/Vol-983/paper5.pdf)[*http://ceur-ws.org/Vol-983/paper5.pdf*](http://ceur-ws.org/Vol-983/paper5.pdf).
+
+Miyake, Jan. 2014. “A Mini-Flip of the Music Theory Classroom.” *Engaging Students* 2. [*http://flipcamp.org/engagingstudents2/essays/miyake1.html*](http://flipcamp.org/engagingstudents2/essays/miyake1.html).
+
+O’Hara, William. 2015. “Making Up for Snow Days: An Experiment in Responsive Video.” *The Bok Blog*. [*http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video*](http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video).
+
+Shaffer, Kris. 2012. “Video Grading for Transcription and Arranging Projects.” *Shaffermusic.com*. [*http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/*](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/).
+
+Shaffer, Kris, and Bryn Hughes. 2013. “Flipping the Classroom: Three Methods.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/shafferintro.html*](http://flipcamp.org/engagingstudents/shafferintro.html).
+
+Shaffer, Kris. 2015. “Homework is a Social Justice Issue.” *Hybrid Pedagogy*. [*http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/*](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/).
