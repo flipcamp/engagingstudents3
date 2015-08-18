@@ -13,6 +13,8 @@ Alegant, Brian. 2014. [“On ‘scuba diving,’ or the Advantages of a Less-is-
 
 ———. 2008. ["Listen Up! Thoughts on iPods, Sonata Form, and Analysis Without the Score."](http://jmtp.ou.edu/journal-article/listen-thought-ipods-sonata-form-and-analysis-without-score) *Journal of Music Theory Pedagogy* 22: 149–76.
 
+Allen, Theodore. 1994. [*The Invention of the White Race.*](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race) London and New York: Verso.
+
 Anderson, Myrdene. 1998. “Folklore, Folklife and other bootstrapping traditions.” In [*High-Fives: A Trip to Semiotics,*](https://openlibrary.org/books/OL11395894M/Hi-Fives) edited by Roberta Kevelson. New York: Peter Lang.
 
 Arnheim, Rudolf. 1992. [*To the Rescue of Art: Twenty-Six Essays.*](https://openlibrary.org/books/OL1531517M/To_the_rescue_of_art) Berkeley: University of California Press.
@@ -107,6 +109,8 @@ Fink, Robert. 2002. ["Teaching Music History (After the End of History): ‘Hist
 
 Finkel, Donald L. 2000. [*Teaching with Your Mouth Shut.*](https://openlibrary.org/works/OL3493342W/Teaching_with_Your_Mouth_Shut) Portsmouth, NH: Boynton/Cook Publishers.
 
+Foucault, Michel. 1990. [*The History of Sexuality.*](https://openlibrary.org/works/OL16028700W/The_history_of_sexuality) Translated by Robert Hurley. 3 volumes. New York: Vintage Books.
+
 Francis, Kimberly, and Travis Stimeling. 2013. ["E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/92) *Journal of Music History Pedagogy* 4 (1): 1-22.
 
 Freire, Paulo. 2011. [*Education for Critical Consciousness.*](https://openlibrary.org/works/OL1870486W/Education_For_Critical_Consciousness_(Continuum_Impacts)) New York: Continuum.
@@ -187,6 +191,8 @@ Kulma, David, and Meghan Naxer. 2014. [“Beyond Part Writing: Modernizing the C
 
 Lampert, Magdalene. 2001. [*Teaching Problems and the Problems of Teaching.*](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching) New Haven: Yale University Press.
 
+Laqueur, Thomas Walter. 1990. [*Making Sex: Body and Gender from the Greeks to Freud.*](https://openlibrary.org/works/OL8298059W/Making_Sex) Cambridge, MA: Harvard University Press.
+
 Larson, Steve. 2012. [“Expressive Meaning and Musical Structure.”](http://www.mtosmt.org/issues/mto.12.18.3/mto.12.18.3.larson.html) *Music Theory Online* 18 (3).
 
 Lee, Joey J., and Christopher M. Hoadley. 2007. ["Leveraging Identity to Make Learning Fun: Possible Selves and Experiential Learning in Massively Multiplayer Online Games."](http://eric.ed.gov/?id=EJ842342) *Innovate: Journal of Online Education* 3 (6).
@@ -207,11 +213,17 @@ Marcozzi, Rudy. 2009. [*Strategies and Patterns for Ear Training.*](https://open
 
 Margulis, Elizabeth Hellmuth. 2014. [*On Repeat: How Music Plays the Mind.*](https://openlibrary.org/books/OL25711681M/On_Repeat_How_Music_Plays_the_Mind) New York, NY: Oxford University Press.
 
+Marissen, Michael. 1993. ["J.S. Bach’s Brandenburg Concertos as a Meaningful Set."](http://www.jstor.org/stable/742555) *The Musical Quarterly* 77 (2): 193-235.
+
 Marzano, R. J. (2015). ["Assessment & Grading."](http://www.marzanoresearch.com/assessment-grading) Marzano Research. Accessed July 17, 2015.
 
 Marzano, R. J., and T. Heflebower. 2011. ["Grades That Show What Students Know."](https://www.ocps.net/lc/southwest/mso/parents/Documents/Grades%20That%20Show%20What%20Students%20Know.pdf) *Educational Leadership*: 34-39.
 
 McClary, Susan. 2004. “Rap, Minimalism, and Structures of Time in Late Twentieth-Century Culture.” In [*Audio Culture: Readings in Modern Music,*](https://openlibrary.org/books/OL25746647M/Audio_Culture_Readings_in_Modern_Music) edited by Christoph Cox and Daniel Warner. New York: Continuum.
+
+———. 1987. “The Blasphemy of Talking Politics During Bach Year.” In [*Music and Society: The Politics of Composition, Performance and Reception.*](https://openlibrary.org/works/OL16493326W/Music_and_society) Edited by Richard Leppert and Susan McClary, 13-62. Cambridge: Cambridge University Press.
+
+———. 1986. ["A Musical Dialectic from the Enlightenment: Mozart’s ‘Piano Concerto in G Major, K. 453.'"](http://www.jstor.org/stable/1354338) *Cultural Critique* 4: 129-69.
 
 McGranahan, Carole. 2014.[“What is Ethnography? Teaching Ethnographic Sensibilities without Fieldwork.”](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) *Teaching Anthropology* 4: 23-36.
 
@@ -248,6 +260,8 @@ Murphy, Scott. 2015. “Transformational Theory and The Analysis of Film Music.�
 Natvig, Mary. 2012. ["Classroom Activities."](https://openlibrary.org/works/OL16557937W/The_music_history_classroom) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
 
 Nelson, Lans. 2013. ["A Certain Slant of Light, Typographically Speaking."](https://lanssolo.wordpress.com/2013/04/06/a-certain-slant-of-light-typographically-speaking/) Blog post. Accessed June 6, 2010.
+
+O’Hara, William. 2015. [“Making Up for Snow Days: An Experiment in Responsive Video.”](http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video) The Bok Blog. Accessed August 18, 2015.
 
 Omi, Michael, and Howard Winant. 1994. [*Racial Formation in the United States: From the 1960s to the 1990s.*](https://openlibrary.org/works/OL3417522W/Racial_formation_in_the_United_States) New York: Routledge.
 
@@ -307,13 +321,19 @@ Seaton, Douglas. 2015. ["Reconsidering Undergraduate Music History: Some Introdu
 
 Shadle, Douglas. 2012. ["Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/66) *Journal of Music History Pedagogy* 3 (1): 1-37.
 
-Shaffer, Kris. 2014a. ["Assessing Problem-based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) *Engaging Students: Essays in Music Pedagogy* 2. 
+Shaffer, Kris. 2015. [“Homework is a Social Justice Issue.”](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/) *Hybrid Pedagogy,* May 19. 
+
+———. 2014a. ["Assessing Problem-based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) *Engaging Students: Essays in Music Pedagogy* 2. 
 
 ———. 2014b. ["Student-centered Curriculum."](http://kris.shaffermusic.com/2014/12/student-centered-curriculum/) Blog post. Accessed June 5, 2015.
 
 ———. 2013a. [“The Basic Flip.”](http://flipcamp.org/engagingstudents/shafferpt1.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 ———. 2013b. [“Inquiry-Based Learning.”](http://flipcamp.org/engagingstudents/shafferpt3.html) *Engaging Students: Essays in Music Pedagogy* 1.
+
+———. 2012. [“Video Grading for Transcription and Arranging Projects.”](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/) Blog Post. Accessed August 18, 2015.
+
+Shaffer, Kris, and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://flipcamp.org/engagingstudents/shafferintro.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 Shepherd, John. 1994. [“Music, Culture and Interdisciplinarity: Reflections on Relationships.”](http://www.jstor.org/stable/853206) *Popular Music* 13 (2): 127–41.
 
@@ -343,6 +363,8 @@ Sutton-Smith, Brian. 1997. [*The Ambiguity of Play*](https://openlibrary.org/wor
 
 Svicarovich, J. 2008. ["Taking Promising High School Practices to Scale: Challenges for Oregon in Service Delivery and Governance."](http://orbusinesscouncil.org/docs/archive/BestPracticesWhitePaper-Final.pdf) In *Oregon Education Roundtable,* edited by J. Kirk. Oregon Community Foundation.
 
+Taruskin, Richard. 2005. [*The Oxford History of Western Music.*](https://openlibrary.org/works/OL3339542W/Music_in_the_seventeenth_and_eighteenth_centuries) Volume 2. Oxford: Oxford University Press.
+
 Taylor, James S. 1998. ["Poetic Knowledge: The Recovery of Education."](https://openlibrary.org/books/OL25726757M/Poetic_Knowledge_The_Recover_of_Education) Albany: State University of New York Press.
 
 VanHandel, Leigh. 2012. [“What Can Music Theory Pedagogy Learn from Mathematics Pedagogy?”](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy) *Journal of Music Theory Pedagogy* 26: 191–213.
@@ -366,44 +388,3 @@ Yates, Cliff. 2007. ["Writing like Writers in the Classroom: Free Writing and Fo
 Zbikowski, Lawrence M., and Charles K. Long. 1994. [“Cooperative Learning in the Music Theory Classroom.”](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
 
 Zoller, Uri. 1993. ["Are Lecture and Learning Compatible? Maybe for LOCS: Unlikely for HOCS."](http://pubs.acs.org/doi/abs/10.1021/ed070p195) *Journal of Chemical Education* 70 (3): 195-197. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-O’Hara, William. 2015. “Making Up for Snow Days: An Experiment in Responsive Video.” *The Bok Blog*. [*http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video*](http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video).
-
-Shaffer, Kris. 2012. “Video Grading for Transcription and Arranging Projects.” *Shaffermusic.com*. [*http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/*](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/).
-
-Shaffer, Kris, and Bryn Hughes. 2013. “Flipping the Classroom: Three Methods.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/shafferintro.html*](http://flipcamp.org/engagingstudents/shafferintro.html).
-
-Shaffer, Kris. 2015. “Homework is a Social Justice Issue.” *Hybrid Pedagogy*. [*http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/*](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/).
-
-Allen, Theodore. 1994. [**The Invention of the White Race**](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race)[*.*](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race) London and New York: Verso.
-
-Foucault, Michel. 1990. [**The History of Sexuality**](https://openlibrary.org/works/OL16028700W/The_history_of_sexuality), Translated by Robert Hurley, 3 vols. New York: Vintage Books.
-
-Kramer, Lawrence. 1990. [**Music as Cultural Practice, 1800-1900**](https://openlibrary.org/works/OL15892683W/Music_as_cultural_practice_1800-1900). Berkeley: University of California Press.
-
-Laqueur, Thomas Walter. 1990. [**Making Sex: Body and Gender from the Greeks to Freud**](https://openlibrary.org/works/OL8298059W/Making_Sex). Cambridge, MA: Harvard University Press.
-
-Marissen, Michael. 1993. “[*J.S. Bach’s Brandenburg Concertos as a Meaningful Set*](http://www.jstor.org.proxy2.cl.msu.edu/stable/742555?Search=yes&resultItemClick=true&searchText=(au:&searchText=%22Michael%20Marissen%22&searchText=)&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2528au%253A%2522Michael%2BMarissen%2522%2529%26amp%3Bprq%3D%2528au%253A%2522Susan%2BMcClary%2522%2529%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bhp%3D25%26amp%3Bso%3Drel%26amp%3Bfc%3Doff&seq=1#page_scan_tab_contents).” *The Musical Quarterly* Vol. 77, No. 2: 193-235.
-
-McClary, Susan. “The Blasphemy of Talking Politics During Bach Year.” In [**Music and Society: The Politics of Composition, Performance and Reception**](https://openlibrary.org/works/OL16493326W/Music_and_society), edited by Richard Leppert and Susan McClary, 13-62. Cambridge: Cambridge University Press, 1987.
-
-\_\_\_\_\_\_\_\_\_\_\_\_. 1986. “[*A Musical Dialectic from the Enlightenment: Mozart’s ‘Piano Concerto in G Major, K. 453*](http://www.jstor.org.proxy2.cl.msu.edu/stable/1354338?Search=yes&resultItemClick=true&&searchUri=%2Faction%2FdoAdvancedSearch%3Facc%3Don%26amp%3Bq4%3D%26amp%3Bf4%3Dall%26amp%3Bf2%3Dall%26amp%3Bla%3D%26amp%3Bq3%3D%26amp%3Bc2%3DAND%26amp%3Bisbn%3D%26amp%3Bar%3Don%26amp%3Bf1%3Dall%26amp%3Bf0%3Dau%26amp%3Bc6%3DAND%26amp%3Bf3%3Dall%26amp%3Bsd%3D%26amp%3Bq5%3D%26amp%3Bq0%3DSusan%2BMcClary%26amp%3Bgroup%3Dnone%26amp%3Bc3%3DAND%26amp%3Bq6%3D%26amp%3Bc5%3DAND%26amp%3Bed%3D%26amp%3Bpt%3D%26amp%3Bc1%3DAND%26amp%3Bwc%3Don%26amp%3Bq2%3D%26amp%3Bf5%3Dall%26amp%3Bc4%3DAND%26amp%3Bf6%3Dall%26amp%3Bq1%3D&seq=1#page_scan_tab_contents)’,” *Cultural Critique* 4: 129-69.
-
-Taruskin, Richard. 2005. [**The Oxford History of Western Music**](https://openlibrary.org/works/OL3339542W/Music_in_the_seventeenth_and_eighteenth_centuries). Vol. 2 Oxford: Oxford University Press.
