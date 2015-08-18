@@ -46,6 +46,11 @@ a small {
   display:block;
 }
 
+.copyright {
+	font-size: 75%;
+	line-height: 125%;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;

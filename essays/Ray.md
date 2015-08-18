@@ -69,6 +69,6 @@ By the end of the course, students began to reflect on race, class, and gender s
 
 The benefits of critical music literacy are numerous. Knowing more about how music communicates helps students challenge and even refuse received ideas. As a result, the differences that they perceived as longstanding between people of different races, genders, classes and so forth can be understood as products of particular times, places, and historical anxieties. Furthermore, music provides an excellent medium to introduce dialogues about charged issues in all kinds of courses. Conversations can center on music, rather than more difficult conversations about personal beliefs.
 
-This work is copyright ⓒ2015 Marcie Ray and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Marcie Ray and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</a></p>
 
 
