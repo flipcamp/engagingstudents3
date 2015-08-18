@@ -8,7 +8,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
  
 # Front matter 
 
-[Foreword: Time to Change Your Mind]({{ site.baseurl }}/essays/schubert.html)  
+[Foreword: Time to Change Your Mind]({{ site.baseurl }}/essays/Schubert.html)  
 Peter Schubert
 
 
