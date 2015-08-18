@@ -135,11 +135,15 @@ Green, Elizabeth. 2014a. [*Building a Better Teacher: How Teaching Works (and Ho
 
 ———. 2014b. [“Why Do Americans Stink at Math?”](http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html) *New York Times Magazine* (July 23).
 
+Guo, Phillip J., Juho Kim, and Rob Rubin. 2014. [“How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos.”](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf) *ACM Conference on Learning at Scale.*
+
 Haefeli, Sara. 2013. ["Using Blogs for Better Student Writing Outcomes."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/101) *Journal of Music History Pedagogy* 4 (1): 39-70.
 
 Hainey, Thomas, Thomas Connolly, Liz Boyle, and Mark Stansfield. 2011. ["Motivations for Playing Computer Games at Tertiary Education Level: A Comparison of Further Education and Higher Education Computing Students."](http://connection.ebscohost.com/c/articles/78120341/motivations-playing-computer-games-tertiary-education-level-comparison-further-education-higher-education-computing-students) *Proceedings of the European Conference on Games Based Learning* 220-229.
 
 Hall, Tom. 2009. [*Free Improvisation: A Practical Guide.*](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf) Boston, MA: Bee Boy Press.
+
+Hanch, Anna, Christopher Newman, Lisa Hillers, Thomas Schildhauer, Katherine McConachie, and Philipp Schmidt. 2015. [“Video and Online Learning: Critical Reflections and Findings from the Field.”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2577882) *HIIG Discussion Paper Series* No. 2015-02.
 
 Hein, Ethan. 2014. [“How Can Traditional Music Theory Mesh With Modern Pop Music?”](http://www.slate.com/blogs/quora/2014/02/17/teaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html) *Slate,* February 17. Accessed June 15, 2015.
 
@@ -159,6 +163,8 @@ Hughes, Bryn. 2013. [“Just-in-Time Teaching and Peer Instruction.”](http://f
 
 Huron, David. 2007. [*Sweet Anticipation: Music and The Psychology of Expectation.*](https://openlibrary.org/books/OL10238232M/Sweet_Anticipation) Cambridge, Mass.: MIT Press.
 
+Ilioudi, Christina, Michail N. Giannakos, and Konstantinos Corianopoulous. 2013. [“Investigating Differences Among the Commonly Used Video Lecture Styles.”](http://ceur-ws.org/Vol-983/paper5.pdf) *Proceedings of the Workshop on Analytics on Video-Based Learning (WAVe ’13)*: 21-26.
+
 Jenkins, J. Daniel. forthcoming. “*I* Care If You Listen: Schoenberg’s ‘School of Criticism’ and the Role of the Amateur.” [*Journal of the Arnold Schönberg Center.*](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center)
 
 Johnson, Roger. 2009. “Critically Reflective Musicianship.” In [*Music Education For Changing Times: Guiding Visions For Practice,*](https://openlibrary.org/works/OL16950546W/Music_education_for_changing_times) edited by Thomas A.Regelski, and J. Terry Gates, 17-26. New York: Springer.
@@ -169,7 +175,7 @@ Jones, Evan, Matthew Shaftel, with Juan Chattah. 2013. [*Aural Skills in Context
 
 Karpinski, Gary. 2000. [*Aural Skills Acquisition.*](https://global.oup.com/academic/product/aural-skills-acquisition-9780195117851?cc=us&lang=en&) New York: Oxford University Press.
 
-Kerstetter, Kathleen. 2011. “Pod-Logic: A Guide to Getting the Most out of Your iPod in the Music Classroom.” In [*Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from American Idol to YouTube,*](https://openlibrary.org/works/OL16113241W/Pop-culture_pedagogy_in_the_music_classroom), edited by Nicole Biamonte, 19–28. Lanham, MD: Scarecrow Press, Inc.
+Kerstetter, Kathleen. 2011. “Pod-Logic: A Guide to Getting the Most out of Your iPod in the Music Classroom.” In [*Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from American Idol to YouTube,*](https://openlibrary.org/works/OL16113241W/Pop-culture_pedagogy_in_the_music_classroom) edited by Nicole Biamonte, 19–28. Lanham, MD: Scarecrow Press, Inc.
 
 King, Alison. 2002. ["Structuring Peer Interaction to Promote High-Level Cognitive Processing."](http://eric.ed.gov/?id=EJ648202) *Theory Into Practice* 41 (1): 33-39.
 
@@ -216,6 +222,8 @@ Mekler, Elisa D., Florian Bruhlmann, Klaus Opwis, and Alexandre N. Tuch. 2013. [
 Meyer, Leonard B. 1984. [“Music and Ideology in the Nineteenth Century.”](http://tannerlectures.utah.edu/_documents/a-to-z/m/meyer85.pdf) The Tanner Lectures on Human Values.
 
 Michaelsen, Garrett. 2014. [“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom."](http://flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
+Miyake, Jan. 2014. [“A Mini-Flip of the Music Theory Classroom.”](http://flipcamp.org/engagingstudents2/essays/miyake1.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
 Monelle, Raymond. 2000. [*The Sense of Music: Semiotic Essays.*](https://openlibrary.org/books/OL7757386M/The_Sense_of_Music) Princeton, N.J.: Princeton University Press.
 
@@ -375,15 +383,6 @@ Zoller, Uri. 1993. ["Are Lecture and Learning Compatible? Maybe for LOCS: Unlike
 
 
 
-Gosden, Stephen. 2013. “The ‘Technology Tools’ Session at FlipCamp Music Theory.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/gosden.html*](http://flipcamp.org/engagingstudents/gosden.html).
-
-Guo, Phillip J., Juho Kim, and Rob Rubin. 2014. “How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos.” *ACM Conference on Learning at Scale.*[ ](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf)[*http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement\_LAS-2014.pdf*](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf).
-
-Hanch, Anna, Christopher Newman, Lisa Hillers, Thomas Schildhauer, Katherine McConachie, and Philipp Schmidt. 2015. “Video and Online Learning: Critical Reflections and Findings from the Field.” *HIIG Discussion Paper Series* No. 2015-02. [*http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2577882*](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2577882).
-
-Ilioudi, Christina, Michail N. Giannakos, and Konstantinos Corianopoulous. 2013. “Investigating Differences Among the Commonly Used Video Lecture Styles.” *Proceedings of the Workshop on Analytics on Video-Based Learning (WAVe ’13)*. 21-26.[ ](http://ceur-ws.org/Vol-983/paper5.pdf)[*http://ceur-ws.org/Vol-983/paper5.pdf*](http://ceur-ws.org/Vol-983/paper5.pdf).
-
-Miyake, Jan. 2014. “A Mini-Flip of the Music Theory Classroom.” *Engaging Students* 2. [*http://flipcamp.org/engagingstudents2/essays/miyake1.html*](http://flipcamp.org/engagingstudents2/essays/miyake1.html).
 
 O’Hara, William. 2015. “Making Up for Snow Days: An Experiment in Responsive Video.” *The Bok Blog*. [*http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video*](http://bokcenter.harvard.edu/blog/making-snow-days-experiment-responsive-video).
 
