@@ -69,7 +69,7 @@ Despite varying topics and sizes, general education music courses seem to have o
 
 
 
-<small>This work is copyright ⓒ2015 Alexa Woloshyn and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-sa/3.0/)</small>
+<p style="font-size: 85%; line-height: 125%">This work is copyright ⓒ2015 Alexa Woloshyn and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
 
 
 
