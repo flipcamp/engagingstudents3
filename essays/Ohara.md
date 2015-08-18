@@ -37,7 +37,7 @@ In this brief essay, I’ll explore three general kinds of “responsive videos,
 
 Just as the production of “flipped” content may be scaled up or down based on one’s technical capabilities, resources, and preparation time, so too may the production values of responsive videos. [Stephen Gosden’s](http://flipcamp.org/engagingstudents/gosden.html) account of the “technology tools” session at FlipCamp 2013 gives a useful overview of some of the hardware and software options available to instructors. The video below describes the simple studio setup I’ve used in my work with the [Derek Bok Center for Teaching and Learning](http://bokcenter.harvard.edu/), and in my own teaching; additional tutorials on the finer points of video editing, [such as this one](https://www.youtube.com/watch?v=tGF0EpjZNz8), are readily available online. In my usual setup, the instructor sits at a small table and speaks into one camera, while a second camera, suspended above the table, captures notes, documents, or demonstrations. This basic setup can be reduced or expanded as necessary. For example, In many of my own teaching videos and especially in my multimedia evaluations, I’ve added a keyboard and a computer. At the Bok Center, we typically use a pair of [mid-level (“pro-sumer”) DSLR cameras](http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_70d), but I’ve also produced effective videos at home or in my office using my built-in computer camera and simple tablet capture (using an app such as ["Explain Everything"](http://explaineverything.com/)). And as the photo above demonstrates, some resourcefulness and a smartphone can go a long way.
 
-<iframe src="https://player.vimeo.com/video/130475241" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<iframe src="https://player.vimeo.com/video/130475241" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><i><a href="https://vimeo.com/130475241">Introduction to Overhead Camera Teaching</a> from <a href="https://vimeo.com/derekbokcenter">Derek Bok Center</a> on <a href="https://vimeo.com">Vimeo</a>.</i></p>
 
 ## Clarification, Extension, Enrichment
 
@@ -45,7 +45,7 @@ The first category of responsive videos, which give the technique its name, can 
 
 In my own classroom, I’ve used video in order to better serve the different constituencies among my students. For example, I was Head Teaching Fellow for “Music Theory for Non-Majors” this past fall, and while most of my students were lifelong performers who could easily major in music, the lectures were designed for the far larger population of students who had little musical background. The video embedded below is one attempt, created after one of the weekly lectures, to tie the activities of the course into the more advanced studies in counterpoint undertaken by my students.
 
-<iframe src="https://player.vimeo.com/video/130360423" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<iframe src="https://player.vimeo.com/video/130360423" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><i><a href="https://vimeo.com/130360423">Species Counterpoint - Feb 11, 2015</a> from <a href="https://vimeo.com/derekbokcenter">Derek Bok Center</a> on <a href="https://vimeo.com">Vimeo</a>.</i></p>
 
 Responsive videos are also ideal for fielding the interesting but off-topic (or at least out-of-sequence) questions which arise frequently in music theory. For example, this past semester I used the opening phrase of Beethoven’s Fifth Symphony (*below*) as part of a lesson on musical sentences. One perceptive student immediately zeroed in on measure 20. “What’s that?” she asked, pointing to the augmented sixth chord. Giving a quick answer at the time, but then producing a video after class, allowed me to give her (and other interested students) a satisfying answer, without having to stray too far from our fragmentations and continuations.
 
@@ -69,7 +69,7 @@ Delivering feedback in multimedia form is perhaps the most novel, and the most s
 
 The following “highlight reel” shows anonymized excerpts from a few multimedia evaluations I’ve done for my students.
 
-<iframe src="https://player.vimeo.com/video/130791578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<iframe src="https://player.vimeo.com/video/130791578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><i><a href="https://vimeo.com/130791578">Flipping the Flip: Sample Multimedia Comments</a> from <a href="https://vimeo.com/williamevanohara">William O&#039;Hara</a> on <a href="https://vimeo.com">Vimeo</a>.</i></p>
 
 I’ve found multimedia evaluations extremely effective. They allow students, first and foremost, to *watch* your engagement with their assignments. [As Kris Shaffer has noted](http://kris.shaffermusic.com/2012/04/video-grading-for-transcription-arranging-projects/), screencasting evaluations demystifies the grading process for students. Using a live camera or a keyboard makes these videos even more personal and engaging, allows students to hear their music being performed, and lets the instructor demonstrate the moments that work especially well (and *why*), or suggest alternatives for passages that need attention.
 
@@ -84,6 +84,6 @@ These examples are just some of the possibilities for using a rapid, after-the-f
 2. While any technical setup works for producing educational videos, a growing body of evidence ([Iloudi, et al. 2013](http://ceur-ws.org/Vol-983/paper5.pdf); [Guo, et al. 2014](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf)) suggests that videos of instructors speaking into camera are both more enjoyable and more effective than “Khan-style” tablet capture alone. [Cross, et al. 2013](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf) also demonstrate that handwriting in educational videos is more effective than computer-generated text. They attribute this effect primarily to the way that handwritten words appear gradually, and they propose their “TypeRighting” method in order to give computer text this quality.
 
 
-<p style="font-size: 80%; line-height: 120%">This work is copyright ⓒ2015 William O’Hara and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-sa/3.0/)</p>
+<p style="font-size: 85%; line-height: 125%">This work is copyright ⓒ2015 William O’Hara and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
 
 
