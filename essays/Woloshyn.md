@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Music Appreciation and General Education in the College Classroom: Four Activities to Create Meaningful Musical Engagement
-author: Alexa Woloshyn, ???
+title: "Music Appreciation and General Education in the College Classroom: Four Activities to Create Meaningful Musical Engagement"
+author: Alexa Woloshyn, ??? (institution)
 ---
 
 {{ page.title }}
@@ -19,7 +19,7 @@ The activities I outline below were implemented in a class of 90 general educati
 
 Listening is perhaps the default mode of musical engagement in a general education classroom. This kind of listening is too often relatively passive, with a desire to keep the material at an accessible level for the non-musician (which could result in only providing the musical details required for the test) and large class sizes that make active learning more [challenging](http://www.tandfonline.com/doi/abs/10.1080/13562511003620001#.VabqN0uTpq8), including [student resistance](http://josotl.indiana.edu/article/view/1808). Instructors typically begin a course by providing a basic musical vocabulary. Textbooks designed for general education classrooms often open with a terminology chapter that introduces students to the basic musical elements. Familiarity with these elements allows students to more easily digest complex musical sounds and help them differentiate between different musical genres, styles, and specific musical works. But they often struggle to apply concepts and terminology to new examples on their own (as opposed to the textbook or me telling them).
 
-One way that instructors can help students apply their knowledge to unfamiliar works is to arrange students in groups of 4-5 and have them concentrate on a particular musical element during one or two listenings. General education students in particular seem to be overwhelmed when asked to describe what they hear with a shared and precise language. Asking them to concentrate on one element and having them first discuss what they hear in a small group and then with the whole class allows them to focus and build confidence. In the large group, the instructor can ask students for their observations and help them articulate ways in which different musical elements combine. For example, what part of the work is the loudest, densest, or highest in melody? What other musical elements change when the texture changes?
+One way that instructors can help students apply their knowledge to unfamiliar works is to arrange students in groups of 4–5 and have them concentrate on a particular musical element during one or two listenings. General education students in particular seem to be overwhelmed when asked to describe what they hear with a shared and precise language. Asking them to concentrate on one element and having them first discuss what they hear in a small group and then with the whole class allows them to focus and build confidence. In the large group, the instructor can ask students for their observations and help them articulate ways in which different musical elements combine. For example, what part of the work is the loudest, densest, or highest in melody? What other musical elements change when the texture changes?
 
 Another activity to help students expand their listening skills uses Elizabeth Barkley’s[ “Hearing the Subject."](https://openlibrary.org/works/OL5852684W/Student_engagement_techniques) The instructor can instruct students to listen carefully to a chosen musical work and individually write down what they hear, not yet evaluating or interpreting the music. He or she could then arrange them in small groups (3–4) to share their observations, again refraining from giving any evaluation or interpretation. One could then combine the small groups into bigger groups (6–8) to compare what the small groups had discussed. What are students hearing in the music? What aspects stick out to some students but not to others? After concentrating solely on the musical characteristics for most of this activity, the larger group can now discuss what they perceive to be the music’s meaning, based on their careful listening. Then the entire class can synthesize the larger groups’ discussion of meaning with a short lesson on the music’s socio-cultural context.
 
@@ -69,7 +69,7 @@ Despite varying topics and sizes, general education music courses seem to have o
 
 
 
-This work is copyright ⓒ2015 Alexa Woloshyn and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ2015 Alexa Woloshyn and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
 
