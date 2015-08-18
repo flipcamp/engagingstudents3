@@ -17,8 +17,6 @@ Anderson, Myrdene. 1998. “Folklore, Folklife and other bootstrapping tradition
 
 Arnheim, Rudolf. 1992. [*To the Rescue of Art: Twenty-Six Essays.*](https://openlibrary.org/books/OL1531517M/To_the_rescue_of_art) Berkeley: University of California Press.
 
-Axis of Awesome, The. ["4 Chords."](https://www.youtube.com/watch?v=oOlDewpCfZQ) YouTube. Accessed June 5, 2015.
-
 BaileyShea, Matt L. 2007. ["Filleted Mignon: A New Recipe for Analysis and Recomposition."](http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.baileyshea.html) *Music Theory Online* 13 (4). 
 
 Bain, Ken. 2004. [*What the Best College Teachers Do.*](http://www.hup.harvard.edu/catalog.php?isbn=9780674013254) Cambridge, MA: Harvard University Press.
@@ -29,11 +27,19 @@ Barkley, Elizabeth F. 2010. [*Student Engagement Techniques: A Handbook for Coll
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom.*](https://openlibrary.org/works/OL15952336W/Engaging_ideas) Second edition. Hoboken, NJ: Jossey-Bass.
 
+Bourne, Janet. 2014. [“CAT Got Your Tongue? Adapting Classroom Assessment Techniques (CATs) for the Music Classroom.”](http://flipcamp.org/engagingstudents2/essays/bourne.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
 Brackett, David. 2014. [*The Pop, Rock, and Soul Reader: Histories and Debates, Third Edition.*](https://openlibrary.org/works/OL3521227W/The_Pop_Rock_and_Soul_Reader) New York: Oxford University Press.
 
 Bribitzer-Stull, Matthew. 2003. [“Contention in the Classroom: Encouraging Debate and Alternate Readings in the Undergraduate Theory Class.”](http://jmtp.ou.edu/journal-article/contention-classroom-encouraging-debate-and-alternate-readings-undergraduate-theory) *Journal of Music Theory Pedagogy* 17: 21–45.
 
 Bruner, Jerome. 1990. [*Acts of Meaning.*](https://openlibrary.org/works/OL2976729W/Acts_of_meaning) Cambridge, MA: Harvard University Press.
+
+Burke, Kevin. 2014. ["Roleplaying Music History: Honing General Education Skills via ‘Reacting to the Past.'"](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134) *Journal of Music History Pedagogy* 5 (1): 1-21.
+
+Burkholder, J. Peter. 2015. ["The Value of a Music History Survey."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175) *Journal of Music History Pedagogy* 5 (2): 57-63.
+
+———. 2002. ["Peer Learning in Music History Courses."](https://openlibrary.org/works/OL8477219W/Teaching_Music_History) In *Teaching Music History,* edited by Mary Natvig, 205-223. Farnham, Surrey, England: Ashgate.
 
 Burnham, Scott G. 2006. “Form.” In [*The Cambridge History of Western Music Theory,*](https://openlibrary.org/books/OL7752044M/The_Cambridge_History_of_Western_Music_Theory_(The_Cambridge_History_of_Music)) edited by Thomas Christensen, 880-906. Cambridge: Cambridge University Press.
 
@@ -51,7 +57,7 @@ Chattah, Juan. 2015. ["A Paradigm Shift in Undergraduate Music Theory Pedagogy."
 
 Chesterton, Gilbert Keith. 1997. [*Platitudes Undone: A Facsimile Edition of ‘Platitudes in the Making: Precepts & Advices for Gentlefolk’ by Holbrook Jackson.*](https://openlibrary.org/books/OL25726758M/Platitudes_Undone_A_Facsimile_Edition_of_%27Platitudes_in_the_Making_Precepts_Advices_for_Gentlefolk%27_) San Francisco: Ignatius Press.
 
-Clarkson, Kelly. ["Already Gone."](https://www.youtube.com/watch?v=f0T3WAbU6tg) YouTube. Accessed July 14, 2015.
+Clague, Mark. 2011. ["Publishing Student Work on the Web: The Living Music Project and the Imperatives of the New Literacy."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48) *Journal of Music History Pedagogy* 2 (1): 61-80.
 
 Clendenning, Jane Piper and Elizabeth West Marvin. 2011. [*A Musician’s Guide to Theory and Analysis.*](http://books.wwnorton.com/books/webad.aspx?id=23023) New York: W.W. Norton and Company.
 
@@ -65,11 +71,13 @@ Cornelius, Steven, and Mary Natvig. 2012. [*Music: A Social Experience.*](https:
 
 Covach, John. 1997. “We Won’t Get Fooled Again: Rock Music and Musical Analysis.” In [*Keeping Score: Music, Disciplinarity, Culture,*](https://openlibrary.org/books/OL25716058M/Keeping_Score_Music_Disciplinarity_Culture) edited by David Schwarz, Anahid Kassabian, and Lawrence Siegel. Charlottesville: University Press of Virginia.
 
+Crain, Timothy M. 2014. ["Beyond Coverage in the Music History Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110) *Journal of Music History Pedagogy* 4 (2): 301–18.
+
 Credé, Marcus, Sylvia G. Roch, and Urszula M. Kieszczynka. 2010. ["Class Attendance in College: A Meta-Analytic Review of the Relationship of Class Attendance With Grades and Student Characteristics."](http://web.ccsu.edu/retentionandgraduation/files/attendance.pdf) *Review of Educational Research* 80 (2): 272-295. doi: 10.3102/0034654310362998.
 
 Croft, John. 2010. [“The Spectral Legacy.”](http://dx.doi.org/10.1080/02690401003620730) *Journal of the Royal Musical Association* 135 (1): 191–97.
 
-Cyrus, Miley. ["Wrecking Ball."](https://www.youtube.com/watch?v=My2FRPA3Gf8) YouTube. Accessed July 21, 2015.
+Cross, Andrew, Mydhili Bayyapunedi, Edward Cutrell, Anant Agarwal, and William Thies. 2013. [“TypeRighting: Combining the Benefits of Handwriting and Typeface in Online Educational Videos.”](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf) *Proceedings of CHI 2013.*
 
 Diamond, Beverley. 2008. [*Native American Music in Eastern North America.*](https://openlibrary.org/works/OL3083403W/Native_American_Music_in_Eastern_North_America) New York: Oxford University Press.
 
@@ -91,13 +99,21 @@ Fain, Paul. 2014. ["Experimenting With Aid."](https://www.insidehighered.com/new
 
 Falchikov, Nancy. 2001. [*Learning Together: Peer Tutoring in Higher Education.*](https://openlibrary.org/works/OL9155746W/Learning_Together) London: RoutledgeFalmer.
 
+Feisst, Sabine. 1999. “Schoenberg and America.” In [*Schoenberg and His World*](https://openlibrary.org/works/OL3275904W/Schoenberg_and_His_World), edited by Walter Frisch, 298–301. Princeton: Princeton University Press.
+
 Ferenc, Anna. 2015. ["Transforming Passive Receptivity of Knowledge into Deep Learning Experiences at the Undergraduate Level: An Example form Music Theory."](http://celt.uwindsor.ca/ojs/leddy/index.php/CELT/article/viewFile/4254/3514) *Collected Essays on Learning and Teaching* 8: 55-77.
 
+Fink, Robert. 2002. ["Teaching Music History (After the End of History): ‘History Games’ for the Twentieth-Century Survey."](https://openlibrary.org/works/OL8477219W/Teaching_Music_History) In *Teaching Music History*, edited by Mary Natvig, 43-65. Farnham, Surrey, England: Ashgate.
+
 Finkel, Donald L. 2000. [*Teaching with Your Mouth Shut.*](https://openlibrary.org/works/OL3493342W/Teaching_with_Your_Mouth_Shut) Portsmouth, NH: Boynton/Cook Publishers.
+
+Francis, Kimberly, and Travis Stimeling. 2013. ["E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/92) *Journal of Music History Pedagogy* 4 (1): 1-22.
 
 Freire, Paulo. 2011. [*Education for Critical Consciousness.*](https://openlibrary.org/works/OL1870486W/Education_For_Critical_Consciousness_(Continuum_Impacts)) New York: Continuum.
 
 ———. 1998. [*Pedagogy of Freedom: Ethics, Democracy, and Civic Courage.*](https://openlibrary.org/books/OL369525M/Pedagogy_of_freedom) Translated by Patrick Clarke. New York: Rowman & Littlefield.
+
+Friend, Chris. 2014. [“Learning to Let Go: Listening to Students in Discussion.”](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/) *Hybrid Pedagogy,* September 11.
 
 Gallagher, Chris W. 2014. ["Disrupting the Game Changer: Remembering the History of Competency-Based Education."](http://www.changemag.org/Archives/Back%20Issues/2014/November-December%202014/disrupting_abstract.html) *Change* 16.
 
@@ -119,11 +135,15 @@ Green, Elizabeth. 2014a. [*Building a Better Teacher: How Teaching Works (and Ho
 
 ———. 2014b. [“Why Do Americans Stink at Math?”](http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html) *New York Times Magazine* (July 23).
 
+Haefeli, Sara. 2013. ["Using Blogs for Better Student Writing Outcomes."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/101) *Journal of Music History Pedagogy* 4 (1): 39-70.
+
 Hainey, Thomas, Thomas Connolly, Liz Boyle, and Mark Stansfield. 2011. ["Motivations for Playing Computer Games at Tertiary Education Level: A Comparison of Further Education and Higher Education Computing Students."](http://connection.ebscohost.com/c/articles/78120341/motivations-playing-computer-games-tertiary-education-level-comparison-further-education-higher-education-computing-students) *Proceedings of the European Conference on Games Based Learning* 220-229.
 
 Hall, Tom. 2009. [*Free Improvisation: A Practical Guide.*](http://www.freeimprovisation.com/improvbooksamples/files/Ch%204%20Excerpt.pdf) Boston, MA: Bee Boy Press.
 
 Hein, Ethan. 2014. [“How Can Traditional Music Theory Mesh With Modern Pop Music?”](http://www.slate.com/blogs/quora/2014/02/17/teaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html) *Slate,* February 17. Accessed June 15, 2015.
+
+Hepokoski, James, and Warren Darcy. 2006. [*Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth Century Sonata.*](http://openlibrary.org/works/OL4294182W/Elements_of_sonata_theory) New York: Oxford University Press.
 
 Hills, Thomas T. 2015a. ["Crowdsourcing Content Creation in the Classroom."](http://link.springer.com/journal/12528/27/1/page/1) *Journal of Computing in Higher Education* 27 (1): 47–67.
 
@@ -135,7 +155,11 @@ hooks, bell. 1994. [*Teaching to Transgress: Education As The Practice of Freedo
 
 Huang, Wendy Hsin-Yuan, and Dilip Soman. 2013. ["A Practitioner's Guide to Gamification of Education."](http://inside.rotman.utoronto.ca/behaviouraleconomicsinaction/files/2013/09/GuideGamificationEducationDec2013.pdf) In *Behavioural Economics in Action.* Toronto, Ontario: Rotman School of Management.
 
+Hughes, Bryn. 2013. [“Just-in-Time Teaching and Peer Instruction.”](http://flipcamp.org/engagingstudents/hughes.html) *Engaging Students: Essays in Music Pedagogy* 1.
+
 Huron, David. 2007. [*Sweet Anticipation: Music and The Psychology of Expectation.*](https://openlibrary.org/books/OL10238232M/Sweet_Anticipation) Cambridge, Mass.: MIT Press.
+
+Jenkins, J. Daniel. forthcoming. “*I* Care If You Listen: Schoenberg’s ‘School of Criticism’ and the Role of the Amateur.” [*Journal of the Arnold Schönberg Center.*](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center)
 
 Johnson, Roger. 2009. “Critically Reflective Musicianship.” In [*Music Education For Changing Times: Guiding Visions For Practice,*](https://openlibrary.org/works/OL16950546W/Music_education_for_changing_times) edited by Thomas A.Regelski, and J. Terry Gates, 17-26. New York: Springer.
 
@@ -149,9 +173,13 @@ Kerstetter, Kathleen. 2011. “Pod-Logic: A Guide to Getting the Most out of You
 
 King, Alison. 2002. ["Structuring Peer Interaction to Promote High-Level Cognitive Processing."](http://eric.ed.gov/?id=EJ648202) *Theory Into Practice* 41 (1): 33-39.
 
-Knyt, Erinn. 2014.[“Student Performance as Pedagogy in the Music History Survey Course.”](http://flipcamp.org/engagingstudents2/essays/knyt.html) *Engaging Students: Essays in Music Pedagogy* 2.
+Knyt, Erinn. 2014. [“Student Performance as Pedagogy in the Music History Survey Course.”](http://flipcamp.org/engagingstudents2/essays/knyt.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
+Knyt, Erinn E. 2013. ["Rethinking the Music History Research Paper Assignment."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/95) *Journal of Music History Pedagogy* 4 (1): 23-37.
 
 Kulma, David, and Meghan Naxer. 2014. [“Beyond Part Writing: Modernizing the Curriculum.”](http://flipcamp.org/engagingstudents2/essays/kulmaNaxer.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
+Lampert, Magdalene. 2001. [*Teaching Problems and the Problems of Teaching.*](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching) New Haven: Yale University Press.
 
 Larson, Steve. 2012. [“Expressive Meaning and Musical Structure.”](http://www.mtosmt.org/issues/mto.12.18.3/mto.12.18.3.larson.html) *Music Theory Online* 18 (3).
 
@@ -161,7 +189,11 @@ Lehman, Frank. 2013a. [“Transformational Analysis and the Representation of Ge
 
 ———. 2013b. [“Hollywood Cadences: Music and the Structure of Cinematic Expectation.”](http://www.mtosmt.org/issues/mto.13.19.4/mto.13.19.4.lehman.html) *Music Theory Online* 19 (4).
 
-MacLachlan, Heather. 2011. “Teaching Traditional Music Theory with Popular Songs: Pitch Structures.” In [*Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from American Idol to YouTube,*](https://openlibrary.org/works/OL16113241W/Pop-culture_pedagogy_in_the_music_classroom), edited by Nicole Biamonte, 73–94. Lanham, MD: Scarecrow Press, Inc.
+Lowe, Melanie. 2015. ["Rethinking the Undergraduate Music History Sequence in the Information Age."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *Journal of Music History Pedagogy* 5 (2): 65-71.
+
+Lyman, Frank T. 1981. [“The Responsive Classroom Discussion: The Inclusion of All Students.”](http://www.worldcat.org/title/mainstreaming-digest-a-collection-of-faculty-and-student-papers/oclc/63759678) In *Mainstreaming Digest: A Collection of Faculty and Student Papers,* edited by Audrey Springs Anderson, 109–13. College Park: University of Maryland.
+
+MacLachlan, Heather. 2011. “Teaching Traditional Music Theory with Popular Songs: Pitch Structures.” In [*Pop-Culture Pedagogy in the Music Classroom: Teaching Tools from American Idol to YouTube,*](https://openlibrary.org/works/OL16113241W/Pop-culture_pedagogy_in_the_music_classroom) edited by Nicole Biamonte, 73–94. Lanham, MD: Scarecrow Press, Inc.
 
 Maiello, James Vincent. 2013. ["Toward an Extension of Regelski’s Praxial Philosophy of Music Education into Music History Pedagogy."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/85/127) *Journal of Music History Pedagogy* 4 (1): 71-108.
 
@@ -176,6 +208,8 @@ Marzano, R. J., and T. Heflebower. 2011. ["Grades That Show What Students Know."
 McClary, Susan. 2004. “Rap, Minimalism, and Structures of Time in Late Twentieth-Century Culture.” In [*Audio Culture: Readings in Modern Music,*](https://openlibrary.org/books/OL25746647M/Audio_Culture_Readings_in_Modern_Music) edited by Christoph Cox and Daniel Warner. New York: Continuum.
 
 McGranahan, Carole. 2014.[“What is Ethnography? Teaching Ethnographic Sensibilities without Fieldwork.”](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) *Teaching Anthropology* 4: 23-36.
+
+McManus, Laurie. 2014. ["Playing by Ear: Listening Games in the Music History Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/130) *Journal of Music History Pedagogy* 5 (1): 23-39.
 
 Mekler, Elisa D., Florian Bruhlmann, Klaus Opwis, and Alexandre N. Tuch. 2013. ["Do Points, Levels and Leaderboards Harm Intrinsic Motivation?: An Empirical Analysis of Common Gamification Elements."](http://dl.acm.org/citation.cfm?id=2583017) *Proceedings of the First International Conference on Gameful Design, Research, and Applications*: 66-73.
 
@@ -203,6 +237,8 @@ Mulryan-Kyne, Catherine. 2010. [“Teaching Large Classes At College and Univers
 
 Murphy, Scott. 2015. “Transformational Theory and The Analysis of Film Music.” In [*The Oxford Handbook of Film Music Studies,*](https://openlibrary.org/books/OL25716055M/The_Oxford_Handbook_of_Film_Music_Studies) edited by David Neumeyer. Oxford: Oxford University Press.
 
+Natvig, Mary. 2012. ["Classroom Activities."](https://openlibrary.org/works/OL16557937W/The_music_history_classroom) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
+
 Nelson, Lans. 2013. ["A Certain Slant of Light, Typographically Speaking."](https://lanssolo.wordpress.com/2013/04/06/a-certain-slant-of-light-typographically-speaking/) Blog post. Accessed June 6, 2010.
 
 Omi, Michael, and Howard Winant. 1994. [*Racial Formation in the United States: From the 1960s to the 1990s.*](https://openlibrary.org/works/OL3417522W/Racial_formation_in_the_United_States) New York: Routledge.
@@ -227,13 +263,23 @@ Rogers, Michael. 2004. [*Teaching Approaches in Music Theory: An Overview of Ped
 
 Rigby, Scott, and Richard Ryan. 2007. ["Rethinking Carrots: A New Method for Measuring What Players Find Most Rewarding and Motivating About Your Game."](http://www.gamasutra.com/view/feature/130155/rethinking_carrots_a_new_method_.php?page=3) Gamasutra. Accessed July 2, 2015.
 
+Roig-Francolí, Miguel A. 2011. [*Harmony in Context.*](http://highered.mheducation.com/sites/0073137944/information_center_view0/index.html) Second edition. New York: McGraw-Hill.
+
 Roust, Colin. 2013. ["Creating Illusions: Practical Approaches to Teaching ‘Added Value’ in Audiovisual Artworks."](http://flipcamp.org/engagingstudents/roust.html) *Engaging Students: Essays in Music Pedagogy* 1. 
 
 Russell, Bertrand. 2009. [*The Basic Writings of Bertrand Russell.*](https://openlibrary.org/books/OL22696754M/The_basic_writings_of_Bertrand_Russell) New York: Routledge.
 
 Ryan, Mary-Laure. 2004. “Multivariant Narratives,” In [*A Companion to Digital Humanities,*](https://openlibrary.org/works/OL16969054W/A_companion_to_digital_humanities) edited by Susan Schreibman, Ray Siemens, and John Unsworth. Malden, MA: Blackwell.
 
+Salley, Keith. 2012. [“On Fostering Critical Thinking in the Music Theory Classroom through Comparative Analysis and Debate.”](http://upers.kuleuven.be/sites/upers.kuleuven.be/files/page/files/2012_1_6.pdf) *Dutch Journal of Music Theory* 17 (1): 46–54.
+
+Saul, Mark, ed. 2015. [“Response to the Elizabeth Green Article.”](http://www.ams.org/notices/201505/rnoti-p508.pdf) *Notices of the American Mathematical Society* 62 (5): 508–14.
+
 Saxe, G. B. 1988. ["Candy Selling and Math Learning."](http://edr.sagepub.com/content/17/6.toc) *Educational Researcher* 17 (6): 14-21.
+
+Schoenberg, Arnold. 2006. [*The Musical Idea and the Logic, Technique, and Art of Its Presentation.*](https://openlibrary.org/works/OL9266649W/The_Musical_Idea_And_the_Logic_Technique_And_Art_of_Its_Presentation) Edited and translated with a Commentary by Patricia Carpenter and Severine Neff. Bloomington: Indiana University Press.
+
+———. 1964. [*Letters*](https://openlibrary.org/books/OL7709183M/Letters). Edited by Erwin Stein. Translated by Eithne Wilkins and Ernst Kaiser. London: Faber.
 
 Schubert, Peter. 2014. ["Teaching Music Analysis through Improvisation."](http://flipcamp.org/engagingstudents2/essays/schubert.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
@@ -249,9 +295,17 @@ Schubert, Peter. 2014. ["Teaching Music Analysis through Improvisation."](http:/
 
 Seabrook, John. 2001. [*Nobrow: The Culture of Marketing, the Marketing of Culture.*](https://openlibrary.org/books/OL3963777M/Nobrow) New York: Vintage.
 
+Seaton, Douglas. 2015. ["Reconsidering Undergraduate Music History: Some Introductory Thoughts."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176) *Journal of Music History Pedagogy* 5 (2): 53-56.
+
+Shadle, Douglas. 2012. ["Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/66) *Journal of Music History Pedagogy* 3 (1): 1-37.
+
 Shaffer, Kris. 2014a. ["Assessing Problem-based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) *Engaging Students: Essays in Music Pedagogy* 2. 
 
 ———. 2014b. ["Student-centered Curriculum."](http://kris.shaffermusic.com/2014/12/student-centered-curriculum/) Blog post. Accessed June 5, 2015.
+
+———. 2013a. [“The Basic Flip.”](http://flipcamp.org/engagingstudents/shafferpt1.html) *Engaging Students: Essays in Music Pedagogy* 1.
+
+———. 2013b. [“Inquiry-Based Learning.”](http://flipcamp.org/engagingstudents/shafferpt3.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 Shepherd, John. 1994. [“Music, Culture and Interdisciplinarity: Reflections on Relationships.”](http://www.jstor.org/stable/853206) *Popular Music* 13 (2): 127–41.
 
@@ -283,6 +337,8 @@ Svicarovich, J. 2008. ["Taking Promising High School Practices to Scale: Challen
 
 Taylor, James S. 1998. ["Poetic Knowledge: The Recovery of Education."](https://openlibrary.org/books/OL25726757M/Poetic_Knowledge_The_Recover_of_Education) Albany: State University of New York Press.
 
+VanHandel, Leigh. 2012. [“What Can Music Theory Pedagogy Learn from Mathematics Pedagogy?”](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy) *Journal of Music Theory Pedagogy* 26: 191–213.
+
 Werback, K. [*PBL.*](https://gamification21.wordpress.com/learning-content-2/10-pbl/) Gamification. Accessed July 17, 2015.
 
 Whitehead, Alfred North. 1929. ["The Aims of Education and Other Essays."](https://openlibrary.org/books/OL19843683M/The_aims_of_education_and_other_essays) London: William & Norgate.
@@ -291,9 +347,15 @@ Whitman, Neal A. 1988. [*Peer Teaching: To Teach is to Learn Twice.*](http://eri
 
 Wikipedia. ["List of Songs Containing the I–V–vi–IV Progression."](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression) Accessed June 10, 2015.
 
+Wu, Hung-Hsi. 2014. [“Building Better Mathematics Teachers.”](http://math.berkeley.edu/~wu/AMSNotices_2014.pdf) Accessed August 18, 2015.
+
 Wu, Michael. 2012. ["Gamification 101: The Psychology of Motivation."](https://community.lithium.com/t5/Science-of-Social-blog/Gamification-101-The-Psychology-of-Motivation/ba-p/21864) *Science of Social,* July 2.
 
+Yang, Sandra Sedman. 2012. ["Singing Gesualdo: Rules of Engagement in the Music History Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/54) *Journal of Music History Pedagogy* 3 (1): 39-55.
+
 Yates, Cliff. 2007. ["Writing like Writers in the Classroom: Free Writing and Formal Constraint."](http://onlinelibrary.wiley.com/doi/10.1111/j.1754-8845.2007.tb01161.x/abstract) *English in Education* 41 (3). 
+
+Zbikowski, Lawrence M., and Charles K. Long. 1994. [“Cooperative Learning in the Music Theory Classroom.”](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
 
 Zoller, Uri. 1993. ["Are Lecture and Learning Compatible? Maybe for LOCS: Unlikely for HOCS."](http://pubs.acs.org/doi/abs/10.1021/ed070p195) *Journal of Chemical Education* 70 (3): 195-197. 
 
@@ -309,109 +371,9 @@ Zoller, Uri. 1993. ["Are Lecture and Learning Compatible? Maybe for LOCS: Unlike
 
 
 
-Adams, Ricci. ["Musictheory.net."](http://www.musictheory.net/) Accessed June 5, 2015.
-
-Alvira, José Rodríguez. ["Teoria: Music Theory Web."](https://www.teoria.com/) Accessed June 5, 2015.
-
-"[*Easy Scheduling | Doodle*](http://doodle.com/)." Accessed June 5, 2015.
 
 
 
-
-
-"[*Music Learning, Research and Technology Lab*](http://music.appstate.edu/current-students/lab)." Hayes School of Music. Accessed June 6, 2015.
-
-"[*Research Spotlight on Peer Tutoring*](https://www.nea.org/tools/35542.htm)." National Education Association. Accessed June 12, 2015.
-
- 
-
-"[*Tutors and Labs*](https://www.math.gatech.edu/academics/undergraduate/tutors-and-labs).” Georgia Institute of Technology. Accessed June 6, 2015.
-
-
-
-"[*Working in the Center*](http://www.cas.udel.edu/writing-center/Pages/Peer-Tutors.aspx)." UD College of Arts & Sciences: Peer Tutors. Accessed June 6, 2015.
-
-
-
-[*“Writing Objectives Using Bloom's Taxonomy.”*](http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives) 2015. The Center for Teaching and Learning, The University of North Carolina at Charlotte. Accessed May 12, 2015.
-
-
-
-
-
-
-
-
-
-
-
-Hepokoski, James, and Warren Darcy. 2006.[ ](http://openlibrary.org/works/OL4294182W/Elements_of_sonata_theory)[**Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth Century Sonata.**](http://openlibrary.org/works/OL4294182W/Elements_of_sonata_theory) New York: Oxford University Press.
-
-Hughes, Bryn. 2013.[ ](http://flipcamp.org/engagingstudents/hughes.html)[*“Just-in-Time Teaching and Peer Instruction.”*](http://flipcamp.org/engagingstudents/hughes.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
-
-Lampert, Magdalene. 2001.[ ](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching)[**Teaching Problems and the Problems of Teaching.**](http://openlibrary.org/books/OL9606683M/Teaching_Problems_and_the_Problems_of_Teaching) New Haven: Yale University Press.
-
-Lyman, Frank T. 1981.[ ](http://www.worldcat.org/title/mainstreaming-digest-a-collection-of-faculty-and-student-papers/oclc/63759678)[*“The Responsive Classroom Discussion: The Inclusion of All Students.”*](http://www.worldcat.org/title/mainstreaming-digest-a-collection-of-faculty-and-student-papers/oclc/63759678) In *Mainstreaming Digest: A Collection of Faculty and Student Papers*, ed. Audrey Springs Anderson (College Park: University of Maryland), 109–13.
-
-Roig-Francolí, Miguel A. 2011.[ ](http://highered.mheducation.com/sites/0073137944/information_center_view0/index.html)[**Harmony in Context.**](http://highered.mheducation.com/sites/0073137944/information_center_view0/index.html) 2nd ed. New York: McGraw-Hill.
-
-Salley, Keith. 2012.[ ](http://upers.kuleuven.be/sites/upers.kuleuven.be/files/page/files/2012_1_6.pdf)[*“On Fostering Critical Thinking in the Music Theory Classroom through Comparative Analysis and Debate.”*](http://upers.kuleuven.be/sites/upers.kuleuven.be/files/page/files/2012_1_6.pdf) *Dutch Journal of Music Theory* 17, no. 1: 46–54.
-
-Saul, Mark, ed. 2015.[ ](http://www.ams.org/notices/201505/rnoti-p508.pdf)[*“Response to the Elizabeth Green Article.”*](http://www.ams.org/notices/201505/rnoti-p508.pdf) *Notices of the American Mathematical Society* 62, no. 5: 508–14.
-
-Shaffer, Kris. 2013.[ ](http://flipcamp.org/engagingstudents/shafferpt1.html)[*“The Basic Flip.”*](http://flipcamp.org/engagingstudents/shafferpt1.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
-
-Shaffer, Kris. 2013.[ ](http://flipcamp.org/engagingstudents/shafferpt3.html)[*“Inquiry-Based Learning.”*](http://flipcamp.org/engagingstudents/shafferpt3.html) In *Engaging Students: Essays in Music Pedagogy*, vol. 1.
-
-VanHandel, Leigh. 2012.[ ](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy)[*“What Can Music Theory Pedagogy Learn from Mathematics Pedagogy?”*](http://jmtp.ou.edu/journal-article/what-can-music-theory-pedagogy-learn-mathematics-pedagogy) *Journal of Music Theory Pedagogy* 26: 191–213.
-
-Wu, Hung-Hsi. 2014. [*“Building Better Mathematics Teachers.”*](http://math.berkeley.edu/~wu/AMSNotices_2014.pdf)[](https://math.berkeley.edu/~wu/AMSNotices_2014.pdf)
-
-Zbikowski, Lawrence M., and Charles K. Long. 1994.[ ](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf)[*“Cooperative Learning in the Music Theory Classroom.”*](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
-
-Burke, Kevin. 2014. “[*Roleplaying Music History: Honing General Education Skills via *](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)[*‘*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)[*Reacting to the Past*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/134)’.” *Journal of Music History Pedagogy* 5 (1): 1-21.
-
-Burkholder, J. Peter. 2002. “[*Peer Learning in Music History Courses*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History).” In *Teaching Music History*, edited by Mary Natvig, 205-223. Farnham, Surrey, England: Ashgate.
-
----. 2015.[ ](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[“](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[The Value of a Music History Survey](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175)[.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175) *Journal of Music History Pedagogy* 5 (2): 57-63.
-
-Clague, Mark. 2011. “[*Publishing Student Work on the Web: The Living*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48)[*❂*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48)[*Music Project and the Imperatives of the New Literacy*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/48).” *Journal of Music History Pedagogy* 2 (1): 61-80.
-
-Crain, Timothy M. 2014.[ ](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[“](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[Beyond Coverage in the Music History Classroom](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110)[.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110) *Journal of Music History Pedagogy* 4 (2): 301–18.
-
-Fink, Robert. 2002. “[*Teaching Music History (After the End of History): ‘History Games’ for the Twentieth-Century Survey*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History).” In *Teaching Music History*, edited by Mary Natvig, 43-65. Farnham, Surrey, England: Ashgate.
-
-Francis, Kimberly and Travis Stimeling. 2013. “[*E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/92).” *Journal of Music History Pedagogy* 4 (1): 1-22.
-
-Haefeli, Sara. 2013. “[*Using Blogs for Better Student Writing Outcomes*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/101).” *Journal of Music History Pedagogy* 4 (1): 39-70.
-
-Knyt, Erinn E. 2013. “[*Rethinking the Music History Research Paper Assignment*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/95).” *Journal of Music History Pedagogy* 4 (1): 23-37.
-
-Lowe, Melanie. 2015. “[*Rethinking the Undergraduate Music History Sequence in the Information Age*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177)[*.*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177)” *Journal of Music History Pedagogy* 5 (2): 65-71.
-
-McManus, Laurie. 2014. “[*Playing by Ear: Listening Games in the Music History Classroom*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/130).” *Journal of Music History Pedagogy* 5 (1): 23-39.
-
-Natvig, Mary. 2012.[ ](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[“](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[Classroom Activities](https://openlibrary.org/works/OL16557937W/The_music_history_classroom)[.”](https://openlibrary.org/works/OL16557937W/The_music_history_classroom) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
-
-Seaton, Douglas. 2015. “[*Reconsidering Undergraduate Music History: Some Introductory Thoughts*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176).” *Journal of Music History Pedagogy* 5 (2): 53-56.
-
-Shadle, Douglas. 2012. “[*Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/66).” *Journal of Music History Pedagogy* 3 (1): 1-37.
-
-Yang, Sandra Sedman. 2012. “[*Singing Gesualdo: Rules of Engagement in the Music History Classroom*](http://www.ams-net.org/ojs/index.php/jmhp/article/view/54).” *Journal of Music History Pedagogy* 3 (1): 39-55.
-
-Feisst, Sabine. 1999. “Schoenberg and America.” In[ ](https://books.google.com/books?id=DQQSLCwRyakC&pg=PR9&dq=schoenberg+and+his+world&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMI2rPU_KmPxgIVwaAUCh31awBw#v=onepage&q=swarthout&f=false)[**Schoenberg and His World**](https://books.google.com/books?id=DQQSLCwRyakC&pg=PR9&dq=schoenberg+and+his+world&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMI2rPU_KmPxgIVwaAUCh31awBw#v=onepage&q=swarthout&f=false), edited by Walter Frisch, 298–301. Princeton: Princeton University Press.
-
-Jenkins, J. Daniel. forthcoming. “*I* Care If You Listen: Schoenberg’s ‘School of Criticism’ and the Role of the Amateur.”[ ](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center)[**Journal of the Arnold Schönberg Center**](http://www.schoenberg.at/index.php/en/onlineshop/category/36-publikationen-des-center-publications-of-the-center).
-
-Schoenberg, Arnold. 2006. [**The Musical Idea and the Logic, Technique, and Art of Its Presentation**](https://books.google.com/books?id=xOm3Ollp6qMC&printsec=frontcover&dq=schoenberg+musical+idea&hl=en&sa=X&ei=cxShVZ_rJ8z6-AHV_K_ICQ&ved=0CB8Q6wEwAA#v=onepage&q&f=false). Edited and translated with a Commentary by Patricia Carpenter and Severine Neff. Bloomington: Indiana University Press.
-
-Schoenberg, Arnold. 1964.[ ](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false)[**Letters**](https://books.google.com/books?id=bLf0u5GXo84C&printsec=frontcover&dq=schoenberg+letters&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIsfe0l6qPxgIVAVgUCh3tUwCf#v=onepage&q=fraenkel&f=false). Edited by Erwin Stein. Translated by Eithne Wilkins and Ernst Kaiser. London: Faber.
-
-Bourne, Janet. 2014. “CAT Got Your Tongue? Adapting Classroom Assessment Techniques (CATs) for the Music Classroom.” *Engaging Students* 2. [*http://flipcamp.org/engagingstudents2/essays/bourne.html*](http://flipcamp.org/engagingstudents2/essays/bourne.html).
-
-Cross, Andrew, Mydhili Bayyapunedi, Edward Cutrell, Anant Agarwal, and William Thies. 2013. “TypeRighting: Combining the Benefits of Handwriting and Typeface in Online Educational Videos.” *Proceedings of CHI 2013*.[ ](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf)[*http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf*](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf).
-
-Friend, Chris. 2014. “Learning to Let Go: Listening to Students in Discussion.” *Hybrid Pedagogy*. [*http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/*](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/).
 
 Gosden, Stephen. 2013. “The ‘Technology Tools’ Session at FlipCamp Music Theory.” *Engaging Students* 1. [*http://flipcamp.org/engagingstudents/gosden.html*](http://flipcamp.org/engagingstudents/gosden.html).
 
