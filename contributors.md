@@ -7,103 +7,66 @@ title: Contributors
 {{ page.title }}
 ================
 
-### Brian Alegant
+### Terry L. Dean
 
-[Brian Alegant](http://www.google.com/url?q=http%3A%2F%2Fnew.oberlin.edu%2Fconservatory%2Fdepartments%2Fmusic-theory%2Ffaculty_detail.dot%3Fid%3D20541&sa=D&sntz=1&usg=AFQjCNGWfTqkEStEiZzQdCaCJzDxthSu0Q) is Barker Professor of Music, chair of the music theory department at the [Oberlin College Conservatory](http://www.google.com/url?q=http%3A%2F%2Fnew.oberlin.edu%2Fconservatory%2F&sa=D&sntz=1&usg=AFQjCNH8n6GSu6mrSgTS1ygOFsti2NPouw), and the author of *The Twelve-tone Music of Luigi Dallapiccola*. Research interests include analysis and performance, contemporary music, and pedagogy.
+[Terry L. Dean](http://www2.indstate.edu/music/faculty/dean.html) is Assistant Professor of Musicology and Gender Studies at [Indiana State University](http://www.indstate.edu/music) where he teaches courses in music history, popular and world traditions, and research methods. He is a contributor of articles and reviews in *Three Oranges: The Journal of the Serge Prokofiev Foundation*, *Fontes Artis Musicae*, and a forthcoming research guide to the music of Sergei Prokofiev. His current project is a book concerning the activities of the Rachmaninoff Memorial Fund and its piano competition. He holds the Ph.D. and M.A in Historical Musicology from [The University of Georgia](http://www.music.uga.edu/musicologyethnomusicology-department) as well as the B.A. in Biology from West Virginia University.
 
-### Sara Bakker
+### Anna Ferenc
 
-Sara Bakker is Lecturer in Music Theory at Utah State University with a special interest in integrating prose writing in her teaching.  Her dissertation, entitled “Playing with Patterns: Isorhythmic Strategies in György Ligeti’s Late Piano Works,” investigates the connection between rhythmic repetition and its large-scale significance.  Other research interests include rhythm and meter in modern music, Hungarian text setting, and the music of Béla Bartók, topics she has presented at regional, national and international conferences. 
+Anna Ferenc is Associate Professor of Music Theory at [Wilfrid Laurier University](http://www.wlu.ca/academics/faculties/faculty-of-music/index.html). Her research interests include developing music theory pedagogy in connection with the scholarship of teaching and learning.
 
-### Janet Bourne
+### Brian D. Hoffman
 
-Janet Bourne is a PhD candidate in Music Theory and Cognition at Northwestern University. Her research interests involve the cognition behind musical communication: musical categories (schema theory and topic theory), analogy and music, cultural context of the listener, applying linguistic theories to music, and musical humor, parody and irony. She will serve as a 2014-2015 [Graduate Teaching Fellow](http://www.google.com/url?q=http%3A%2F%2Fwww.northwestern.edu%2Fsearle%2Fprograms-events%2Fgrad%2Fgraduate-teaching-fellows%2Findex.html&sa=D&sntz=1&usg=AFQjCNFCljUR1Scc1IRvbSsKCot5yxRe5w) for Northwestern University’s Searle Center for Advancing Learning and Teaching.
+Brian D. Hoffman is an Assistant Professor of Music Theory at the University of Central Florida and holds a Ph.D. in Music Theory from the University of Cincinnati (CCM). He has previously taught at Butler University and Oklahoma State University. Brian's research interests include the musical-theater style, pop-rock music, sonata form, and rhythm and meter. He has presented research on these topics at regional, national, and international research conferences including the Society for Music Theory national meeting. In addition to his scholarly and educational work, Brian has maintained an active career as a music director and pianist for both regional and university musical theater companies.
 
-### Tim Chenette
+### Brian Edward Jarvis
 
-Tim Chenette is head of the music theory area at Utah State University. He has a particular pedagogical interest in the teaching of aural skills. His research projects include analysis of harmony and counterpoint in late 16th-century polyphony and metric analysis of late 14th-century music.
+[Brian Edward Jarvis](http://www.brianedwardjarvis.com) is a Visiting Assistant Professor of Music Theory at the [University of Texas at El Paso](http://www.utep.edu/) and holds a Ph.D. in Music Theory from Florida State University. His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=8578&context=etd) introduces an approach to large-scale film-music analysis that focuses on collaborations between the Joel & Ethan Coen and Carter Burwell. His other scholarly interests include form, harmony, and phrase structure in the 18^th^ and 19^th^ centuries with a special focus on the music of Charles Valentin Alkan.
 
-### Trevor de Clercq
+### J. Daniel Jenkins
 
-[Trevor de Clercq](http://www.google.com/url?q=http%3A%2F%2Fwww.mtsu.edu%2Fmass-communication%2Frecording-industry%2Ffaculty.php&sa=D&sntz=1&usg=AFQjCNG5oSNUjQw-qUAkpvmOxzJg7xoeZQ) is Assistant Professor in the Recording Industry department at [Middle Tennessee State University](http://www.google.com/url?q=http%3A%2F%2Fwww.mtsu.edu%2Fprograms%2Faudio-production%2F&sa=D&sntz=1&usg=AFQjCNHvIrmWjaZrFZ2LyDfSDHYu4F-VVA), where he coordinates the musicianship curriculum and teaches coursework in digital audio technology. He holds a PhD in music theory from the Eastman School of Music as well as degrees in music technology and electronics engineering technology. His research interests include popular music, sound recording, and music perception.
+[J. Daniel Jenkins](http://www.sc.edu/study/colleges_schools/music/faculty-staff/Jenkins.php) is an Associate Professor of Music Theory at the University of South Carolina. His edited collection, *Schoenberg’s Program Notes and Musical Analyses*, is forthcoming from Oxford University Press. Jenkins has been recognized for excellence in undergraduate teaching by the Eastman School of Music, the University of Rochester, and the University of South Carolina.
 
-### Philip Duker
+### Vicky V. Johnson
 
-[Philip Duker](http://www.google.com/url?q=http%3A%2F%2Fwww.music.udel.edu%2Fabout-us%2Ffaculty-staff%2FPages%2Fphilip-duker.aspx&sa=D&sntz=1&usg=AFQjCNG2HGKPf3psziC3cG_XOSsghHtkIw) is Assistant professor of Music at the [University of Delaware](http://www.google.com/url?q=http%3A%2F%2Fwww.music.udel.edu%2FPages%2Fhome.aspx&sa=D&sntz=1&usg=AFQjCNFQ6Dv2rtgdrmkm4fOupVFc2BlQmQ), where he joined the faculty in 2009. His current research focuses on repetition in music from an analytical and meta-theoretical perspective, investigating how this topic is foundational to analysis and can also provide new avenues of exploration in Twentieth-Century music.
+Vicky V. Johnson is an Assistant Professor and Coordinator of the [Music Graduate Program](http://www.tarleton.edu/musiceducation/index.html) at [Tarleton State University](http://www.tarleton.edu/home/). She holds degrees from Boston University (DMA in Music Education), Sam Houston State University (MA in Music Theory), and Tarleton State University (BM in Music Education).
 
-### Roger Graybill
+### Megan Lyons
 
-[Roger Graybill](http://necmusic.edu/faculty/roger-graybill?lid=2&sid=3) is on the faculty at the [New England Conservatory](http://necmusic.edu), where he served as Theory Department Chair from 2002 to 2011.  His current research focuses on audiation- based theory training in the undergraduate core.  In the spring of 2014 he conducted a “grand tour” of music schools in Germany, Switzerland, the Netherlands, and the United States to research innovative and hands-on approaches to music theory pedagogy.
+[Megan Lyons](http://www.linkedin.com/in/meglyons13) is an undergraduate student at the University of Delaware pursuing a B.M. in Music Education and a B.M. in Music Theory. Her research *Chopin's Nocturnes: A Comparison of Empirical Analysis and Performance Analysis* was awarded the Phi Kappa Phi Undergraduate Essay Award in 2014. She currently serves as a Undergraduate Teaching Assistant for the Music Theory Area.
 
-### John Hausmann
+### William O'Hara
 
-John Hausmann is a PhD student at the University of Cincinnati College-Conservatory of Music. He is currently writing his dissertation on parody, memory, and community in 20th century American music, which will address parody in popular (“Weird Al” Yankovic), classical (P.D.Q. Bach), rock (the Grateful Dead), and film musics (mockumentaries).
+[William O'Hara](http://www.williamohara.net) is a Ph.D. Candidate in Music Theory at [Harvard University](http://www.music.fas.harvard.edu/), a member of the Media, Literacy, and Visualization Team at the [Derek Bok Center for Teaching and Learning](http://bokcenter.harvard.edu/), and an editorial assistant for the *Journal of the American Musicological Society.* His research interests include the history of music theory, the analysis of film and video game music, and the philosophy and methodology of music analysis.
 
-### Shersten Johnson
+### Marcie Ray
 
-[Shersten Johnson](http://www.google.com/url?q=http%3A%2F%2Fwww.stthomas.edu%2Fmusic%2Ffaculty%2Fjohnson-shersten.html&sa=D&sntz=1&usg=AFQjCNH8-_n1kZbLlrpyQvJiTMi50BKuZw) is Associate Professor at the [University of St. Thomas](http://www.google.com/url?q=http%3A%2F%2Fwww.stthomas.edu&sa=D&sntz=1&usg=AFQjCNFC0WmkC4zix0AasIwp33f-3zrWtw) where she teaches courses in music theory and composition. She has published articles on the music by Benjamin Britten in *Music and Letters*, *PsyArt*, and the *Journal of Music and Meaning*, and on the subject of music analysis and blindness in *Music Theory Online* and the forthcoming *Oxford Handbook on Music and Disability Studies*.
+Marcie Ray is an Assistant Professor of Musicology at [Michigan State University](http://www.music.msu.edu/). She holds degrees from the University of Texas (B.M. in Vocal Performance) and the University of California, Los Angeles (M.A. and Ph.D.). She teaches a number of courses that align with her research interests: music of the Baroque and eighteenth century; the history of opera; music, gender, and sexuality; and graduate seminars on music and violence, as well as music and identity. Her research has been published in *Música em Perspectiva* (2013), *American Music* (2014), a collection of essays entitled *The Libretto as Enlightenment Text* (2015), and is forthcoming in *Early Music* (2016).
 
-### Erinn Knyt
+### Colleen Renihan
 
-[Erinn Knyt](http://www.google.com/url?q=http%3A%2F%2Fwww.umass.edu%2Fmusic%2Ffaculty_knyt.php&sa=D&sntz=1&usg=AFQjCNFGLckSDkVwXoMCSu-JYCSvkr1VEw) is Assistant Professor of Music at the [University of Massachusetts Amherst](http://www.google.com/url?q=http%3A%2F%2Fwww.umass.edu%2Fmusic%2F&sa=D&sntz=1&usg=AFQjCNH7aD5c_gHxKjJgh08XukA38vhCpg) where she teaches courses in music history. Her research interests include 19th- and 20th-century music, aesthetics, performance studies, and music history pedagogy. Her work is published in *American Music*, *Twentieth Century Music*, *Journal of the Royal Musical Association*, *Journal of Musicology*, and *Journal of Music History Pedagogy*. She holds a Ph.D. in Music and Humanities from Stanford University.
+Colleen Renihan is Assistant Professor of Music (CLA) at the School of Fine Arts and Music, University of Guelph. Her research has been published in *The Journal of the Society for American Music*, *twentieth-century music*, *Music, Sound, and the Moving Image*, as well as in several edited collections.
 
-### David Kulma
+### Sam L. Richards
 
-[David Kulma](http://www.winthrop.edu/cvpa/faculty/default.aspx?id=27510) teaches music theory, aural skills, and music technology classes at [Winthrop University](http://www.winthrop.edu/cvpa/music/) as an adjunct professor. He is [active](http://www.davidkulma.com) as a composer, freelance oboist, and performance artist. His holds bachelor’s and master’s degrees from [Kent State University](http://www2.kent.edu/music/index.cfm).
+Sam L. Richards is a Visiting Professor of Music Theory and Composition at Brigham Young University. He is a theorist, composer, artist, and researcher and has presented research on music theory pedagogy and interdisciplinary collaboration at numerous national and international conferences. His research interests include pedagogy, processes of canonization, quotation, and postmodernism.
 
-### Gregory R. McCandless
+### Amanda L. Scherbenske
 
-Gregory R. McCandless is the Department Chair of Music Composition at Full Sail University. He holds degrees from the University of North Carolina at Chapel Hill and Florida State University. Research interests include theories of rhythm and meter, music theory pedagogy, and the analysis of popular music.  His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=3611&context=etd&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fdiginole.lib.fsu.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D3611%2526context%253Detd%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFMaMEpxyNyeAcE3kBnHBs9rmoyCA#search=%22http%3A%2F%2Fdiginole.lib.fsu.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D3611%26context%3Detd%22) and related [article](http://www.mtosmt.org/issues/mto.13.19.2/mto.13.19.2.mccandless.php) in Music Theory Online focus on the music of the progressive metal band Dream Theater.
-
-### Garrett Michaelsen
-
-[Garrett Michaelsen](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.edu%2FFAHSS%2Fmusic%2Ffaculty%2FMichaelsen-Garrett.aspx&sa=D&sntz=1&usg=AFQjCNE3MRzqly1q1LzrynE-FdsByg2vmw) is Lecturer of Musicianship and Musicology at [University of Massachusetts Lowell](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.edu%2FFAHSS%2Fmusic%2Fdefault.aspx&sa=D&sntz=1&usg=AFQjCNH5_xOwC_lrNk9iU7BEFCvrCkfHlw). His [dissertation](http://www.google.com/url?q=http%3A%2F%2Fgradworks.umi.com%2F3599217.pdf&sa=D&sntz=1&usg=AFQjCNGBBxKEI77EqeGhq80XnG-hFqXSbg) from Indiana University deals with processes of group interaction in jazz improvisations of the 1960s. He has written and presented on jazz from a variety of perspectives, including topic theory and transformational theory in addition to interactional theory.
-
-### Jan Miyake
-
-[Jan MIyake](http://www.google.com/url?q=http%3A%2F%2Fnew.oberlin.edu%2Fconservatory%2Fdepartments%2Fmusic-theory%2Ffaculty_detail.dot%3Fid%3D47099&sa=D&sntz=1&usg=AFQjCNGt2C4U_v_1lMwn_P5IKJAnZVByaw) is Associate Professor of Music Theory, Associate Dean for Academic Affairs at [Oberlin College & Conservatory](https://www.google.com/url?q=https%3A%2F%2Fhome.oberlin.edu%2F&sa=D&sntz=1&usg=AFQjCNFnvcTVEhqZYADrKectZh7MShVHlA), and author of the blog [teaching matters](http://www.google.com/url?q=http%3A%2F%2Fteaching-matters.net%2F&sa=D&sntz=1&usg=AFQjCNFKHUyI_lwsvgxUVUlE1c3vULUAMA), which chronicles and reflects on development of classroom activities and general pedagogical issues. Miyake holds a Ph.D. in music theory from the <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.gc.cuny.edu%2FPage-Elements%2FAcademics-Research-Centers-Initiatives%2FDoctoral-Programs%2FMusic-(Ph-D-D-M-A-)&sa=D&sntz=1&usg=AFQjCNGHvpY8NONMAXYIPeglkJD0Baoo_A">Graduate Center</a> at the City University of New York and has additional research interests in Schenkerian analysis, form, and the viola music of Paul Hindemith.
-
-### Brian Moseley
-
-Brian Moseley is Assistant Professor of Music Theory at the University at Buffalo, SUNY. He specializes in contemporary music and geometric models of music. He has published and presented on music by Anton Webern, George Crumb, and John Harbison; the intersection of improvisation and innovation as captured in musical sketches; and features of dialogue in Gustav Mahler’s music. He holds a Ph.D. in music theory from the Graduate Center at the City University of New York.
-
-### Meghan Naxer
-
-[Meghan Naxer](http://www.naxernotes.com) is a doctoral student in music theory at the [University of Oregon](http://uoregon.edu). Her research interests include pedagogy, late-nineteenth-century music, the music of César Franck, rhythm and meter, and form. She has presented papers on some of these topics at regional, national, international, and interdisciplinary conferences. Meghan is also an active flutist and performs with the [Asculta!](http://www.ascultawwq.com) woodwind quintet. She holds degrees from the [University of Akron](http://www.uakron.edu) and [Kent State University](http://www.kent.edu).
-
-### Deborah Rifkin
-
-[Deborah Rifkin](http://www.google.com/url?q=http%3A%2F%2Ffaculty.ithaca.edu%2Fdrifkin%2F&sa=D&sntz=1&usg=AFQjCNEct_R7w3mkgeBUKCpldqaJwaziNQ) is Associate Professor of Music Theory at [Ithaca College](http://www.google.com/url?q=http%3A%2F%2Fwww.ithaca.edu%2F&sa=D&sntz=1&usg=AFQjCNEIfRzTUvlnpTGMm_lDBQ55r8G9kA). Her research interests include 20th-century neo-tonal music, aural skills pedagogy, and narrativity in music. She recently served as Faculty-in-Residence and Associate Director of [HERS-Denver](http://www.google.com/url?q=http%3A%2F%2Fhersnet.org%2F&sa=D&sntz=1&usg=AFQjCNEnthUPXQX0oat4A7L110dnAJa_zQ), a two-week leadership institute for women in higher education. She earned her Ph.D from the Eastman School of Music (2000).
-
-### Nancy Rogers ###
-
-[Nancy Rogers](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Nancy-Rogers) is an Associate Professor of Music Theory at The Florida State University, where she supervises first-year music theory and recently received a university-wide undergraduate teaching award.
+Amanda L. Scherbenske, PhD (Wesleyan University, 2014) is an ethnomusicologist whose research spans American and East European Jewish musics, with theoretical interests in musical multiplicity, space and place, affective labor, and genre construction. Her work has been published in *Ethnomusicology*, *Yearbook for Traditional Music*, *American Music Review*, and *MUSICultures*, among others. Her current book project, *Resounding Multiplicity: New York Improviser-Composers and the Politics of Belonging*, is an ethnographic and social study of contemporary avant-garde, jazz, and experimental musicians who perform across a variety of overlapping scenes and art worlds. She teaches undergraduate courses in ethnomusicology, world music, and music humanities.
 
 ### Peter Schubert
 
-Peter Schubert teaches at McGill’s [Schulich School of Music](http://www.google.com/url?q=http%3A%2F%2Fwww.mcgill.ca%2Fmusic&sa=D&sntz=1&usg=AFQjCNFymTAp-BW3OzObP635pGD0Jw23jg) and conducts [VivaVoce](http://www.google.com/url?q=http%3A%2F%2Fwww.vivavoce-montreal.com&sa=D&sntz=1&usg=AFQjCNGON8MERHQzzzAoKD3lSnCVvJvxoQ). With Massimiliano Guido, he recently organized [conferences](http://www.google.com/url?q=http%3A%2F%2Fwww.mentemani.org%2FConnection%2FProject.html&sa=D&sntz=1&usg=AFQjCNF9EAcaj14N0qnBfOOIg3hWwvtKWw) in Venice and Montreal on historical improvisation. His “From Improvisation to Composition” will appear shortly in the [Collected Writings of the Orpheus Institute Series](http://www.google.com/url?q=http%3A%2F%2Fwww.orpheusinstituut.be%2Fen%2Fpublications%2Fabout-our-publications&sa=D&sntz=1&usg=AFQjCNGchCGEG16DbhDrscYYjWq1C1hD2g).
+add bio here…
 
-### Kris Shaffer 
+### Christopher Segall
 
-[Kris Shaffer](http://kris.shaffermusic.com) is instructor of music theory at the [University of Colorado–Boulder](http://music.colorado.edu). Kris’s research centers around the music of twentieth- and twenty-first-century composers, computational analysis, and the pedagogy of music theory and aural skills. His research appears in [*Hybrid Pedagogy*](http://hybridpedagogy.com) and [*Digital Humanities Now*](http://digitalhumanitiesnow.org). He holds a Ph.D. in music theory from [Yale University](http://yalemusic.yale.edu) (2011).
+Christopher Segall is Assistant Professor of Music Theory at the College-Conservatory of Music, University of Cincinnati. His research has been published in the *Journal of Musicology*, *Music Theory Online*, and *Theory and Practice*.
 
-### Yona Stamatis
+### Daniel B. Stevens 
 
-Yona Stamatis is Assistant Professor of Ethnomusicology and Associated Faculty in the Department of Sociology/Anthropology at the University of Illinois, Springfield. Her research interests and publications focus on rebetika music of Greece, music and social justice, and student-centered music education. She holds a Ph.D. in ethnomusicology from the University of Michigan (2011).
+[Daniel B. Stevens](http://www.music.udel.edu/about-us/faculty-staff/Pages/daniel-b-stevens.aspx?FacultyId=59) is Assistant Professor of Music Theory at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he designed and implemented a [music ePortfolio](http://cnu.edu/jpalhe/pdf/jpalhe_volume4.pdf) used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy, and he has several publications forthcoming in *Music Theory Pedagogy Online*.
 
-### Anna Stephan-Robinson
+### Alexa Woloshyn
 
-[Anna Stephan-Robinson](http://www.google.com/url?q=http%3A%2F%2Fwestliberty.edu%2Fmusic%2Ffaculty%2Fanna-stephan-robinson%2F&sa=D&sntz=1&usg=AFQjCNFyeOK_9tbHhiClRkQV29CiMnNCqA) is Assistant Professor of Music and Director of Theory and Ear Training at [West Liberty University](http://www.google.com/url?q=http%3A%2F%2Fwestliberty.edu%2Fmusic%2F&sa=D&sntz=1&usg=AFQjCNGYqur9t3JTFx5C52ut3tfoEkaEtA), where she teaches all levels of theory and ear training as well as applied horn. She holds degrees from the Eastman School of Music, the University of Georgia, and the Aaron Copland School of Music. Current research interests include popular music analysis, the music and writing of Marion Bauer, and postsecondary music pedagogy.
-
-### Daniel Stevens
-
-[Daniel Stevens](http://www.music.udel.edu/about-us/faculty-staff/Pages/daniel-b-stevens.aspx?FacultyId=59) is Assistant Professor of Music Theory at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he designed and implemented a [music ePortfolio](http://cnu.edu/jpalhe/pdf/jpalhe_volume4.pdf) used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy.
-
-### Scott M. Strovas
-
-[Scott M. Strovas](http://www.google.com/url?q=http%3A%2F%2Fwww.wbu.edu%2Facademics%2Fschools%2Fmusic%2Fstrovas%2Fdefault.htm&sa=D&sntz=1&usg=AFQjCNFNrw2yGyW0yVwL9N27UMxMLLPyTA) is Assistant Professor of Music History at[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.wbu.edu%2Fschool-of-music%2F&sa=D&sntz=1&usg=AFQjCNFK_hpsmTrgwcQRI6YVZFg27WlKJw)[Wayland Baptist University](http://www.google.com/url?q=http%3A%2F%2Fwww.wbu.edu%2Fschool-of-music%2F&sa=D&sntz=1&usg=AFQjCNFK_hpsmTrgwcQRI6YVZFg27WlKJw), where he coordinates the history sequence and teaches American music and aural skills. He has published or presented papers on a range of subjects including contemporary American music, film and television music, music and American poetry, jazz, and writing pedagogy.
-
-### Aaron Ziegel
-
-[Aaron Ziegel](http://www.google.com/url?q=http%3A%2F%2Fwww.towson.edu%2Fmusic%2Ffaculty%2Ffac-Ziegel.asp&sa=D&sntz=1&usg=AFQjCNHq7VFaJnXlnePLIeZaVjKR3j-Zvg) is Assistant Professor of Music History and Culture at [Towson University](http://www.google.com/url?q=http%3A%2F%2Fwww.towson.edu%2Fmusic%2F&sa=D&sntz=1&usg=AFQjCNF8C-MTaDuYFLEWSl7LqX3eLV5yKw). His primary research explores American operas from the early decades of the twentieth century, and he has published articles on film music and on the compositional style of Vernon Duke. At Towson, he teaches courses on American music and Western music history. He holds degrees from the University of Illinois at Urbana-Champaign and the University of Cincinnati, College-Conservatory of Music.
-
+[Alexa Woloshyn](https://independent.academia.edu/AlexaWoloshyn), PhD (University of Toronto) is a musicologist specializing in electroacoustic music, Aboriginal avant-garde and dance music, and contemporary vocal music. Recent articles on electroacoustic composers Robert Normandeau and Hildegard Westerkamp have appeared in *Circuit: Musiques contemporaines* and *eContact!.* She has presented on higher education pedagogy in the music classroom at the Society for Teaching and Learning in Higher Education conference and the Toronto International Electroacoustic Symposium. She has taught undergraduate and graduate courses on 20th-century music, popular music, opera, and literature.
