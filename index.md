@@ -4,14 +4,74 @@ title: Engaging Students – Essays in Music Pedagogy, Volume 3
 ---
 _Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the third volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
-<!--
-This volume contains essays dealing with teaching philosophy ([Alegant]({{ site.baseurl }}/essays/alegant.html), [Graybill]({{ site.baseurl }}/essays/graybill.html), [Hausmann]({{ site.baseurl }}/essays/hausmann.html), [Kulma and Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), and [Stamatis]({{ site.baseurl }}/essays/stamatis.html)), practice ([Duker/Shaffer/Stevens]({{ site.baseurl }}/essays/dukerShafferStevens.html), [Johnson]({{ site.baseurl }}/essays/johnson.html), [Knyt]({{ site.baseurl }}/essays/knyt.html), [Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), [Rifkin]({{ site.baseurl }}/essays/rifkin.html), [Schubert]({{ site.baseurl }}/essays/schubert.html), and [Ziegel]({{ site.baseurl }}/essays/ziegel.html)), writing ([Bakker and Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), [Miyake]({{ site.baseurl }}/essays/miyake2.html), and [Strovas]({{ site.baseurl }}/essays/strovas.html)), assessment ([Bourne]({{ site.baseurl }}/essays/bourne.html) and [Moseley]({{ site.baseurl }}/essays/moseley.html)), and technology ([de Clercq]({{ site.baseurl }}/essays/declercq.html), [McCandless]({{ site.baseurl }}/essays/mccandless.html), [Miyake]({{ site.baseurl }}/essays/miyake1.html), and [Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html)) as they relate to music pedagogy. 
--->
-
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
  
+# Contents
 
-### Authors ###
+## Front matter 
+
+[Foreword]({{ site.baseurl }}/essays/schubert.html)  
+*Nancy Rogers*
+
+
+## Essays
+
+[Promoting Contemporary Music Engagement through the Composer Interview Project]({{ site.baseurl }}/essays/dean.html)  
+Terry L. Dean
+
+[Engaging Students as Disciplinary Practitioners in an Introductory Theory Course]({{ site.baseurl }}/essays/ferenc.html)  
+Anna Ferenc
+
+[Crowdsourcing with Spotify in the Music Classroom]({{ site.baseurl }}/essays/hoffman.html)  
+Brian Hoffman
+
+[Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation]({{ site.baseurl }}/essays/jarvis.html)  
+Brian Jarvis
+
+[Technology in Schoenberg’s “School of Criticism”: A Lesson from the Past]({{ site.baseurl }}/essays/jenkins.html)  
+J. Daniel Jenkins
+
+[Proficiency-Based Learning with Muscle in a Music Theory Classroom]({{ site.baseurl }}/essays/johnson.html)  
+Vicky Johnson
+
+[Training Ears with Peers: Establishing an Aural Skills Peer Tutoring Center]({{ site.baseurl }}/essays/lyons.html)  
+Megan Lyons
+
+[Flipping the Flip: Responsive Video in the Music Classroom]({{ site.baseurl }}/essays/ohara.html)  
+William O'Hara
+
+[Teaching Critical Music Literacy Across the Curriculum]({{ site.baseurl }}/essays/ray.html)  
+Marcie Ray
+
+[Unraveling the Narrative Approach: Twine as Music Pedagogy]({{ site.baseurl }}/essays/renihan.html)  
+Colleen Renihan
+
+[Rethinking the Theory Classroom: Towards a New Model for Undergraduate Instruction]({{ site.baseurl }}/essays/richards.html)  
+Sam L. Richards
+
+[Student-Centered Learning Strategies for Teaching World and Popular Musics]({{ site.baseurl }}/essays/scherbenske.html)  
+Amanda L. Scherbenske
+
+[You, Y'all, We]({{ site.baseurl }}/essays/segall.html)  
+Christopher Segall
+
+[Breaking (Musical) Stuff as an Act of (Music) Criticism]({{ site.baseurl }}/essays/stevens1.html)  
+Daniel B. Stevens
+
+[Inverting Analysis]({{ site.baseurl }}/essays/stevens2.html)  
+Daniel B. Stevens
+
+[Music Appreciation and General Education in the College Classroom: Four Activities to Create Meaningful Musical Engagement]({{ site.baseurl }}/essays/woloshyn.html)  
+Alexa Woloshyn
+
+
+## Back matter 
+
+[Bibliography]({{ site.baseurl }}/bibliography.html)
+
+ 
+
+# Authors
 
 <!--
 [Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
@@ -41,7 +101,7 @@ Jan Miyake ([1]({{ site.baseurl }}/essays/miyake1.html), [2]({{ site.baseurl }}/
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
 -->
 
-### Editorial Board ###
+# Editorial Board
 
 <!--
 Sean Atkinson, Texas Christian University  
