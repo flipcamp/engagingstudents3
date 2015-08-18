@@ -98,4 +98,4 @@ In addressing the dilemma of student differences in learning styles and prepared
 
 
 
-This work is copyright ⓒ2015 Vicky V. Johnson and licensed under a [*Creative Commons Attribution–ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Vicky V. Johnson and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>

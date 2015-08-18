@@ -47,4 +47,4 @@ In this essay, I have introduced a method for using Spotify to crowdsource music
 
 
 
-This work is copyright 2015 Brian Hoffman and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Brian Hoffman and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>

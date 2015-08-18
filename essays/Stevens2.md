@@ -99,4 +99,4 @@ Inverting analysis helps instructors gauge the number and complexity of question
 
 By integrating improvisation, composition, and analysis, students learn that making music is one of the most effective means of understanding music. Every compositional problem and possibility students consider increases the critical attention they can give to the music they will hear, study, and perform. Inverting analysis invites students to explore and document the horizons of possibility within which music operates.
 
-This work is copyright ⓒ2015 Daniel Stevens and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Daniel Stevens and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>

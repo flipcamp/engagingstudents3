@@ -51,6 +51,6 @@ In addition to the benefits of the tutees, many of the tutors in the Aurals Lab 
 
 
 
-This work is copyright ⓒ2015 Megan Lyons and licensed under a [Creative Commons Attribution--ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Megan Lyons and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
 
 

@@ -40,6 +40,7 @@ Equally revelatory comments continue to surface when students switch roles in th
 These candid, perceptive, and revealing testimonials show that involving students in structured activities as disciplinary practitioners to learn the basics of music theory at an undergraduate level motivates them not only to engage deeply with subject matter, but also with their own learning, which leads to transformative and deep learning experiences of potentially lasting influence. In this way, integrated retention and critical application of learning may be achieved, and transfer of learning may be activated in introductory-level theory courses, which meets the challenge of their broader pedagogical purpose.
 
 
-This work is copyright ⓒ2015 Anna Ferenc and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
+<p class="copyright">This work is copyright ⓒ2015 Anna Ferenc and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
+
 
 

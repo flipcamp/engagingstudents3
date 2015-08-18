@@ -42,5 +42,5 @@ Beyond the immediate objective of providing students with a way of interacting w
 
 
 
-This work is copyright ⓒ2015 Terry Dean and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Terry Dean and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
 
