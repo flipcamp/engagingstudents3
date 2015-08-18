@@ -84,6 +84,6 @@ These examples are just some of the possibilities for using a rapid, after-the-f
 2. While any technical setup works for producing educational videos, a growing body of evidence ([Iloudi, et al. 2013](http://ceur-ws.org/Vol-983/paper5.pdf); [Guo, et al. 2014](http://www.pgbovine.net/publications/edX-MOOC-video-production-and-engagement_LAS-2014.pdf)) suggests that videos of instructors speaking into camera are both more enjoyable and more effective than “Khan-style” tablet capture alone. [Cross, et al. 2013](http://research.microsoft.com/en-us/um/people/thies/TypeRighting-CHI2013.pdf) also demonstrate that handwriting in educational videos is more effective than computer-generated text. They attribute this effect primarily to the way that handwritten words appear gradually, and they propose their “TypeRighting” method in order to give computer text this quality.
 
 
-<p style="font-size: 80%; line-height: 110%">This work is copyright ⓒ2015 William O’Hara and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License.](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA)</p>
+<p style="font-size: 80%; line-height: 120%">This work is copyright ⓒ2015 William O’Hara and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-sa/3.0/)</p>
 
 
