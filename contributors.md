@@ -57,7 +57,7 @@ Amanda L. Scherbenske, PhD (Wesleyan University, 2014) is an ethnomusicologist w
 
 ### Peter Schubert
 
-add bio here…
+Peter Schubert teaches at McGill’s [Schulich School of Music](http://www.mcgill.ca/music/) and conducts [VivaVoce](http://www.vivavoce-montreal.com). With Massimiliano Guido, he recently organized [conferences](http://www.mentemani.org/Connection/Project.html) in Venice and Montreal on historical improvisation. His “From Improvisation to Composition” will appear shortly in the [Collected Writings of the Orpheus Institute Series](http://www.orpheusinstituut.be/en/publications/about-our-publications).
 
 ### Christopher Segall
 
@@ -65,7 +65,7 @@ Christopher Segall is Assistant Professor of Music Theory at the College-Conserv
 
 ### Daniel B. Stevens 
 
-[Daniel B. Stevens](http://www.music.udel.edu/about-us/faculty-staff/Pages/daniel-b-stevens.aspx?FacultyId=59) is Assistant Professor of Music Theory at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he designed and implemented a [music ePortfolio](http://cnu.edu/jpalhe/pdf/jpalhe_volume4.pdf) used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy, and he has several publications forthcoming in *Music Theory Pedagogy Online*.
+[Daniel B. Stevens](http://www.music.udel.edu/about-us/faculty-staff/Pages/stevens_daniel.aspx?FacultyId=59) is Assistant Professor of Music Theory at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he designed and implemented a [music ePortfolio](http://cnu.edu/jpalhe/pdf/jpalhe_volume4.pdf) used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy, and he has several publications forthcoming in *Music Theory Pedagogy Online*.
 
 ### Alexa Woloshyn
 
