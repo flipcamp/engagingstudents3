@@ -10,8 +10,8 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 ## Front matter 
 
-[Foreword]({{ site.baseurl }}/essays/schubert.html)  
-*Nancy Rogers*
+[Foreword: Time to Change Your Mind]({{ site.baseurl }}/essays/schubert.html)  
+Peter Schubert
 
 
 ## Essays
