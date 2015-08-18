@@ -7,15 +7,13 @@ title: Bibliography
 {{ page.title }}
 ================
 
-2015\. ["Research Spotlight on Peer Tutoring."](http://www.nea.org/tools/35542.htm) National Education Association. Accessed May 27, 2015.
-
 Alegant, Brian. 2014. [“On ‘scuba diving,’ or the Advantages of a Less-is-More Approach.”](http://flipcamp.org/engagingstudents2/essays/alegant.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
 ———. 2008. ["Listen Up! Thoughts on iPods, Sonata Form, and Analysis Without the Score."](http://jmtp.ou.edu/journal-article/listen-thought-ipods-sonata-form-and-analysis-without-score) *Journal of Music Theory Pedagogy* 22: 149–76.
 
 Allen, Theodore. 1994. [*The Invention of the White Race.*](https://openlibrary.org/books/OL22080599M/The_invention_of_the_white_race) London and New York: Verso.
 
-Anderson, Myrdene. 1998. “Folklore, Folklife and other bootstrapping traditions.” In [*High-Fives: A Trip to Semiotics,*](https://openlibrary.org/books/OL11395894M/Hi-Fives) edited by Roberta Kevelson. New York: Peter Lang.
+Anderson, Myrdene. 1998. “Folklore, Folklife and Other Bootstrapping Traditions.” In [*High-Fives: A Trip to Semiotics,*](https://openlibrary.org/books/OL11395894M/Hi-Fives) edited by Roberta Kevelson. New York: Peter Lang.
 
 Arnheim, Rudolf. 1992. [*To the Rescue of Art: Twenty-Six Essays.*](https://openlibrary.org/books/OL1531517M/To_the_rescue_of_art) Berkeley: University of California Press.
 
@@ -87,7 +85,7 @@ Duker, Philip. 2013. ["Capturing Thinking in Time — Using ‘Clickers’ to Me
 
 Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer. 2015. ["Hacking the Music Theory Classroom: Standards-based Grading, Just-in-Time Teaching, and the Inverted Class."](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) *Music Theory Online* 21 (1).
 
-Duker, Philip, Kris Shaffer, and Daniel Stevens. 2014. ["Problem-Based Learning in Music: A Guide for Instructors.](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html) *Engaging Students: Essays in Music Pedagogy* 2.
+Duker, Philip, Kris Shaffer, and Daniel Stevens. 2014. ["Problem-Based Learning in Music: A Guide for Instructors."](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
 Elbow, Peter. 1973. [*Writing Without Teachers.*](https://openlibrary.org/books/OL16082473M/Writing_without_teachers) New York: Oxford University Press.
 
@@ -155,7 +153,7 @@ Hepokoski, James, and Warren Darcy. 2006. [*Elements of Sonata Theory: Norms, Ty
 
 Hills, Thomas T. 2015a. ["Crowdsourcing Content Creation in the Classroom."](http://link.springer.com/journal/12528/27/1/page/1) *Journal of Computing in Higher Education* 27 (1): 47–67.
 
-———. 2015b. ["The Future of Crowdsourcing in the Classroom."](https://www.psychologytoday.com/blog/statistical-life/201504/the-future-crowdsourcing-in-the-classroom) *Statistical Life,* April 29. Accessed June 1, 2015.
+———. 2015b. ["The Future of Crowdsourcing in the Classroom."](https://www.psychologytoday.com/blog/statistical-life/201504/the-future-crowdsourcing-in-the-classroom) *Statistical Life,* April 29. 
 
 Hoag, Melissa. 2013. ["Hearing ‘What Might Have Been’: Using Recomposition to Foster Music Appreciation in the Theory Classroom."](http://jmtp.ou.edu/journal-article/hearing-%E2%80%9Cwhat-might-have-been%E2%80%9D-using-recomposition-foster-music-appreciation-theory) *Journal of Music Theory Pedagogy* 27: 47–70.
 
@@ -185,7 +183,7 @@ King, Alison. 2002. ["Structuring Peer Interaction to Promote High-Level Cogniti
 
 Knyt, Erinn. 2014. [“Student Performance as Pedagogy in the Music History Survey Course.”](http://flipcamp.org/engagingstudents2/essays/knyt.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
-Knyt, Erinn E. 2013. ["Rethinking the Music History Research Paper Assignment."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/95) *Journal of Music History Pedagogy* 4 (1): 23-37.
+———. 2013. ["Rethinking the Music History Research Paper Assignment."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/95) *Journal of Music History Pedagogy* 4 (1): 23-37.
 
 Kulma, David, and Meghan Naxer. 2014. [“Beyond Part Writing: Modernizing the Curriculum.”](http://flipcamp.org/engagingstudents2/essays/kulmaNaxer.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
@@ -225,7 +223,7 @@ McClary, Susan. 2004. “Rap, Minimalism, and Structures of Time in Late Twentie
 
 ———. 1986. ["A Musical Dialectic from the Enlightenment: Mozart’s ‘Piano Concerto in G Major, K. 453.'"](http://www.jstor.org/stable/1354338) *Cultural Critique* 4: 129-69.
 
-McGranahan, Carole. 2014.[“What is Ethnography? Teaching Ethnographic Sensibilities without Fieldwork.”](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) *Teaching Anthropology* 4: 23-36.
+McGranahan, Carole. 2014. [“What is Ethnography? Teaching Ethnographic Sensibilities without Fieldwork.”](http://www.teachinganthropology.org/index.php/teach_anth/article/view/421/pdf_16) *Teaching Anthropology* 4: 23-36.
 
 McManus, Laurie. 2014. ["Playing by Ear: Listening Games in the Music History Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/130) *Journal of Music History Pedagogy* 5 (1): 23-39.
 
@@ -325,7 +323,7 @@ Shaffer, Kris. 2015. [“Homework is a Social Justice Issue.”](http://www.hybr
 
 ———. 2014a. ["Assessing Problem-based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) *Engaging Students: Essays in Music Pedagogy* 2. 
 
-———. 2014b. ["Student-centered Curriculum."](http://kris.shaffermusic.com/2014/12/student-centered-curriculum/) Blog post. Accessed June 5, 2015.
+———. 2014b. ["Student-Centered Curriculum."](http://kris.shaffermusic.com/2014/12/student-centered-curriculum/) Blog post. Accessed June 5, 2015.
 
 ———. 2013a. [“The Basic Flip.”](http://flipcamp.org/engagingstudents/shafferpt1.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
@@ -375,8 +373,6 @@ Whitehead, Alfred North. 1929. ["The Aims of Education and Other Essays."](https
 
 Whitman, Neal A. 1988. [*Peer Teaching: To Teach is to Learn Twice.*](http://eric.ed.gov/?id=ED305016) College Station, TX: Association for the Study of Higher Education.
 
-Wikipedia. ["List of Songs Containing the I–V–vi–IV Progression."](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression) Accessed June 10, 2015.
-
 Wu, Hung-Hsi. 2014. [“Building Better Mathematics Teachers.”](http://math.berkeley.edu/~wu/AMSNotices_2014.pdf) Accessed August 18, 2015.
 
 Wu, Michael. 2012. ["Gamification 101: The Psychology of Motivation."](https://community.lithium.com/t5/Science-of-Social-blog/Gamification-101-The-Psychology-of-Motivation/ba-p/21864) *Science of Social,* July 2.
@@ -388,3 +384,5 @@ Yates, Cliff. 2007. ["Writing like Writers in the Classroom: Free Writing and Fo
 Zbikowski, Lawrence M., and Charles K. Long. 1994. [“Cooperative Learning in the Music Theory Classroom.”](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Long_1994.pdf) *Journal of Music Theory Pedagogy* 8: 135–57.
 
 Zoller, Uri. 1993. ["Are Lecture and Learning Compatible? Maybe for LOCS: Unlikely for HOCS."](http://pubs.acs.org/doi/abs/10.1021/ed070p195) *Journal of Chemical Education* 70 (3): 195-197. 
+
+2015\. ["Research Spotlight on Peer Tutoring."](http://www.nea.org/tools/35542.htm) National Education Association. Accessed May 27, 2015.
