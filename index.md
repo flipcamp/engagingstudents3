@@ -6,15 +6,13 @@ _Engaging Students: Essays in Music Pedagogy_ presents short essays on the subje
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
  
-# Contents
-
-## Front matter 
+# Front matter 
 
 [Foreword: Time to Change Your Mind]({{ site.baseurl }}/essays/schubert.html)  
 Peter Schubert
 
 
-## Essays
+# Essays
 
 [Promoting Contemporary Music Engagement through the Composer Interview Project]({{ site.baseurl }}/essays/dean.html)  
 Terry L. Dean
@@ -65,7 +63,7 @@ Daniel B. Stevens
 Alexa Woloshyn
 
 
-## Back matter 
+# Back matter 
 
 [Bibliography]({{ site.baseurl }}/bibliography.html)
 
