@@ -37,7 +37,7 @@ Beyond the immediate objective of providing students with a way of interacting w
 
 ## Appendix
 
-[Appendix A]({{ site.baseurl }}/images/dean00.jpg)
+[Appendix A]({{ site.baseurl }}/images/deanRubric.pdf)
 
 
 
