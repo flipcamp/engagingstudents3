@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crowdsourcing with Spotify in the Music Classroom
-author: Brian Hoffman, University of Central Florida
+author: Brian D. Hoffman, University of Central Florida
 ---
 
 {{ page.title }}

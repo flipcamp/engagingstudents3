@@ -21,7 +21,7 @@ Terry L. Dean
 Anna Ferenc
 
 [Crowdsourcing with Spotify in the Music Classroom]({{ site.baseurl }}/essays/hoffman.html)  
-Brian Hoffman
+Brian D. Hoffman
 
 [Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation]({{ site.baseurl }}/essays/jarvis.html)  
 Brian Jarvis
