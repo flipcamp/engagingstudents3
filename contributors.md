@@ -53,7 +53,7 @@ Sam L. Richards is a Visiting Professor of Music Theory and Composition at Brigh
 
 ## Amanda L. Scherbenske
 
-Amanda L. Scherbenske, PhD (Wesleyan University, 2014) is an ethnomusicologist whose research spans American and East European Jewish musics, with theoretical interests in musical multiplicity, space and place, affective labor, and genre construction. Her work has been published in *Ethnomusicology*, *Yearbook for Traditional Music*, *American Music Review*, and *MUSICultures*, among others. Her current book project, *Resounding Multiplicity: New York Improviser-Composers and the Politics of Belonging*, is an ethnographic and social study of contemporary avant-garde, jazz, and experimental musicians who perform across a variety of overlapping scenes and art worlds. She teaches undergraduate courses in ethnomusicology, world music, and music humanities.
+Amanda L. Scherbenske, PhD (Wesleyan University) is an ethnomusicologist whose research spans American and East European Jewish musics, with theoretical interests in musical multiplicity, space and place, affective labor, and genre construction. Her work has been published in *Ethnomusicology*, *Yearbook for Traditional Music*, *American Music Review*, and *MUSICultures*, among others. Her current book project, *Resounding Multiplicity: New York Improviser-Composers and the Politics of Belonging*, is an ethnographic and social study of contemporary avant-garde, jazz, and experimental musicians who perform across a variety of overlapping scenes and art worlds. She teaches undergraduate courses in ethnomusicology, world music, and music humanities.
 
 ## Peter Schubert
 
