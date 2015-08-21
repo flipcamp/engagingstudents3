@@ -23,7 +23,7 @@ My approach builds on [Zbikowski and Long’s](http://zbikowski.uchicago.edu/pdf
 
 **Example 1.** Joseph Haydn, Symphony No. 101, excerpt.
 
-<a href="{{ site.baseurl }}/images/segall01.png"><img src="{{ site.baseurl }}/images/segall01.png" alt="Joseph Haydn, Symphony No. 101, excerpt." /></a>
+<a href="{{ site.baseurl }}/images/segall01.jpg"><img src="{{ site.baseurl }}/images/segall01.jpg" alt="Joseph Haydn, Symphony No. 101, excerpt." /></a>
 
 An example from [Haydn’s Symphony No. 101](http://imslp.org/wiki/Symphony_No.101_in_D_major,_Hob.I:101_(Haydn,_Joseph)) illustrates the type of class debate possible. (The exercise appears in Caplin’s textbook; all annotations are mine.) My students accounted for the expanded five-measure consequent in two ways. Some students heard its basic idea as being extended, with the melodic motive of measure 7 repeated and varied in measure 8. Others heard its contrasting idea as being expanded, with the harmonic progression of measures 4–5 stretched out across measures 8–10. Although the latter interpretation is more consistent with Caplin’s harmonic emphasis, the conflict between interpretations contributes to the specific experience of the passage. As in the original [*Classical Form*](http://openlibrary.org/books/OL679075M/Classical_form), Caplin’s notational system can be used creatively to highlight the ambiguity.
 
