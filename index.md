@@ -50,7 +50,7 @@ Sam L. Richards
 [Student-Centered Learning Strategies for Teaching World and Popular Musics]({{ site.baseurl }}/essays/scherbenske.html)  
 Amanda L. Scherbenske
 
-[You, Y'all, We]({{ site.baseurl }}/essays/segall.html)  
+[You, Y'all, We: A Framework for Cooperative Learning]({{ site.baseurl }}/essays/segall.html)  
 Christopher Segall
 
 [Breaking (Musical) Stuff as an Act of (Music) Criticism]({{ site.baseurl }}/essays/stevens1.html)  
