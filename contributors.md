@@ -69,4 +69,4 @@ Christopher Segall is Assistant Professor of Music Theory at the College-Conserv
 
 ## Alexa Woloshyn
 
-[Alexa Woloshyn](https://independent.academia.edu/AlexaWoloshyn), PhD (University of Toronto) is a musicologist specializing in electroacoustic music, Aboriginal avant-garde and dance music, and contemporary vocal music. Recent articles on electroacoustic composers Robert Normandeau and Hildegard Westerkamp have appeared in *Circuit: Musiques contemporaines* and *eContact!.* She has presented on higher education pedagogy in the music classroom at the Society for Teaching and Learning in Higher Education conference and the Toronto International Electroacoustic Symposium. She has taught undergraduate and graduate courses on 20th-century music, popular music, opera, and literature.
+[Alexa Woloshyn](https://independent.academia.edu/AlexaWoloshyn), PhD (University of Toronto) is a musicologist specializing in electroacoustic music, Aboriginal avant-garde and dance music, and contemporary vocal music. Recent articles on electroacoustic composers Robert Normandeau and Hildegard Westerkamp have appeared in *Circuit: Musiques contemporaines* and *eContact!*.
