@@ -33,7 +33,7 @@ In this brief essay, I’ll explore three general kinds of “responsive videos,
 
 **Example 1.** Your studio doesn’t need to be elaborate. Ours had humble beginnings.
 
-<img src="{{ site.baseurl }}/images/ohara01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/ohara01.png" alt="Like the early experiment shown in this image, the simplest overhead camera set up might include only a smartphone affixed to a yardstick (or similar support), suspended above your desk by whatever means are available: a trashcan, a few stacks of books." />
 
 Just as the production of “flipped” content may be scaled up or down based on one’s technical capabilities, resources, and preparation time, so too may the production values of responsive videos. [Stephen Gosden’s](http://flipcamp.org/engagingstudents/gosden.html) account of the “technology tools” session at FlipCamp 2013 gives a useful overview of some of the hardware and software options available to instructors. The video below describes the simple studio setup I’ve used in my work with the [Derek Bok Center for Teaching and Learning](http://bokcenter.harvard.edu/), and in my own teaching; additional tutorials on the finer points of video editing, [such as this one](https://www.youtube.com/watch?v=tGF0EpjZNz8), are readily available online. In my usual setup, the instructor sits at a small table and speaks into one camera, while a second camera, suspended above the table, captures notes, documents, or demonstrations. This basic setup can be reduced or expanded as necessary. For example, In many of my own teaching videos and especially in my multimedia evaluations, I’ve added a keyboard and a computer. At the Bok Center, we typically use a pair of [mid-level (“pro-sumer”) DSLR cameras](http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_70d), but I’ve also produced effective videos at home or in my office using my built-in computer camera and simple tablet capture (using an app such as ["Explain Everything"](http://explaineverything.com/)). And as the photo above demonstrates, some resourcefulness and a smartphone can go a long way.
 
@@ -51,7 +51,7 @@ Responsive videos are also ideal for fielding the interesting but off-topic (or 
 
 **Example 2.** Beethoven’s Symphony No. 5, mm. 1–27. [*Piano transcription by Franz Liszt*](http://petrucci.mus.auth.gr/imglnks/usimg/9/99/IMSLP01056-Beethoven-Liszt_Symphony-5.pdf).
 
-<img src="{{ site.baseurl }}/images/ohara00.png" alt="image" />
+<img src="{{ site.baseurl }}/images/ohara00.png" alt="Image of the opening of Beethoven's Fifth Symphony, highlighting the Italian augmented-sixth chord in measure 20, at the end of the opening sentence." />
 
 In much the same way, presenting post-class “enrichment” videos can help class content to branch out rhizomatically, connecting musical examples and discussion topics that arise in class with additional examples from other genres or repertoires. This helps interested students to connect course concepts with the music that they find most relevant, and can expand the generally restricted repertoire of the music theory classroom according to the interests of individual students, groups of students, or teaching assistants.
 
