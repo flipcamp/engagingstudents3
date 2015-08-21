@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Appreciation and General Education in the College Classroom: Four Activities to Create Meaningful Musical Engagement"
-author: Alexa Woloshyn, ??? (institution)
+author: Alexa Woloshyn
 ---
 
 {{ page.title }}
