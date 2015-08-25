@@ -2,6 +2,7 @@
 layout: post
 title: Engaging Students – Essays in Music Pedagogy, Volume 3
 ---
+
 _Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the third volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
@@ -69,35 +70,6 @@ Alexa Woloshyn
 
  
 
-# Authors
-
-<!--
-[Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
-[Sara Bakker]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
-[Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
-[Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
-[Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
-[Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
-[Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
-[John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Cincinnati College-Conservatory of Music    
-[Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
-[David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
-[Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
-[Gregory R. McCandless]({{ site.baseurl }}/essays/mccandless.html), Full Sail University  
-[Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
-Jan Miyake ([1]({{ site.baseurl }}/essays/miyake1.html), [2]({{ site.baseurl }}/essays/miyake2.html)), Oberlin College and Conservatory  
-[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  
-[Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
-[Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
-[Nancy Rogers]({{ site.baseurl }}/essays/rogers.html), Florida State University  
-[Peter Schubert]({{ site.baseurl }}/essays/schubert.html), Schulich School of Music, McGill University  
-[Kris Shaffer]({{ site.baseurl }}/essays/shaffer.html), University of Colorado–Boulder  
-[Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
-[Anna Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html), West Liberty University  
-[Daniel Stevens]({{ site.baseurl }}/essays/stevens.html), University of Delaware  
-[Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
-[Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
--->
 
 # Editorial Board
 
