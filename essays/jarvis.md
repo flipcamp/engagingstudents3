@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation"
-author: Brian Jarvis, University of Texas–El Paso
+author: Brian Edwards Jarvis, University of Texas–El Paso
 ---
 
 {{ page.title }}
@@ -27,13 +27,13 @@ I parallel this language-learning environment by improvising lengthy progression
 
 **Example 1.** *An idealized outcome of an improvised four-measure phrase. To be played slowly and repeated, “reworded” \[defined below\], and extended as necessary.*
 
-<img src="{{ site.baseurl }}/images/jarvis02.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis02.png" alt="Notation of a four-measure harmonic progression in chorale style." />
 
 I play a chord on the downbeat of a simple quadruple measure and my students call out the harmonic function on beat three of that same measure as shown in Example 2 (the rhythmic values have been multiplied by four for ease of demonstration).
 
 **Example 2.** *Notation of how my playing is aligned with my students’ responses.*
 
-<img src="{{ site.baseurl }}/images/jarvis03.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis03.png" alt="Annotated score of a choral-style progression that illustrates the metric location of when the instructor plays the chord and when the students provide their answer." />
 
 The students speak just the first letter of the chord’s harmonic function, that is, “T” for tonic, “P” for predominant, “D” for dominant, and “C” for all chromatic chords. More specificity in the chromatic category is easily attained by using the first letter of common chromatic chords or groups of chromatic chords (for example, “N” for Neapolitan, “A” for augmented-sixth chords, “M” for modal mixture, and “S” for secondary chords in general). Some students will inevitably know the answer before others, so having them announce it collectively has the dual benefit of not allowing the answer to be revealed early and helps the students to feel secure in offering up an uncertain answer as it won’t stand out like a sore thumb. Additionally, [Philip Duker’s clicker method](http://flipcamp.org/engagingstudents/duker.html) can easily be incorporated to (1) allow for completely anonymous feedback, (2) maximize the accuracy in real-time communication between the students and instructor, and (3) greatly increase the level of specificity of chord labels being announced aloud by the group. The T–P–D–C labeling system is by no means complete, but for the majority of situations it serves its function quite well. Incorporating clickers would also work quite well for cultivating more subtle harmonic distinctions like the difference between the various augmented-sixth chords by offering only a menu of those chords. To continue the language analogy, “vocabulary” quizzes can be achieved by asking the students to respond only when they hear a specific chord (ii°<sup>6</sup>), harmonic category (dominant), or harmonic technique (tonic expansion).
 
@@ -43,19 +43,19 @@ Just as the native speaker in the example above will recognize and respond to th
 
 The original harmonic progression:
 
-<img src="{{ site.baseurl }}/images/jarvis01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis01.png" alt="Four-measure, chorale-style progression illustrating that the students have misidentified the second chord in measure three." />
 
 I “reword” the partial progression with a simple adjustment (in this case, replacing I<sup>6</sup> with ii<sup>6</sup>) and then explore the difference between the two until the students demonstrate competence:
 
-<img src="{{ site.baseurl }}/images/jarvis00.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis00.png" alt="Comparison of the original third measure and a 'reworded' version." />
 
 I then return the excerpted progression to its original context and alternate it with the “reworded” version:
 
-<img src="{{ site.baseurl }}/images/jarvis05.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis05.png" alt="Original progression shown with both versions of measure three shown as options for comparison." />
 
 Once my students exhibit competence with the original progression, I place the issue into a new context of substantial length, again making sure to repeat, “reword,” and vary as necessary.
 
-<img src="{{ site.baseurl }}/images/jarvis04.png" alt="image" />
+<img src="{{ site.baseurl }}/images/jarvis04.png" alt="Four-measure, chorale-style progression that tests the problem progression in a new context and illustrates an evaded resolution." />
 
 Keeping in mind the goal of nurturing statistical learning, I constantly revisit progressions from the past and in the course of a single session I make sure to return to any problematic progressions after moving on to different ones. They are still not writing anything down (though, they can easily do so for quizzing and testing purposes), so each time through the progression the students are actively attempting to consider the chords’ functions anew or reinforcing the connections that led them to the correct answer in the first place. In either case, their brains are sorting through the continuous data and strengthening correct neurological connections or reevaluating incorrect ones. Asking students to consciously track bass scale degrees allows for Roman numerals to be identified in roughly the same manner (i.e., called aloud by the students as in Example 2) and leaves room for the instructor to decide if they wish to spend time on the difference between very similar chords like V<sup>6</sup> and V<sup>6/5</sup> or to accept both and pursue larger distinctions.
 
@@ -65,7 +65,7 @@ This activity is easy to incorporate into existing aural-skills curricula by beg
 
 In order to capitalize upon the effects of statistical learning that will increase our students’ ability to hear more and more harmonic progressions as a Gestalt, the improvisatory and harmonically immersive process outlined here offers a way to present students with enough repetitions, reevaluations, and varying conditions that will allow them to dramatically increase their ability to hear harmony holistically. A further extension of this method would be to turn the activity over to the students. Doing so allows them to “speak” tonal harmony and is a great way to extend their keyboard training while offering them the opportunity to practice with each other outside of class. As an end-of-semester project they could work towards leading the activity themselves in class (or a simplified version of it).
 
-The most important benefit of the approach outlined in this essay is that it trains students to pair their in-time experience of harmony with their theoretical training in a way that allows them to hear and understand harmony in real music while they listen, an important end goal of the aural-skills training sequence. When incorporated with the types of contextual listening exercises advocated in modern texts like [*Aural Skills in Context*](https://global.oup.com/academic/product/aural-skills-in-context-9780199943821?cc=us&lang=en&), [*The Musician’s Guide to Aural Skills*](http://books.wwnorton.com/books/webad.aspx?id=20354), and [*Strategies and Patterns for Ear Training*](https://openlibrary.org/books/OL10083743M/Strategies_and_Patterns_for_Ear_Training), students will be well equipped to enter their professional musical lives ready to make the types of connections between experience and intellect that seasoned professionals rely upon regularly for the purposes of understanding and communicating musical information.
+The most important benefit of the approach outlined in this essay is that it trains students to pair their in-time experience of harmony with their theoretical training in a way that allows them to hear and understand harmony in real music while they listen, an important end goal of the aural-skills training sequence. When incorporated with the types of contextual listening exercises advocated in modern texts like [*Aural Skills in Context*](https://global.oup.com/academic/product/aural-skills-in-context-9780199943821?cc=us&lang=en&), [*The Musician’s Guide to Aural Skills*](http://books.wwnorton.com/books/webad.aspx?id=20355), and [*Strategies and Patterns for Ear Training*](https://openlibrary.org/books/OL10083743M/Strategies_and_Patterns_for_Ear_Training), students will be well equipped to enter their professional musical lives ready to make the types of connections between experience and intellect that seasoned professionals rely upon regularly for the purposes of understanding and communicating musical information.
 
 <p class="copyright">This work is copyright ⓒ2015 Brian Jarvis and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
 

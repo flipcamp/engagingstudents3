@@ -24,7 +24,7 @@ Anna Ferenc
 Brian D. Hoffman
 
 [Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation]({{ site.baseurl }}/essays/jarvis.html)  
-Brian Jarvis
+Brian Edwards Jarvis
 
 [Technology in Schoenberg’s “School of Criticism”: A Lesson from the Past]({{ site.baseurl }}/essays/jenkins.html)  
 J. Daniel Jenkins
