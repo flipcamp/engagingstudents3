@@ -77,20 +77,20 @@ Colleen Renihan
 [Bibliography]({{ site.baseurl }}/bibliography.html)
 
 
-# Editorial Board
+# Editorial & Review Board
 
 Carla Colletti, Webster University  
-Philip Duker, University of Delaware  
+Philip Duker, University of Delaware, co-editor  
 Dave Easley, Oklahoma City University  
-Anna Gawboy, Ohio State University  
+Anna Gawboy, Ohio State University, co-editor  
 Philip Gentry, University of Delaware  
 Stephen Gosden, University of North Florida  
-Bryn Hughes, University of Lethbridge  
+Bryn Hughes, University of Lethbridge, co-editor  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
 Daniel Jenkins, University of South Carolina  
 Garrett Michaelson, University of Massachusetts–Lowell  
 Brian Moseley, The University at Buffalo, SUNY  
-Meghan Naxer, University of Oregon  
+Meghan Naxer, University of Oregon, production editor  
 Colin Roust, Roosevelt University  
-Kris Shaffer, University of Colorado–Boulder  
+Kris Shaffer, University of Colorado–Boulder, production editor  
 Daniel Stevens, University of Delaware
