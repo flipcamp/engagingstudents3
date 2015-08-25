@@ -93,7 +93,7 @@ Elliott, David. 1995. [*Music Matters: A Philosophy of Music Education.*](http:/
 
 Emig, Janet. 1977. ["Writing as a Mode of Learning."](http://www.jstor.org/stable/356095) *College Composition and Communication* 28 (2): 122-128.
 
-Engebretsen, Nora A, and Per F Broman. 2007. [“Transformational Theory in the Undergraduate Curriculum: A Case for Teaching the Neo-Riemannian Approach.”](http://jmtp.ou.edu/journal-article/transformational-theory-undergraduate-curriculum-case-teaching-neo-riemannian) *Journal of Music Theory Pedagogy* 21: 39–69.
+Engebretsen, Nora A., and Per F. Broman. 2007. [“Transformational Theory in the Undergraduate Curriculum: A Case for Teaching the Neo-Riemannian Approach.”](http://jmtp.ou.edu/journal-article/transformational-theory-undergraduate-curriculum-case-teaching-neo-riemannian) *Journal of Music Theory Pedagogy* 21: 39–69.
 
 Fain, Paul. 2014. ["Experimenting With Aid."](https://www.insidehighered.com/news/2014/07/23/competency-based-education-gets-boost-education-department) Inside Higher Ed. Accessed June 15.
 

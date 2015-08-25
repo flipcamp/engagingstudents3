@@ -21,7 +21,7 @@ Brian D. Hoffman is an Assistant Professor of Music Theory at the University of 
 
 ## Brian Edward Jarvis
 
-[Brian Edward Jarvis](http://www.brianedwardjarvis.com) is a Visiting Assistant Professor of Music Theory at the [University of Texas at El Paso](http://www.utep.edu/) and holds a Ph.D. in Music Theory from Florida State University. His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=8578&context=etd) introduces an approach to large-scale film-music analysis that focuses on collaborations between the Joel & Ethan Coen and Carter Burwell. His other scholarly interests include form, harmony, and phrase structure in the 18^th^ and 19^th^ centuries with a special focus on the music of Charles Valentin Alkan.
+[Brian Edward Jarvis](http://www.brianedwardjarvis.com) is a Visiting Assistant Professor of Music Theory at the [University of Texas at El Paso](http://www.utep.edu/) and holds a Ph.D. in Music Theory from Florida State University. His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=8578&context=etd) introduces an approach to large-scale film-music analysis that focuses on collaborations between Joel & Ethan Coen and Carter Burwell. His other scholarly interests include form, harmony, and phrase structure in the eighteenth and nineteenth centuries with a special focus on the music of Charles Valentin Alkan.
 
 ## J. Daniel Jenkins
 
