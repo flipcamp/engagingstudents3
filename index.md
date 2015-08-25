@@ -73,20 +73,17 @@ Alexa Woloshyn
 
 # Editorial Board
 
-<!--
-Sean Atkinson, Texas Christian University  
 Carla Colletti, Webster University  
-Philip Duker, University of Delaware, coordinator  
+Philip Duker, University of Delaware  
 Dave Easley, Oklahoma City University  
-Anna Gawboy, Ohio State University, coordinator  
+Anna Gawboy, Ohio State University  
 Philip Gentry, University of Delaware  
 Stephen Gosden, University of North Florida  
-Bryn Hughes, University of Miami, coordinator  
+Bryn Hughes, University of Lethbridge  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
 Daniel Jenkins, University of South Carolina  
 Brian Moseley, The University at Buffalo, SUNY  
 Meghan Naxer, University of Oregon  
 Colin Roust, Roosevelt University  
-Kris Shaffer, University of Colorado–Boulder, coordinator  
+Kris Shaffer, University of Colorado–Boulder  
 Daniel Stevens, University of Delaware
--->
