@@ -9,6 +9,9 @@ author: J. Daniel Jenkins, University of South Carolina
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 On June 8, 1934, as he continued work on the longest of his [*Gedanke*](https://openlibrary.org/works/OL9266649W/The_Musical_Idea_And_the_Logic_Technique_And_Art_of_Its_Presentation) manuscripts, Arnold Schoenberg wrote some thoughts about how listeners process musical information:
 
 > The ability to recognize depends very largely upon familiarity with related, similar, or like objects… Consequently in many ways recognition is re-recognition. This is so even where a (relatively) new object is involved whose (old) constituent elements are familiar and can be recognized ([Schoenberg 2006, 117](https://openlibrary.org/works/OL9266649W/The_Musical_Idea_And_the_Logic_Technique_And_Art_of_Its_Presentation)).

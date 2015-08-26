@@ -9,7 +9,9 @@ author: Peter Schubert, Schulich School of Music, McGill University
 
 **{{ page.author }}**
 
-
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 Two nice things about living a long time: you have a lot of past experiences (if you can remember them), and you still have time to change your mind. Recently, as I neared retirement age, I changed my mind about music theory teaching and began revising my methods. This short essay is about a culture gap between what I call “geezerland” (i.e., profs over 50 like me) and the cohort of younger teachers who feel the need to freshen up college-level music teaching, who are promoting the “flipped classroom” and the *Engaging Students* publications. When I discovered them, I was delighted to see that I had stumbled into a 60s-style movement!
 
 And I was surprised that these younger folks had come to their epiphany at a much younger age than I had; why had it taken me so long to question my teaching? I suspected for years that there was something wrong, but until it was held up to me by a smart undergraduate (I’ll spare you [the details of this story](http://jmtp.ou.edu/journal-article/global-perspective-music-theory-pedagogy-thinking-music)), I just looked the other way and went on teaching as I had been taught. Probably the hardest thing for profs in geezerland, especially in a conservative discipline like music theory, is to depart from their own upbringing. In the short essays in *Engaging Students* you will run across five themes that are stumbling blocks for the older crowd:

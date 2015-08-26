@@ -9,6 +9,9 @@ author: Sam L. Richards, Brigham Young University
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 > There is a deep, long-standing, and now increasingly dysfunctional divide between the historic classical music practices and the contemporary ones that draw upon a much broader range of aural, notated, analog, and digital forms of music making...At this point, our educational models and practices represent a bizarre misfit with the contemporary world that would be impossible to imagine in virtually any other field.” –Roger Johnson in [“Critically Reflective Musicianship”](https://openlibrary.org/works/OL16950546W/Music_education_for_changing_times)
 
 ## Introduction

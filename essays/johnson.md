@@ -9,6 +9,9 @@ author: Vicky Johnson, Tarleton State University
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 Teaching in a traditional music theory sequence, I am continually baffled by intelligent students who fail music theory courses. Class rankings at the end of the theory courses often produce a very nice bell curve. However, since a “D” grade is not passing in our program, 15–20% of the students have to retake the course.
 
 As a regional university, the music theory background of our students spans the gamut between multiple years of private lessons and AP Music Theory courses in high school to players/singers who can only read one clef. Keeping the class on task requires the pace to be too slow for the former group of students and too fast for the latter.

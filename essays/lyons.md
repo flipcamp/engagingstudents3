@@ -9,6 +9,9 @@ author: Megan Lyons, The University of Delaware
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 ## Background
 
 Students are often apprehensive about aural skills and ear training classes. The intangible nature of the content covered in these courses presents a challenge for working outside of the classroom, where many students feel they need guided instruction. Online resources, such as [Teoria](https://www.teoria.com/) and [MusicTheory.net](http://www.musictheory.net/), provide great ways for students to rehearse; however, these resources cannot provide verbal feedback or break the exercises down into smaller units if a student is struggling. Peer tutoring for students who have difficulties in aural skills can be an invaluable resource that provides the explanations, support, and encouragement that these electronic resources cannot. In this essay I will describe a method for peer tutoring that I created as the Undergraduate Peer Coordinator at the University of Delaware (UD), and offer tools and suggestions on how to set up and run an Aurals Lab effectively.

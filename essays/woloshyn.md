@@ -7,6 +7,9 @@ author: Alexa Woloshyn
 {{ page.title }}
 ================
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 **{{ page.author }}**
 
 I bring many goals to my general education courses: arm students with a vocabulary precise enough to let them share with me and others what they hear in and enjoy about music; help students understand the historical and socio-cultural context of particular musical practices and works; foster a love for music that is greater than when they entered my classroom; encourage them to listen to live music; and facilitate their sonic creativity. But too often general education students see themselves as outsiders to the musical process, not capable of engaging with music or musical practices directly.

@@ -9,6 +9,9 @@ author: Daniel B. Stevens, University of Delaware
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 ## Introduction
 
 The mind, it’s been said, is not capable of fully understanding the answer to a question that it has not yet asked. Jumping right into a score-based or aural analysis of a full piece is, for most students, like reading the answers before they have been able to formulate a single probing question. They might get the labels right without appreciating their musical significance ― i.e., the questions they answer.

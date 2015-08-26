@@ -9,6 +9,9 @@ author: William O’Hara, Harvard University
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 Educational videos are usually designed to be watched before a class meeting (as in the ["flipped classroom"](http://flipcamp.org/engagingstudents/shafferpt1.html) model), or in place of the meeting itself (as in online courses). In this essay, I show how instructional videos can be useful when produced and viewed *after* a given class meeting as well. I call these videos “responsive,” because they’re produced in reaction to the events of a class meeting, or to an individual student’s work. Responsive videos are not intrinsically a way of flipping the classroom (though they could be used in concert with such videos), or of moving in-person instructional time online. Rather, they supplement instructional time, creating more frequent and personal connections with students. In a sense, they *flip* the flipped classroom itself: while flipped lectures and [*Just-in-Time Teaching*](http://flipcamp.org/engagingstudents/hughes.html) prepare students to make the most of that day’s class, responsive videos *prolong* instructional time, summarizing and extending a lesson or discussion beyond the closing bell.
 
 Responsive videos are more than technological, however; they embody a particular pedagogical philosophy, a student-centered praxis similar to the one [described by Chris Friend](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/), who writes:

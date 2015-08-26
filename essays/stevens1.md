@@ -9,6 +9,9 @@ author: Daniel B. Stevens, University of Delaware
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 *To educate as the practice of freedom is a way of teaching that anyone can learn.* –[bell hooks](https://openlibrary.org/works/OL17114886W/Teaching_To_Transgress)
 
 ## On Breaking Stuff
