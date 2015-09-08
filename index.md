@@ -87,7 +87,7 @@ Philip Gentry, University of Delaware
 Stephen Gosden, University of North Florida  
 Bryn Hughes, University of Lethbridge, co-editor  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
-Daniel Jenkins, University of South Carolina  
+J. Daniel Jenkins, University of South Carolina  
 Garrett Michaelson, University of Massachusetts–Lowell  
 Brian Moseley, The University at Buffalo, SUNY  
 Meghan Naxer, University of Oregon, production editor  
