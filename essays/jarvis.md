@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation"
-author: Brian Edwards Jarvis, University of Texas–El Paso
+author: Brian Edward Jarvis, University of Texas–El Paso
 ---
 
 {{ page.title }}

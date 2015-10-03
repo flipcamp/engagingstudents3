@@ -36,7 +36,7 @@ Terry L. Dean
 Anna Ferenc
 
 [Hearing Harmony Holistically: Statistical Learning and Harmonic Dictation]({{ site.baseurl }}/essays/jarvis.html)  
-Brian Edwards Jarvis
+Brian Edward Jarvis
 
 [Training Ears with Peers: Establishing an Aural Skills Peer Tutoring Center]({{ site.baseurl }}/essays/lyons.html)  
 Megan Lyons
